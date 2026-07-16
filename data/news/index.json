@@ -1,8 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-16T22:25:00+08:00",
+  "updatedAt": "2026-07-17T06:28:23+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-17",
+      "title": "全球重要资讯每日简报",
+      "summary": "Google Gemini延期、29国签署AI合作组织协定、美伊升级、芯片股回落与世界杯决赛等10条重要信息。",
+      "path": "data/news/2026-07-17.json"
+    },
     {
       "date": "2026-07-16",
       "title": "全球重要资讯每日简报",

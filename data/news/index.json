@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-16T22:25:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "date": "2026-07-16",
+      "title": "全球重要资讯每日简报",
+      "summary": "TSMC扩产、欧盟Google互操作要求、中东风险与世界杯半决赛等8条重要信息。",
+      "path": "data/news/2026-07-16.json"
+    }
+  ]
+}

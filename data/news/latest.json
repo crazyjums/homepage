@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T22:25:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "TSMC上调资本开支并扩大美国投资，显示AI算力需求仍在推动半导体产能扩张。",
+    "欧盟要求Google向竞争对手开放Android关键能力与匿名化搜索数据，AI入口竞争进入监管执行阶段。",
+    "中东紧张局势推高能源与利率预期，美元、黄金和全球风险资产重新定价。"
+  ],
+  "topStory": "TSMC公布创纪录季度利润、上调2026年资本开支，并承诺在美国追加1000亿美元投资。它同时验证了AI基础设施需求的强度，也把先进制程、封装产能与全球供应链布局推到新的投资周期。",
+  "editorialNote": "本期仅收录过去24小时内能够核验且影响显著的8条信息；未为凑满10条而加入低价值或来源不足的内容。",
+  "news": [
+    {
+      "id": "eu-google-android-search-dma-2026-07-16",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "欧盟要求Google向AI与搜索竞争对手开放Android能力和搜索数据",
+      "summary": "欧盟监管机构依据《数字市场法》给出具有约束力的执行要求：Google需向符合安全与隐私条件的第三方AI助手开放Android的11项关键能力，并向搜索与带搜索功能的AI服务共享匿名化数据。",
+      "impact": "Android上的AI助手入口和搜索训练数据将不再完全由Google独占，竞争者获得更深系统集成的机会；Google则需在互操作、隐私和安全审查之间建立新的合规机制。",
+      "whyItMatters": "这不是原则性倡议，而是带有明确实施节点的监管要求，可能直接改变欧洲AI助手、搜索服务和移动生态的竞争结构。",
+      "eventTime": "2026-07-16T12:04:08Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/",
+          "publishedAt": "2026-07-16T12:04:08Z"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/184b3067120e56d858cb8c81aee26d45",
+          "publishedAt": "2026-07-16T12:02:54Z"
+        }
+      ]
+    },
+    {
+      "id": "tsmc-q2-capex-arizona-2026-07-16",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "TSMC利润创新高，并计划在美国追加1000亿美元投资",
+      "summary": "TSMC第二季度利润同比增长77%至7066亿新台币，高于市场预期；公司将2026年资本开支指引提高到600亿至640亿美元，并计划在亚利桑那州追加1000亿美元投资。",
+      "impact": "先进制程与CoWoS等封装环节的投入继续加速，上游设备、材料与数据中心建设需求受益，但巨额扩产也提高了行业对AI需求持续性的依赖。",
+      "whyItMatters": "TSMC是全球先进AI芯片供应链的核心节点，其订单、资本开支和产能规划是判断AI基础设施周期是否延续的关键领先指标。",
+      "eventTime": "2026-07-15T23:03:15Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/tsmcs-second-quarter-profit-seen-hitting-record-ai-boom-2026-07-15/",
+          "publishedAt": "2026-07-15T23:03:15Z"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-japan-physical-ai-2026-07-16",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "Nvidia与日本机器人企业推进Physical AI合作",
+      "summary": "Nvidia宣布与Fanuc、安川电机等日本企业合作推进机器人与AI开发；日本政府支持的Noetra同时计划采购27500颗Nvidia Rubin芯片，用于建设Physical AI基础设施。",
+      "impact": "生成式AI投入正从云端模型训练扩展到机器人、制造与工业控制，对GPU、网络、仿真软件和边缘计算形成新的需求链。",
+      "whyItMatters": "日本拥有机器人、自动化和半导体设备优势，此次合作把Nvidia的平台能力与成熟工业场景结合，是Physical AI商业化的重要信号。",
+      "eventTime": "2026-07-16T04:56:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/",
+          "publishedAt": "2026-07-16T04:56:00Z"
+        }
+      ]
+    },
+    {
+      "id": "asml-euv-pricing-capacity-2026-07-15",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "ASML称先进EUV设备产能接近订满，并具备进一步提价空间",
+      "summary": "ASML首席财务官表示，公司部分光刻设备仍有提价空间；其先进EUV工具产能到2027年底已接近全部订满，正与客户讨论价格调整。",
+      "impact": "光刻环节的供给紧张和定价权可能抬高先进制程扩产成本，同时强化ASML在AI芯片供应链中的议价能力。",
+      "whyItMatters": "EUV是先进逻辑芯片不可替代的关键设备，产能和价格变化会直接影响AI芯片扩产速度、资本效率和晶圆代工厂利润分配。",
+      "eventTime": "2026-07-15T16:44:08Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/asml-has-room-raise-prices-cfo-says-2026-07-15/",
+          "publishedAt": "2026-07-15T16:44:08Z"
+        }
+      ]
+    },
+    {
+      "id": "china-waic-ai-governance-2026-07-16",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "上海WAIC将成为中国阐述全球AI治理路线的重要场合",
+      "summary": "报道显示，中国将在7月17日至20日举行的世界人工智能大会上进一步阐述全球AI治理主张，华为Atlas 950 SuperPoD等国产AI计算系统也将亮相。",
+      "impact": "AI竞争正在从模型和芯片延伸到国际治理、开源生态与发展中国家技术合作；中美在标准、监管和基础设施输出上的分歧可能更清晰。",
+      "whyItMatters": "大会尚未正式开始，具体表态仍需等待，但其议程同时覆盖技术自立、开源推广和国际组织倡议，具有政策与产业双重信号意义。",
+      "eventTime": "2026-07-16T03:42:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/chinas-xi-outline-ai-diplomacy-vision-key-shanghai-forum-2026-07-16/",
+          "publishedAt": "2026-07-16T03:42:00Z"
+        }
+      ]
+    },
+    {
+      "id": "dollar-inflation-fed-2026-07-16",
+      "category": "宏观经济与投资",
+      "importance": "medium",
+      "title": "美国通胀数据降温，美元徘徊在近一个月低位",
+      "summary": "连续两日较温和的美国通胀数据降低了市场对近期加息的预期，美元指数在100.50附近；但中东局势与能源价格上涨仍可能重新推高通胀和避险需求。",
+      "impact": "利率预期在软化的通胀数据与能源风险之间摇摆，外汇、国债和成长股估值可能继续对油价与央行表态高度敏感。",
+      "whyItMatters": "美元和美债收益率是全球资产定价的共同底层变量，当前方向并不单一，说明市场仍处于高波动的宏观再定价阶段。",
+      "eventTime": "2026-07-16T01:54:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/africa/dollar-near-one-month-low-cooling-inflation-curbs-fed-hike-bets-2026-07-16/",
+          "publishedAt": "2026-07-16T01:54:00Z"
+        }
+      ]
+    },
+    {
+      "id": "gold-oil-rate-risk-2026-07-16",
+      "category": "宏观经济与投资",
+      "importance": "high",
+      "title": "能源与利率预期上升推动黄金盘中下跌",
+      "summary": "中东紧张局势带动油价和美国国债收益率上升，现货黄金盘中一度下跌约2%，在13:26 GMT报每盎司4001.17美元；市场重新提高对9月加息的押注。",
+      "impact": "若能源价格持续上行，通胀回落可能被部分抵消，黄金、长久期资产和高估值科技股都将面临更高实际利率压力。",
+      "whyItMatters": "黄金与油价通常都受地缘风险影响，但本次黄金反而承压，说明利率和美元渠道暂时压过了传统避险需求。",
+      "eventTime": "2026-07-16T13:26:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/gold-falls-mideast-escalation-dims-hopes-easing-inflation-2026-07-16/",
+          "publishedAt": "2026-07-16T04:19:00Z"
+        }
+      ]
+    },
+    {
+      "id": "world-cup-argentina-england-semi-2026-07-15",
+      "category": "世界杯或重要体育新闻",
+      "importance": "high",
+      "title": "阿根廷2比1逆转英格兰，晋级世界杯决赛",
+      "summary": "阿根廷在世界杯半决赛末段连入两球，以2比1逆转英格兰；恩佐·费尔南德斯扳平，劳塔罗·马丁内斯在补时阶段完成反超，梅西参与两次助攻。",
+      "impact": "卫冕冠军将在决赛对阵西班牙，英格兰则无缘自1966年以来的首次世界杯决赛；末段战术选择成为赛后焦点。",
+      "whyItMatters": "这是本届世界杯的决定性比赛之一，也可能是39岁的梅西最后一次参加世界杯决赛。",
+      "eventTime": "2026-07-15T21:14:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/holders-argentina-beat-england-2-1-set-up-world-cup-final-against-spain-2026-07-15/",
+          "publishedAt": "2026-07-15T21:14:00Z"
+        }
+      ]
+    }
+  ],
+  "market": {
+    "updatedAt": "2026-07-16T22:20:00+08:00",
+    "marketStatus": "open",
+    "indices": [
+      { "symbol": "IXIC", "name": "纳斯达克指数", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "SPX", "name": "标普500", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "DJI", "name": "道琼斯指数", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "NDX", "name": "纳斯达克100", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "RUT", "name": "罗素2000", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "000001.SS", "name": "上证指数", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T07:00:00Z", "marketStatus": "closed" },
+      { "symbol": "000300.SS", "name": "沪深300", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T07:00:00Z", "marketStatus": "closed" },
+      { "symbol": "HSI", "name": "恒生指数", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T08:00:00Z", "marketStatus": "closed" },
+      { "symbol": "HSTECH", "name": "恒生科技指数", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T08:00:00Z", "marketStatus": "closed" },
+      { "symbol": "N225", "name": "日经225", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T06:00:00Z", "marketStatus": "closed" }
+    ],
+    "megaCapStocks": [
+      { "symbol": "AAPL", "name": "Apple", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "MSFT", "name": "Microsoft", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "NVDA", "name": "Nvidia", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "GOOGL", "name": "Alphabet", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "AMZN", "name": "Amazon", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "META", "name": "Meta", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "TSLA", "name": "Tesla", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" }
+    ],
+    "assets": [
+      { "symbol": "VIX", "name": "VIX", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "US10Y", "name": "美国10年期国债收益率", "value": 4.585, "changePercent": null, "unit": "%", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T02:09:09Z", "marketStatus": "open" },
+      { "symbol": "DXY", "name": "美元指数", "value": 100.5, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T01:54:00Z", "marketStatus": "open" },
+      { "symbol": "USDCNY", "name": "美元兑人民币", "value": null, "changePercent": null, "unit": "CNY", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "unknown" },
+      { "symbol": "XAUUSD", "name": "黄金", "value": 4001.17, "changePercent": -1.5, "unit": "USD/oz", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T13:26:00Z", "marketStatus": "open" },
+      { "symbol": "WTI", "name": "WTI原油", "value": null, "changePercent": null, "unit": "USD/bbl", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" },
+      { "symbol": "BTCUSD", "name": "比特币", "value": null, "changePercent": null, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T14:20:00Z", "marketStatus": "open" }
+    ]
+  }
+}

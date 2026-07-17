@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T06:31:39+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "Moonshot发布2.8万亿参数开放权重模型Kimi K3，中国开放模型竞争进一步升温。",
+    "习近平在上海提出AI开放、安全与全球治理主张，并宣布面向发展中国家的能力建设措施。",
+    "全球芯片股连续第三日下跌，美伊冲突扩大到桥梁和海水淡化设施，WTI结算价上涨4.48%。"
+  ],
+  "topStory": "Moonshot发布Kimi K3，并宣称其在长程编码和多步骤任务上接近美国前沿模型。它与上海WAIC提出的开放AI治理路线形成同日呼应，也直接触发市场对AI资本开支、芯片需求和中美模型竞争格局的重新评估。",
+  "editorialNote": "本期收录过去24小时内10条经核验的重要信息。中国相关新闻同时采用新华社、中国官方材料与国际媒体信源，并区分官方主张、监管事实和媒体分析。仅公布日期而无具体时刻的OFAC页面以00:00Z规范化，具体发布时刻不作推断。行情采用7月17日最新收盘或可核验盘后数据；无法取得可靠数值的项目保留为null。",
+  "news": [
+    {
+      "id": "moonshot-kimi-k3-open-model-2026-07-17",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "Moonshot发布2.8万亿参数开放权重模型Kimi K3",
+      "summary": "Moonshot发布Kimi K3，称其为目前参数规模最大的开放权重AI系统，拥有2.8万亿参数和100万Token上下文窗口，面向高级推理、长程编码与知识工作。独立评测显示其多项能力接近美国前沿模型。",
+      "impact": "更强的开放权重模型将压缩闭源模型的价格与性能优势，并可能改变企业在API采购、自托管和模型微调之间的选择。",
+      "whyItMatters": "Kimi K3不仅刷新开放模型规模，也把中国模型的竞争点推进到长程编码和复杂代理任务；但其巨大规模意味着本地部署成本仍然很高。",
+      "eventTime": "2026-07-17T02:06:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17/",
+          "publishedAt": "2026-07-17T02:06:00Z"
+        }
+      ]
+    },
+    {
+      "id": "xi-waic-ai-governance-speech-2026-07-17",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "习近平在WAIC提出开放、安全与全球AI治理主张",
+      "summary": "习近平在上海世界人工智能大会开幕式提出开放共赢、安全可控、文明互鉴和多边治理四点主张，强调AI应保持在人类控制之下，并宣布未来5年面向发展中国家提供5000个专题培训名额及建设国际AI应用合作中心。",
+      "impact": "中国正把开放模型、技术能力建设与新成立的政府间AI合作组织结合，争取在全球南方与国际AI规则制定中扩大影响力。",
+      "whyItMatters": "这是中国最高层对AI开放、安全与国际治理的集中表述；新华社呈现政策承诺，Reuters则将其解读为与美国主导倡议竞争的全球治理路线。",
+      "eventTime": "2026-07-17T10:02:56+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/leaders/20260717/72728b6f94154d63b3eaaaf9808b51eb/c.html",
+          "publishedAt": "2026-07-17T12:52:18+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+          "publishedAt": "2026-07-17T02:34:00Z"
+        }
+      ]
+    },
+    {
+      "id": "indonesia-ai-copyright-draft-2026-07-17",
+      "category": "编程与软件工程",
+      "importance": "high",
+      "title": "印尼版权法草案拟纳入AI训练与AI辅助作品规则",
+      "summary": "Reuters获得的印尼版权法草案拟要求平台为AI训练、新闻聚合和链接预览支付补偿；只有具备实质性人类创意投入的AI辅助作品可获版权，完全由AI生成的作品则不受保护。规则覆盖计算机程序、游戏、新闻和影视等内容。",
+      "impact": "软件平台、模型训练者和内容开发者可能面临新的许可、披露与付费义务，代码与数字内容的数据来源治理成本将上升。",
+      "whyItMatters": "这是东南亚大型数字市场尝试把AI训练、计算机程序与人类创作门槛写入版权法的重要案例，但草案尚未通过。",
+      "eventTime": "2026-07-17T09:48:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/indonesias-copyright-rewrite-puts-google-ai-platforms-notice-2026-07-17/",
+          "publishedAt": "2026-07-17T09:48:00Z"
+        }
+      ]
+    },
+    {
+      "id": "clover-health-social-engineering-incident-2026-07-17",
+      "category": "DevOps/SRE",
+      "importance": "high",
+      "title": "Clover Health披露社交工程攻击入侵三个员工账户",
+      "summary": "Clover Health称攻击者通过社交工程访问三个非管理岗位员工账户，这些账户可能接触部分个人和受保护健康信息，但无法访问公司财务或理赔系统。公司已开展外部调查、遏制访问并通知执法部门。",
+      "impact": "事件可能触发隐私通知和监管义务，也说明身份安全、最小权限、异常登录检测和员工反钓鱼培训需要协同建设。",
+      "whyItMatters": "攻击没有先突破基础设施，而是利用人员和身份入口；对SRE与安全团队而言，身份系统的可观测性和快速吊销能力与服务可用性同样关键。",
+      "eventTime": "2026-07-17T20:49:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/clover-health-says-employee-accounts-accessed-cyber-incident-2026-07-17/",
+          "publishedAt": "2026-07-17T20:49:00Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-overtakes-nvidia-market-value-2026-07-17",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "Apple盘中超越Nvidia成为全球市值最高公司",
+      "summary": "Reuters报道称，Apple在周五交易中市值约4.88万亿美元，短暂超过因股价下跌而降至约4.86万亿美元的Nvidia，这是Apple自2025年4月以来首次重回榜首。",
+      "impact": "资金正在从最直接的AI芯片受益者向终端平台和更广泛的大型科技公司重新配置，科技股内部估值分化加大。",
+      "whyItMatters": "全球市值榜首更替反映投资者对AI基础设施收益持续性、芯片估值和Apple终端AI策略的相对判断，而不是单纯的排名变化。",
+      "eventTime": "2026-07-17T13:03:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
+          "publishedAt": "2026-07-17T13:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "shein-hong-kong-ipo-committee-2026-07-17",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "Shein据报通过港交所上市委员会审议",
+      "summary": "Reuters援引知情人士称，Shein已获得港交所上市委员会批准，计划在7月27日当周公开首份上市文件，并可能最快于8月底启动IPO；目标估值约400亿至500亿美元。Shein和港交所未就审议结果置评。",
+      "impact": "若推进，将成为香港多年最受关注的消费类上市项目之一，也将检验市场对跨境电商、供应链治理和平台增长前景的估值。",
+      "whyItMatters": "Shein此前在纽约和伦敦上市受阻，转向香港并进入后续流程代表实质进展，但时间表和发行规模仍可能随市场变化。",
+      "eventTime": "2026-07-17T05:54:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/shein-secures-nod-hong-kong-listing-committee-ipo-sources-say-2026-07-17/",
+          "publishedAt": "2026-07-17T05:54:00Z"
+        }
+      ]
+    },
+    {
+      "id": "global-chip-rout-oil-surge-2026-07-17",
+      "category": "宏观经济与投资",
+      "importance": "high",
+      "title": "全球芯片股连续第三日下跌，油价因中东升级大涨",
+      "summary": "全球股市受芯片股抛售拖累。纳指收跌1.40%，标普500跌1.01%，费城半导体指数连续第三日下跌并较6月高点回落20%；WTI原油结算价上涨4.48%至每桶82.49美元。",
+      "impact": "AI资本开支可持续性担忧与能源供应风险同时出现，使科技股估值、通胀预期和利率路径承受双重压力。",
+      "whyItMatters": "市场风险已不再局限于单只芯片股，而是扩散到全球指数、能源和债券；AI交易集中度与地缘冲突正在相互放大波动。",
+      "eventTime": "2026-07-17T20:00:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-17/",
+          "publishedAt": "2026-07-17T01:16:00Z"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/65449e9565fba441a617f9517e097f5a",
+          "publishedAt": "2026-07-17T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "us-hong-kong-emergency-expiry-2026-07-17",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "美国允许香港相关国家紧急状态到期，部分限制仍保留",
+      "summary": "美国财政部OFAC确认，2020年针对香港的第13936号行政令所宣布的国家紧急状态已经到期，并据此调整制裁名单；但《香港人权与民主法》和《香港自治法》仍有效，部分人员继续受限制。中国将此称为双边关系向更积极方向发展的信号。",
+      "impact": "部分重复性制裁措施被清理，但香港在出口管制、关税和其他法律框架下的具体待遇不会自动完全恢复。",
+      "whyItMatters": "这是中美经贸关系中的实质政策变化，同时也容易被简化为全面恢复特殊地位；OFAC文件明确显示仍有重要限制存在。",
+      "eventTime": "2026-07-17T14:37:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "美国财政部OFAC",
+          "url": "https://ofac.treasury.gov/recent-actions/20260717",
+          "publishedAt": "2026-07-17T00:00:00Z"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/finance/china-says-us-will-restore-hong-kongs-special-trade-status-2026-07-17/",
+          "publishedAt": "2026-07-17T14:37:00Z"
+        }
+      ]
+    },
+    {
+      "id": "us-iran-infrastructure-strikes-2026-07-17",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "美伊攻击扩大至桥梁和海水淡化设施",
+      "summary": "美国连续第七夜打击伊朗并攻击南部桥梁，伊朗则袭击科威特一座电力与海水淡化设施并引发火灾；美军还在霍尔木兹海峡附近登上一艘油轮，红海入口附近另有船只被武装人员控制。",
+      "impact": "冲突目标从军事设施扩大到交通、水电和商业航运，增加人道、能源供应和区域基础设施中断风险。",
+      "whyItMatters": "海水淡化设施是海湾国家饮用水生命线，霍尔木兹和红海又是能源运输关键节点；基础设施受袭可能迅速放大全球经济影响。",
+      "eventTime": "2026-07-17T03:50:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-launches-fresh-attacks-after-sixth-day-us-strikes-2026-07-17/",
+          "publishedAt": "2026-07-17T03:50:00Z"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/2ad0cfe592eb258cb15a9eb04411d58a",
+          "publishedAt": "2026-07-17T20:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "world-cup-final-argentina-spain-preview-2026-07-17",
+      "category": "世界杯或重要体育新闻",
+      "importance": "high",
+      "title": "阿根廷与西班牙进入世界杯决赛最后备战",
+      "summary": "阿根廷与西班牙将在新泽西争夺世界杯冠军。西班牙已连续37场不败并冲击队史第二冠；阿根廷阵中有17名2022年冠军成员，39岁的梅西将与19岁的亚马尔成为决赛焦点。",
+      "impact": "西班牙的控球体系将面对阿根廷的经验、反击与比赛韧性，高温高湿天气和场地条件可能影响战术执行。",
+      "whyItMatters": "这是本届世界杯冠军决定战，既关系阿根廷能否完成跨届卫冕，也可能让西班牙打破国家队连续不败纪录。",
+      "eventTime": "2026-07-17T16:36:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/messis-argentina-face-spains-cool-machine-world-cup-final-rich-with-personal-2026-07-17/",
+          "publishedAt": "2026-07-17T16:36:00Z"
+        }
+      ]
+    }
+  ],
+  "market": {
+    "updatedAt": "2026-07-18T06:31:39+08:00",
+    "marketStatus": "closed",
+    "indices": [
+      { "symbol": "IXIC", "name": "纳斯达克指数", "value": 25520.24, "changePercent": -1.40, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "SPX", "name": "标普500", "value": 7457.69, "changePercent": -1.01, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "DJI", "name": "道琼斯指数", "value": 52146.42, "changePercent": -0.77, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "NDX", "name": "纳斯达克100", "value": 28759.60, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "RUT", "name": "罗素2000", "value": 2962.22, "changePercent": -0.42, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "000001.SS", "name": "上证指数", "value": 3764.15, "changePercent": -3.05, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T07:00:00Z", "marketStatus": "closed" },
+      { "symbol": "000300.SS", "name": "沪深300", "value": 4529.10, "changePercent": -3.60, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T07:00:00Z", "marketStatus": "closed" },
+      { "symbol": "HSI", "name": "恒生指数", "value": 24562.24, "changePercent": -1.78, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T08:08:36Z", "marketStatus": "closed" },
+      { "symbol": "HSTECH", "name": "恒生科技指数", "value": 4623.17, "changePercent": -4.37, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T08:08:36Z", "marketStatus": "closed" },
+      { "symbol": "N225", "name": "日经225", "value": 64141.12, "changePercent": -4.03, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T06:00:00Z", "marketStatus": "closed" }
+    ],
+    "megaCapStocks": [
+      { "symbol": "AAPL", "name": "Apple", "value": 333.74, "changePercent": 0.13, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:39Z", "marketStatus": "after-hours" },
+      { "symbol": "MSFT", "name": "Microsoft", "value": 393.82, "changePercent": -1.80, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:31Z", "marketStatus": "after-hours" },
+      { "symbol": "NVDA", "name": "Nvidia", "value": 202.81, "changePercent": -2.28, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:47Z", "marketStatus": "after-hours" },
+      { "symbol": "GOOGL", "name": "Alphabet", "value": 346.77, "changePercent": -2.16, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:13Z", "marketStatus": "after-hours" },
+      { "symbol": "AMZN", "name": "Amazon", "value": 247.23, "changePercent": -1.05, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:07Z", "marketStatus": "after-hours" },
+      { "symbol": "META", "name": "Meta", "value": 646.01, "changePercent": -2.82, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:30Z", "marketStatus": "after-hours" },
+      { "symbol": "TSLA", "name": "Tesla", "value": 380.84, "changePercent": -2.63, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:20Z", "marketStatus": "after-hours" }
+    ],
+    "assets": [
+      { "symbol": "VIX", "name": "VIX", "value": 18.09, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "US10Y", "name": "美国10年期国债收益率", "value": 4.554, "changePercent": null, "unit": "%", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
+      { "symbol": "DXY", "name": "美元指数", "value": 100.73, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
+      { "symbol": "USDCNY", "name": "美元兑人民币", "value": null, "changePercent": null, "unit": "CNY", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:31:39Z", "marketStatus": "unknown" },
+      { "symbol": "XAUUSD", "name": "黄金", "value": 3985.80, "changePercent": 0.19, "unit": "USD/oz", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
+      { "symbol": "WTI", "name": "WTI原油", "value": 82.49, "changePercent": 4.48, "unit": "USD/bbl", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T18:30:00Z", "marketStatus": "closed" },
+      { "symbol": "BTCUSD", "name": "比特币", "value": 63922, "changePercent": -0.19, "unit": "USD", "tradingDate": "2026-07-18", "updatedAt": "2026-07-17T22:31:39Z", "marketStatus": "open" }
+    ]
+  }
+}

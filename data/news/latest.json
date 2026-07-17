@@ -1,270 +1,270 @@
 {
   "schemaVersion": 1,
-  "date": "2026-07-17",
-  "generatedAt": "2026-07-17T06:28:23+08:00",
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T06:31:39+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "Google旗舰模型Gemini 3.5 Pro据报延期，编码能力仍是内部改进重点。",
-    "29国在上海签署成立世界人工智能合作组织协定，AI治理新增政府间合作平台。",
-    "美国芯片股大幅回落拖累纳指，同时美伊冲突继续威胁霍尔木兹海峡航运与能源价格。"
+    "Moonshot发布2.8万亿参数开放权重模型Kimi K3，中国开放模型竞争进一步升温。",
+    "习近平在上海提出AI开放、安全与全球治理主张，并宣布面向发展中国家的能力建设措施。",
+    "全球芯片股连续第三日下跌，美伊冲突扩大到桥梁和海水淡化设施，WTI结算价上涨4.48%。"
   ],
-  "topStory": "29个国家在上海签署成立世界人工智能合作组织协定，并确定总部设在上海。这一新政府间组织把AI竞争从模型与算力进一步推向治理规则、能力建设和全球南方合作，后续成员扩展与实际项目将决定其影响力。",
-  "editorialNote": "本期收录过去24小时内10条经核验的重要信息。对于只公布日期、未提供具体时刻的GitHub官方更新，时间字段按该日期00:00Z规范化，仅用于日期归档，不代表实际发布时刻；其余时间采用来源明确披露的时刻。",
+  "topStory": "Moonshot发布Kimi K3，并宣称其在长程编码和多步骤任务上接近美国前沿模型。它与上海WAIC提出的开放AI治理路线形成同日呼应，也直接触发市场对AI资本开支、芯片需求和中美模型竞争格局的重新评估。",
+  "editorialNote": "本期收录过去24小时内10条经核验的重要信息。中国相关新闻同时采用新华社、中国官方材料与国际媒体信源，并区分官方主张、监管事实和媒体分析。仅公布日期而无具体时刻的OFAC页面以00:00Z规范化，具体发布时刻不作推断。行情采用7月17日最新收盘或可核验盘后数据；无法取得可靠数值的项目保留为null。",
   "news": [
     {
-      "id": "google-gemini-35-pro-delay-2026-07-16",
+      "id": "moonshot-kimi-k3-open-model-2026-07-17",
       "category": "AI与大模型",
       "importance": "high",
-      "title": "Google旗舰模型Gemini 3.5 Pro据报延期",
-      "summary": "Reuters援引Bloomberg报道称，Google原计划6月推出的Gemini 3.5 Pro已落后数月，团队仍在改进模型能力，尤其是编码表现。Google表示正与合作伙伴测试3.5 Pro、升级版Flash及其他模型。",
-      "impact": "旗舰模型延期可能影响Google在企业AI、开发者工具和云服务中的竞争节奏，并加大其在训练数据、推理质量和成本之间的优化压力。",
-      "whyItMatters": "编码能力是企业采用通用模型的重要衡量指标；Google内部目标未达成，说明最前沿模型迭代仍受到数据、训练与产品化约束。",
-      "eventTime": "2026-07-16T19:00:00Z",
+      "title": "Moonshot发布2.8万亿参数开放权重模型Kimi K3",
+      "summary": "Moonshot发布Kimi K3，称其为目前参数规模最大的开放权重AI系统，拥有2.8万亿参数和100万Token上下文窗口，面向高级推理、长程编码与知识工作。独立评测显示其多项能力接近美国前沿模型。",
+      "impact": "更强的开放权重模型将压缩闭源模型的价格与性能优势，并可能改变企业在API采购、自托管和模型微调之间的选择。",
+      "whyItMatters": "Kimi K3不仅刷新开放模型规模，也把中国模型的竞争点推进到长程编码和复杂代理任务；但其巨大规模意味着本地部署成本仍然很高。",
+      "eventTime": "2026-07-17T02:06:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17/",
+          "publishedAt": "2026-07-17T02:06:00Z"
+        }
+      ]
+    },
+    {
+      "id": "xi-waic-ai-governance-speech-2026-07-17",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "习近平在WAIC提出开放、安全与全球AI治理主张",
+      "summary": "习近平在上海世界人工智能大会开幕式提出开放共赢、安全可控、文明互鉴和多边治理四点主张，强调AI应保持在人类控制之下，并宣布未来5年面向发展中国家提供5000个专题培训名额及建设国际AI应用合作中心。",
+      "impact": "中国正把开放模型、技术能力建设与新成立的政府间AI合作组织结合，争取在全球南方与国际AI规则制定中扩大影响力。",
+      "whyItMatters": "这是中国最高层对AI开放、安全与国际治理的集中表述；新华社呈现政策承诺，Reuters则将其解读为与美国主导倡议竞争的全球治理路线。",
+      "eventTime": "2026-07-17T10:02:56+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/leaders/20260717/72728b6f94154d63b3eaaaf9808b51eb/c.html",
+          "publishedAt": "2026-07-17T12:52:18+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+          "publishedAt": "2026-07-17T02:34:00Z"
+        }
+      ]
+    },
+    {
+      "id": "indonesia-ai-copyright-draft-2026-07-17",
+      "category": "编程与软件工程",
+      "importance": "high",
+      "title": "印尼版权法草案拟纳入AI训练与AI辅助作品规则",
+      "summary": "Reuters获得的印尼版权法草案拟要求平台为AI训练、新闻聚合和链接预览支付补偿；只有具备实质性人类创意投入的AI辅助作品可获版权，完全由AI生成的作品则不受保护。规则覆盖计算机程序、游戏、新闻和影视等内容。",
+      "impact": "软件平台、模型训练者和内容开发者可能面临新的许可、披露与付费义务，代码与数字内容的数据来源治理成本将上升。",
+      "whyItMatters": "这是东南亚大型数字市场尝试把AI训练、计算机程序与人类创作门槛写入版权法的重要案例，但草案尚未通过。",
+      "eventTime": "2026-07-17T09:48:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
-          "publishedAt": "2026-07-16T19:00:00Z"
+          "url": "https://www.reuters.com/legal/litigation/indonesias-copyright-rewrite-puts-google-ai-platforms-notice-2026-07-17/",
+          "publishedAt": "2026-07-17T09:48:00Z"
         }
       ]
     },
     {
-      "id": "world-ai-cooperation-organization-signing-2026-07-16",
-      "category": "AI与大模型",
+      "id": "clover-health-social-engineering-incident-2026-07-17",
+      "category": "DevOps/SRE",
       "importance": "high",
-      "title": "29国签署成立世界人工智能合作组织协定",
-      "summary": "29个国家代表在上海签署协定，成为世界人工智能合作组织创始成员国。中国外交部与新华社称，该组织为独立政府间国际组织，总部设在上海，目标包括促进AI国际合作、全球治理与能力建设。",
-      "impact": "AI治理将新增一个以政府间合作为核心的平台，可能影响技术援助、治理原则和全球南方国家的能力建设安排。",
-      "whyItMatters": "组织的成员构成、总部与制度定位已经明确；其能否形成可执行的项目和更广泛代表性，将成为全球AI治理格局的新变量。",
-      "eventTime": "2026-07-16T20:15:02+08:00",
-      "status": "confirmed",
+      "title": "Clover Health披露社交工程攻击入侵三个员工账户",
+      "summary": "Clover Health称攻击者通过社交工程访问三个非管理岗位员工账户，这些账户可能接触部分个人和受保护健康信息，但无法访问公司财务或理赔系统。公司已开展外部调查、遏制访问并通知执法部门。",
+      "impact": "事件可能触发隐私通知和监管义务，也说明身份安全、最小权限、异常登录检测和员工反钓鱼培训需要协同建设。",
+      "whyItMatters": "攻击没有先突破基础设施，而是利用人员和身份入口；对SRE与安全团队而言，身份系统的可观测性和快速吊销能力与服务可用性同样关键。",
+      "eventTime": "2026-07-17T20:49:00Z",
+      "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
-          "name": "中国外交部",
-          "url": "https://www.mfa.gov.cn/wjbzhd/202607/t20260716_11984399.shtml",
-          "publishedAt": "2026-07-16T22:42:00+08:00"
-        },
-        {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/",
-          "publishedAt": "2026-07-16T14:39:00Z"
-        },
-        {
-          "name": "新华社（中国新闻网转载）",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-16/10660816.shtml",
-          "publishedAt": "2026-07-16T20:15:02+08:00"
+          "url": "https://www.reuters.com/legal/litigation/clover-health-says-employee-accounts-accessed-cyber-incident-2026-07-17/",
+          "publishedAt": "2026-07-17T20:49:00Z"
         }
       ]
     },
     {
-      "id": "fairlife-cyberattack-production-halt-2026-07-16",
-      "category": "DevOps/SRE",
+      "id": "apple-overtakes-nvidia-market-value-2026-07-17",
+      "category": "科技商业",
       "importance": "high",
-      "title": "Coca-Cola旗下fairlife因网络攻击暂停美国生产",
-      "summary": "Coca-Cola表示，第三方未经授权访问fairlife部分系统，其中包括生产相关系统；fairlife已暂时停止美国工厂生产并启动事件响应、业务连续性和外部安全调查。加拿大工厂仍在运行，产品质量与安全未受影响。",
-      "impact": "攻击已从信息系统延伸到生产系统和实体运营，可能造成供应中断、恢复成本及进一步的取证和合规压力。",
-      "whyItMatters": "这是IT与生产环境耦合风险的直接案例，说明制造企业需要隔离关键系统、验证备份恢复并定期演练业务连续性计划。",
-      "eventTime": "2026-07-16T20:48:00Z",
+      "title": "Apple盘中超越Nvidia成为全球市值最高公司",
+      "summary": "Reuters报道称，Apple在周五交易中市值约4.88万亿美元，短暂超过因股价下跌而降至约4.86万亿美元的Nvidia，这是Apple自2025年4月以来首次重回榜首。",
+      "impact": "资金正在从最直接的AI芯片受益者向终端平台和更广泛的大型科技公司重新配置，科技股内部估值分化加大。",
+      "whyItMatters": "全球市值榜首更替反映投资者对AI基础设施收益持续性、芯片估值和Apple终端AI策略的相对判断，而不是单纯的排名变化。",
+      "eventTime": "2026-07-17T13:03:00Z",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/coca-cola-says-fairlife-halts-us-production-after-cyber-attack-2026-07-16/",
-          "publishedAt": "2026-07-16T20:48:00Z"
+          "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
+          "publishedAt": "2026-07-17T13:03:00Z"
         }
       ]
     },
     {
-      "id": "github-xcode-27-runner-preview-2026-07-16",
-      "category": "DevOps/SRE",
-      "importance": "medium",
-      "title": "GitHub Actions推出Xcode 27托管Runner预览",
-      "summary": "GitHub宣布Xcode 27 Runner镜像进入公开预览，开发者可在arm64 macOS托管Runner上使用xcode-27与xcode-27-xlarge标签构建和测试Apple应用。",
-      "impact": "iOS与macOS团队可以更早验证新工具链和SDK兼容性，但需要注意该镜像不支持Intel Runner，且预装工具版本与旧镜像不同。",
-      "whyItMatters": "提前把新Xcode版本纳入CI能更早发现构建和测试回归，降低正式迁移时的集中风险。",
-      "eventTime": "2026-07-16T00:00:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "GitHub Changelog",
-          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview/",
-          "publishedAt": "2026-07-16T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "github-archive-pull-requests-2026-07-16",
-      "category": "编程与软件工程",
-      "importance": "medium",
-      "title": "GitHub允许仓库管理员归档Pull Request",
-      "summary": "GitHub新增Pull Request归档能力：管理员可以单个或批量归档PR，归档后PR会关闭并锁定，仅管理员可见，普通访问者打开原URL会收到404；管理员还可用is:archived筛选。",
-      "impact": "仓库维护者获得了处理垃圾、滥用或法律合规内容的新手段，同时能保留仅供管理员查看的历史记录。",
-      "whyItMatters": "该功能改变了公开协作记录的可见性和治理方式，团队应把归档权限、审计和恢复流程纳入仓库管理规范。",
-      "eventTime": "2026-07-16T00:00:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "GitHub Changelog",
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests/",
-          "publishedAt": "2026-07-16T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "netflix-q3-forecast-ai-production-2026-07-16",
+      "id": "shein-hong-kong-ipo-committee-2026-07-17",
       "category": "科技商业",
       "importance": "medium",
-      "title": "Netflix第三季度指引低于预期，盘后股价下跌",
-      "summary": "Netflix预计第三季度营收128.6亿美元、摊薄每股收益0.82美元，均略低于LSEG汇总的分析师预期；股价盘后一度跌近8%。公司称生成式AI已用于约300部作品，主要集中在后期制作。",
-      "impact": "流媒体增长进入更成熟阶段，市场对广告、直播和游戏等新收入来源的兑现速度更敏感；AI制作工具的规模化采用也将影响内容成本结构。",
-      "whyItMatters": "Netflix同时提供了大型媒体平台的增长预期与AI生产应用数据，是观察流媒体商业模式和生成式AI落地的重要信号。",
-      "eventTime": "2026-07-16T20:03:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/netflix-third-quarter-earnings-forecast-falls-shy-wall-street-expectations-2026-07-16/",
-          "publishedAt": "2026-07-16T20:03:00Z"
-        }
-      ]
-    },
-    {
-      "id": "us-retail-sales-jobless-claims-2026-07-16",
-      "category": "宏观经济与投资",
-      "importance": "medium",
-      "title": "美国6月零售销售温和增长，就业数据保持韧性",
-      "summary": "美国6月零售销售环比增长0.2%，核心零售销售增长0.5%；截至7月11日当周初请失业金人数下降8000至20.8万，为5月以来最低。",
-      "impact": "消费与劳动力市场韧性支持第二季度增长预期，也降低了美联储短期内快速转向宽松的必要性。",
-      "whyItMatters": "零售与初请数据直接影响增长和利率判断；在能源和地缘风险升温时，经济韧性会改变债券与美元的定价。",
-      "eventTime": "2026-07-16T12:30:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/us-retail-sales-rise-marginally-june-2026-07-16/",
-          "publishedAt": "2026-07-16T12:43:00Z"
-        }
-      ]
-    },
-    {
-      "id": "us-chip-stocks-selloff-2026-07-16",
-      "category": "宏观经济与投资",
-      "importance": "high",
-      "title": "芯片股回落拖累纳指收跌1.47%",
-      "summary": "美国股市收盘下跌：纳斯达克综合指数跌1.47%，标普500跌0.51%，道琼斯指数跌0.20%。标普科技板块跌1.8%，费城半导体指数跌4.3%，多只存储芯片股跌幅在5.8%至12.6%之间。",
-      "impact": "AI与半导体权重上升使主要指数更容易受到少数芯片股波动影响，高估值科技资产的集中度风险进一步显现。",
-      "whyItMatters": "即使经济数据与部分企业盈利稳健，芯片板块仍主导指数方向，说明市场对AI交易的预期已很高、容错空间变小。",
-      "eventTime": "2026-07-16T20:00:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/wall-st-futures-pause-after-two-day-rally-investors-await-data-earnings-2026-07-16/",
-          "publishedAt": "2026-07-16T09:52:00Z"
-        },
-        {
-          "name": "AP",
-          "url": "https://apnews.com/article/b2a85bf17cbb4653ba83bb7c655366c0",
-          "publishedAt": "2026-07-16T20:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "us-iran-hormuz-escalation-2026-07-16",
-      "category": "中国与国际新闻",
-      "importance": "high",
-      "title": "美伊扩大相互攻击，霍尔木兹海峡风险上升",
-      "summary": "美国连续第六夜打击伊朗目标，并将攻击扩展至霍尔木兹海峡附近的战略地点；伊朗以导弹和无人机反击地区内美军及盟友目标，并重申海峡是其红线。双方仍释放有限外交信号。",
-      "impact": "冲突可能继续扰动关键能源航道、推高保险和运输成本，并通过油价影响全球通胀与利率预期。",
-      "whyItMatters": "霍尔木兹海峡是全球最重要的油气通道之一，军事升级会迅速从地区安全问题传导到能源、航运和金融市场。",
-      "eventTime": "2026-07-16T18:00:00Z",
+      "title": "Shein据报通过港交所上市委员会审议",
+      "summary": "Reuters援引知情人士称，Shein已获得港交所上市委员会批准，计划在7月27日当周公开首份上市文件，并可能最快于8月底启动IPO；目标估值约400亿至500亿美元。Shein和港交所未就审议结果置评。",
+      "impact": "若推进，将成为香港多年最受关注的消费类上市项目之一，也将检验市场对跨境电商、供应链治理和平台增长前景的估值。",
+      "whyItMatters": "Shein此前在纽约和伦敦上市受阻，转向香港并进入后续流程代表实质进展，但时间表和发行规模仍可能随市场变化。",
+      "eventTime": "2026-07-17T05:54:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/iran-warns-strait-hormuz-is-red-line-will-resist-until-end-2026-07-16/",
-          "publishedAt": "2026-07-16T00:00:00Z"
-        },
-        {
-          "name": "AP",
-          "url": "https://apnews.com/article/f98ff56554de2336f0e85bb5fdcae769",
-          "publishedAt": "2026-07-16T00:00:00Z"
+          "url": "https://www.reuters.com/legal/transactional/shein-secures-nod-hong-kong-listing-committee-ipo-sources-say-2026-07-17/",
+          "publishedAt": "2026-07-17T05:54:00Z"
         }
       ]
     },
     {
-      "id": "world-cup-argentina-spain-final-set-2026-07-16",
-      "category": "世界杯或重要体育新闻",
+      "id": "global-chip-rout-oil-surge-2026-07-17",
+      "category": "宏观经济与投资",
       "importance": "high",
-      "title": "阿根廷与西班牙会师世界杯决赛",
-      "summary": "西班牙在半决赛2比0击败法国，阿根廷2比1战胜英格兰，两队将在周日争夺世界杯冠军。西班牙争取队史第二冠，阿根廷则力争成为1962年巴西之后首支成功卫冕的球队。",
-      "impact": "决赛把两支技术风格鲜明的球队和两位国家队主帅推到冠军对决，也将成为本届赛事商业与全球关注度最高的单场比赛。",
-      "whyItMatters": "世界杯已进入最终阶段，冠军归属以及阿根廷能否完成跨届卫冕是本届赛事最重要的体育进展。",
-      "eventTime": "2026-07-16T11:03:00Z",
+      "title": "全球芯片股连续第三日下跌，油价因中东升级大涨",
+      "summary": "全球股市受芯片股抛售拖累。纳指收跌1.40%，标普500跌1.01%，费城半导体指数连续第三日下跌并较6月高点回落20%；WTI原油结算价上涨4.48%至每桶82.49美元。",
+      "impact": "AI资本开支可持续性担忧与能源供应风险同时出现，使科技股估值、通胀预期和利率路径承受双重压力。",
+      "whyItMatters": "市场风险已不再局限于单只芯片股，而是扩散到全球指数、能源和债券；AI交易集中度与地缘冲突正在相互放大波动。",
+      "eventTime": "2026-07-17T20:00:00Z",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/sports/soccer/scaloni-faces-former-tutor-de-la-fuente-argentina-spain-world-cup-final-2026-07-16/",
-          "publishedAt": "2026-07-16T11:03:00Z"
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-17/",
+          "publishedAt": "2026-07-17T01:16:00Z"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/65449e9565fba441a617f9517e097f5a",
+          "publishedAt": "2026-07-17T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "us-hong-kong-emergency-expiry-2026-07-17",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "美国允许香港相关国家紧急状态到期，部分限制仍保留",
+      "summary": "美国财政部OFAC确认，2020年针对香港的第13936号行政令所宣布的国家紧急状态已经到期，并据此调整制裁名单；但《香港人权与民主法》和《香港自治法》仍有效，部分人员继续受限制。中国将此称为双边关系向更积极方向发展的信号。",
+      "impact": "部分重复性制裁措施被清理，但香港在出口管制、关税和其他法律框架下的具体待遇不会自动完全恢复。",
+      "whyItMatters": "这是中美经贸关系中的实质政策变化，同时也容易被简化为全面恢复特殊地位；OFAC文件明确显示仍有重要限制存在。",
+      "eventTime": "2026-07-17T14:37:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "美国财政部OFAC",
+          "url": "https://ofac.treasury.gov/recent-actions/20260717",
+          "publishedAt": "2026-07-17T00:00:00Z"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/finance/china-says-us-will-restore-hong-kongs-special-trade-status-2026-07-17/",
+          "publishedAt": "2026-07-17T14:37:00Z"
+        }
+      ]
+    },
+    {
+      "id": "us-iran-infrastructure-strikes-2026-07-17",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "美伊攻击扩大至桥梁和海水淡化设施",
+      "summary": "美国连续第七夜打击伊朗并攻击南部桥梁，伊朗则袭击科威特一座电力与海水淡化设施并引发火灾；美军还在霍尔木兹海峡附近登上一艘油轮，红海入口附近另有船只被武装人员控制。",
+      "impact": "冲突目标从军事设施扩大到交通、水电和商业航运，增加人道、能源供应和区域基础设施中断风险。",
+      "whyItMatters": "海水淡化设施是海湾国家饮用水生命线，霍尔木兹和红海又是能源运输关键节点；基础设施受袭可能迅速放大全球经济影响。",
+      "eventTime": "2026-07-17T03:50:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-launches-fresh-attacks-after-sixth-day-us-strikes-2026-07-17/",
+          "publishedAt": "2026-07-17T03:50:00Z"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/2ad0cfe592eb258cb15a9eb04411d58a",
+          "publishedAt": "2026-07-17T20:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "world-cup-final-argentina-spain-preview-2026-07-17",
+      "category": "世界杯或重要体育新闻",
+      "importance": "high",
+      "title": "阿根廷与西班牙进入世界杯决赛最后备战",
+      "summary": "阿根廷与西班牙将在新泽西争夺世界杯冠军。西班牙已连续37场不败并冲击队史第二冠；阿根廷阵中有17名2022年冠军成员，39岁的梅西将与19岁的亚马尔成为决赛焦点。",
+      "impact": "西班牙的控球体系将面对阿根廷的经验、反击与比赛韧性，高温高湿天气和场地条件可能影响战术执行。",
+      "whyItMatters": "这是本届世界杯冠军决定战，既关系阿根廷能否完成跨届卫冕，也可能让西班牙打破国家队连续不败纪录。",
+      "eventTime": "2026-07-17T16:36:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/messis-argentina-face-spains-cool-machine-world-cup-final-rich-with-personal-2026-07-17/",
+          "publishedAt": "2026-07-17T16:36:00Z"
         }
       ]
     }
   ],
   "market": {
-    "updatedAt": "2026-07-17T06:28:23+08:00",
+    "updatedAt": "2026-07-18T06:31:39+08:00",
     "marketStatus": "closed",
     "indices": [
-      { "symbol": "IXIC", "name": "纳斯达克指数", "value": 25881.95, "changePercent": -1.47, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "SPX", "name": "标普500", "value": 7533.77, "changePercent": -0.51, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "DJI", "name": "道琼斯指数", "value": 52553.32, "changePercent": -0.20, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "NDX", "name": "纳斯达克100", "value": null, "changePercent": null, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "RUT", "name": "罗素2000", "value": 2974.57, "changePercent": -0.06, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "000001.SS", "name": "上证指数", "value": 3882.41, "changePercent": -1.85, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T07:00:00Z", "marketStatus": "closed" },
-      { "symbol": "000300.SS", "name": "沪深300", "value": 4698.43, "changePercent": -1.85, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T07:00:00Z", "marketStatus": "closed" },
-      { "symbol": "HSI", "name": "恒生指数", "value": 25008.60, "changePercent": 1.33, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T08:09:00Z", "marketStatus": "closed" },
-      { "symbol": "HSTECH", "name": "恒生科技指数", "value": 4834.44, "changePercent": 1.98, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T08:09:00Z", "marketStatus": "closed" },
-      { "symbol": "N225", "name": "日经225", "value": 66835.54, "changePercent": -2.79, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T06:00:00Z", "marketStatus": "closed" }
+      { "symbol": "IXIC", "name": "纳斯达克指数", "value": 25520.24, "changePercent": -1.40, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "SPX", "name": "标普500", "value": 7457.69, "changePercent": -1.01, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "DJI", "name": "道琼斯指数", "value": 52146.42, "changePercent": -0.77, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "NDX", "name": "纳斯达克100", "value": 28759.60, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "RUT", "name": "罗素2000", "value": 2962.22, "changePercent": -0.42, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "000001.SS", "name": "上证指数", "value": 3764.15, "changePercent": -3.05, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T07:00:00Z", "marketStatus": "closed" },
+      { "symbol": "000300.SS", "name": "沪深300", "value": 4529.10, "changePercent": -3.60, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T07:00:00Z", "marketStatus": "closed" },
+      { "symbol": "HSI", "name": "恒生指数", "value": 24562.24, "changePercent": -1.78, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T08:08:36Z", "marketStatus": "closed" },
+      { "symbol": "HSTECH", "name": "恒生科技指数", "value": 4623.17, "changePercent": -4.37, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T08:08:36Z", "marketStatus": "closed" },
+      { "symbol": "N225", "name": "日经225", "value": 64141.12, "changePercent": -4.03, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T06:00:00Z", "marketStatus": "closed" }
     ],
     "megaCapStocks": [
-      { "symbol": "AAPL", "name": "Apple", "value": 333.26, "changePercent": 1.76, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "MSFT", "name": "Microsoft", "value": 401.10, "changePercent": 1.38, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "NVDA", "name": "Nvidia", "value": 207.40, "changePercent": -2.40, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "GOOGL", "name": "Alphabet", "value": 354.46, "changePercent": -4.44, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "AMZN", "name": "Amazon", "value": 249.92, "changePercent": -1.98, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "META", "name": "Meta", "value": 664.54, "changePercent": -2.46, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "TSLA", "name": "Tesla", "value": 391.06, "changePercent": -0.86, "unit": "USD", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" }
+      { "symbol": "AAPL", "name": "Apple", "value": 333.74, "changePercent": 0.13, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:39Z", "marketStatus": "after-hours" },
+      { "symbol": "MSFT", "name": "Microsoft", "value": 393.82, "changePercent": -1.80, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:31Z", "marketStatus": "after-hours" },
+      { "symbol": "NVDA", "name": "Nvidia", "value": 202.81, "changePercent": -2.28, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:47Z", "marketStatus": "after-hours" },
+      { "symbol": "GOOGL", "name": "Alphabet", "value": 346.77, "changePercent": -2.16, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:13Z", "marketStatus": "after-hours" },
+      { "symbol": "AMZN", "name": "Amazon", "value": 247.23, "changePercent": -1.05, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:07Z", "marketStatus": "after-hours" },
+      { "symbol": "META", "name": "Meta", "value": 646.01, "changePercent": -2.82, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:30Z", "marketStatus": "after-hours" },
+      { "symbol": "TSLA", "name": "Tesla", "value": 380.84, "changePercent": -2.63, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:20Z", "marketStatus": "after-hours" }
     ],
     "assets": [
-      { "symbol": "VIX", "name": "VIX", "value": 16.73, "changePercent": 6.76, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "US10Y", "name": "美国10年期国债收益率", "value": 4.551, "changePercent": 0.13, "unit": "%", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T21:00:00Z", "marketStatus": "closed" },
-      { "symbol": "DXY", "name": "美元指数", "value": 100.53, "changePercent": 0.25, "unit": "点", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T21:00:00Z", "marketStatus": "closed" },
-      { "symbol": "USDCNY", "name": "美元兑人民币", "value": null, "changePercent": null, "unit": "CNY", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T22:28:23Z", "marketStatus": "unknown" },
-      { "symbol": "XAUUSD", "name": "黄金", "value": 3978.60, "changePercent": -0.04, "unit": "USD/oz", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T22:28:23Z", "marketStatus": "open" },
-      { "symbol": "WTI", "name": "WTI原油", "value": 79.57, "changePercent": 0.00, "unit": "USD/bbl", "tradingDate": "2026-07-16", "updatedAt": "2026-07-16T22:28:23Z", "marketStatus": "open" },
-      { "symbol": "BTCUSD", "name": "比特币", "value": 63991, "changePercent": -1.33, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-16T22:28:23Z", "marketStatus": "open" }
+      { "symbol": "VIX", "name": "VIX", "value": 18.09, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
+      { "symbol": "US10Y", "name": "美国10年期国债收益率", "value": 4.554, "changePercent": null, "unit": "%", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
+      { "symbol": "DXY", "name": "美元指数", "value": 100.73, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
+      { "symbol": "USDCNY", "name": "美元兑人民币", "value": null, "changePercent": null, "unit": "CNY", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:31:39Z", "marketStatus": "unknown" },
+      { "symbol": "XAUUSD", "name": "黄金", "value": 3985.80, "changePercent": 0.19, "unit": "USD/oz", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
+      { "symbol": "WTI", "name": "WTI原油", "value": 82.49, "changePercent": 4.48, "unit": "USD/bbl", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T18:30:00Z", "marketStatus": "closed" },
+      { "symbol": "BTCUSD", "name": "比特币", "value": 63922, "changePercent": -0.19, "unit": "USD", "tradingDate": "2026-07-18", "updatedAt": "2026-07-17T22:31:39Z", "marketStatus": "open" }
     ]
   }
 }

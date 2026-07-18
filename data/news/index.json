@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-18T06:31:39+08:00",
+  "updatedAt": "2026-07-18T18:00:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
     {
       "date": "2026-07-18",
       "title": "全球重要资讯每日简报",
-      "summary": "Kimi K3、WAIC全球AI治理、全球芯片股下跌、美伊基础设施攻击与世界杯决赛等10条重要信息。",
+      "summary": "中美关系、台海问题、全球资本市场、全球旅行目的地及科技与国际事件等30条重要信息。",
       "path": "data/news/2026-07-18.json"
     },
     {

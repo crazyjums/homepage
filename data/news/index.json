@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T00:30:00+08:00",
+  "updatedAt": "2026-07-19T06:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-19",
+      "edition": "0630",
+      "editionLabel": "早间版",
+      "generatedAt": "2026-07-19T06:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "AI基础设施抗议、美伊冲突、全球资本市场、中美与台海、旅行风险等30条滚动资讯。",
+      "path": "data/news/2026-07-19-0630.json"
+    },
     {
       "date": "2026-07-19",
       "edition": "0030",

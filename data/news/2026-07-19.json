@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T00:30:00+08:00",
+  "generatedAt": "2026-07-19T06:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "伊朗扩大对海湾国家和约旦的攻击，科威特淡化、电力、石油设施及机场运行受到影响。",
-    "全球市场周末休市，科技股周五回撤与油价跳升仍是新一周风险定价的核心背景。",
-    "中国就英国国有化British Steel发出投资与补偿警告，跨境产业政策摩擦升温。",
-    "中美峰会筹备、香港制裁调整与台海外交及无人机防务继续构成亚洲政策主线。",
-    "世界杯决赛前夕，FIFA披露赛事期间监测到逾700万条潜在有害或辱骂内容。"
+    "美国42州142场反数据中心抗议显示，AI扩张正遭遇电力、水资源与社区许可约束。",
+    "美军确认约旦遇袭两人死亡，美伊冲突对能源、航运、航空和区域旅行的外溢风险继续上升。",
+    "Ecopetrol约3300个云账户相关数据被窃，关键基础设施企业的身份与云权限治理再受检验。",
+    "美国调整政府设备上的TikTok适用规则，中美科技与数据安全政策出现重要变化。",
+    "加拿大山火疏散与跨境烟霾、上海太空计算星座等构成旅行与科技基础设施的新进展。"
   ],
-  "topStory": "美伊冲突在过去6小时的滚动信息中进一步外溢至海湾关键民用与能源基础设施：科威特的海水淡化、电力和石油设施遭袭，机场一度暂停运行；这同时抬升区域人道、能源运输、航空与旅行风险。",
-  "editorialNote": "2026-07-19凌晨版共30条。重点更新过去6小时出现实质变化的美伊冲突、英中钢铁资产争议及世界杯网络安全信息；其余条目用于保持过去24小时滚动背景和仍在生效的出行风险。周末主要股票与指数市场休市，沿用7月17日已核验收盘值；比特币使用本轮实时快照。无法可靠取得的行情保持null，不作估算。",
+  "topStory": "美国反AI数据中心抗议已扩展到42个州的142个地点。算力竞赛正从模型和芯片转向电力、水、土地和地方社会许可；这类约束可能直接改变大型科技公司的扩容速度、资本开支与选址策略。",
+  "editorialNote": "2026-07-19早间版共30条，为过去24小时完整滚动简报，重点补充最近6小时获得确认或发生实质变化的AI数据中心抗议、Ecopetrol与肯尼亚网络事件、TikTok政策、加拿大山火烟霾、中国太空计算项目及美伊冲突伤亡。周末主要股票与指数市场休市，沿用7月17日已核验收盘值；比特币使用06:30实时快照。无法可靠取得的行情保持null，不作估算。",
   "news": [
     {
       "id": "china-uk-british-steel-nationalisation-response-2026-07-18",
@@ -118,11 +118,11 @@
       "id": "iran-gulf-jordan-strikes-kuwait-infrastructure-2026-07-18",
       "category": "中国与国际新闻",
       "importance": "high",
-      "title": "伊朗扩大攻击至海湾国家与约旦，科威特关键设施和机场受影响",
-      "summary": "Reuters报道，伊朗在美国连续第七夜空袭后扩大对海湾盟国和约旦的攻击。科威特一座电力与海水淡化设施及一处石油设施遇袭，科威特国际机场因导弹与无人机威胁一度暂停运行；美国则继续打击伊朗监视、军需、地下武器和海上能力。",
-      "impact": "冲突已从军事目标外溢至饮用水、电力、石油和民航系统，可能加剧人道风险、能源价格波动、航班改道与区域供应链中断。",
-      "whyItMatters": "海水淡化设施是海湾国家的关键生命线，科威特机场和霍尔木兹周边又连接全球航空与能源运输；基础设施受袭会把局部军事升级迅速传导到全球经济和旅行安全。",
-      "eventTime": "2026-07-18T03:55:00Z",
+      "title": "美军确认约旦遇袭两人死亡，美伊冲突继续外溢至海湾关键设施",
+      "summary": "美军称约旦一处基地遇袭造成两名美军人员死亡、另有一人失踪，使本轮冲突中的美军死亡人数升至16人、伤者超过420人。伊朗相关攻击继续波及沙特、科威特、约旦及海湾基础设施，欧盟和海湾国家呼吁停止干扰海上航行。",
+      "impact": "人员伤亡上升与关键设施遇袭提高进一步报复、能源运输中断、空域限制和区域旅行风险，油价与避险资产仍可能剧烈波动。",
+      "whyItMatters": "美军新增死亡意味着冲突的人力与政治成本继续上升，任何误判都可能把有限打击推向更广泛的地区战争。",
+      "eventTime": "2026-07-18T17:27:16Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
@@ -140,22 +140,22 @@
       ]
     },
     {
-      "id": "clover-health-social-engineering-incident-2026-07-17",
+      "id": "kenya-president-website-cyber-incident-2026-07-18",
       "category": "DevOps/SRE",
-      "importance": "high",
-      "title": "Clover Health披露社交工程攻击入侵三个员工账户",
-      "summary": "Clover Health称攻击者通过社交工程访问三个非管理岗位员工账户，这些账户可能接触部分个人和受保护健康信息，但无法访问公司财务或理赔系统。公司已开展外部调查、遏制访问并通知执法部门。",
-      "impact": "事件可能触发隐私通知和监管义务，也说明身份安全、最小权限、异常登录检测和员工反钓鱼培训需要协同建设。",
-      "whyItMatters": "攻击没有先突破基础设施，而是利用人员和身份入口；对SRE与安全团队而言，身份系统的可观测性和快速吊销能力与服务可用性同样关键。",
-      "eventTime": "2026-07-17T20:49:00Z",
+      "importance": "medium",
+      "title": "肯尼亚调查总统官方网站网络安全事件",
+      "summary": "肯尼亚信息通信部门表示正在调查影响总统官方网站的网络安全事件；截至披露时，尚无证据表明敏感数据被访问或丢失，事件范围与攻击来源仍在核查。",
+      "impact": "政府网站受扰可能影响公众信息发布与数字政务信任，并促使公共部门加强日志留存、供应链审查和应急恢复。",
+      "whyItMatters": "在事实仍有限时，明确区分网站可用性事件与已证实的数据泄露，有助于避免夸大风险并持续跟踪调查结果。",
+      "eventTime": "2026-07-18T12:56:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/legal/litigation/clover-health-says-employee-accounts-accessed-cyber-incident-2026-07-17/",
-          "publishedAt": "2026-07-17T20:49:00Z"
+          "url": "https://www.reuters.com/legal/litigation/kenya-investigating-cybersecurity-incident-affecting-presidents-website-2026-07-18/",
+          "publishedAt": "2026-07-18T12:56:00Z"
         }
       ]
     },
@@ -225,27 +225,22 @@
       ]
     },
     {
-      "id": "us-hong-kong-emergency-expiry-2026-07-17",
-      "category": "中国与国际新闻",
+      "id": "us-federal-tiktok-government-devices-policy-2026-07-17",
+      "category": "中美关系",
       "importance": "high",
-      "title": "美国允许香港相关国家紧急状态到期，部分限制仍保留",
-      "summary": "美国财政部OFAC确认，2020年针对香港的第13936号行政令所宣布的国家紧急状态已经到期，并据此调整制裁名单；但《香港人权与民主法》和《香港自治法》仍有效，部分人员继续受限制。中国将此称为双边关系向更积极方向发展的信号。",
-      "impact": "部分重复性制裁措施被清理，但香港在出口管制、关税和其他法律框架下的具体待遇不会自动完全恢复。",
-      "whyItMatters": "这是中美经贸关系中的实质政策变化，同时也容易被简化为全面恢复特殊地位；OFAC文件明确显示仍有重要限制存在。",
-      "eventTime": "2026-07-17T14:37:00Z",
+      "title": "美国司法部称联邦雇员可在政府设备使用TikTok，具体仍受机构政策约束",
+      "summary": "美国司法部表示，2022年针对政府设备的TikTok禁令在美国业务合资安排后不再适用；新架构由美国及全球投资者持有80.1%，字节跳动持有19.9%，数据使用Oracle云服务。各联邦机构仍可制定更严格规则。",
+      "impact": "政策变化降低TikTok在部分联邦设备上的制度障碍，但数据治理、算法控制和机构级安全限制仍会继续接受审查。",
+      "whyItMatters": "这是中美科技与数据安全政策的重要转折点，也将影响TikTok美国业务的合规预期与政府采购安全边界。",
+      "eventTime": "2026-07-17T23:24:00Z",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
-          "name": "美国财政部OFAC",
-          "url": "https://ofac.treasury.gov/recent-actions/20260717",
-          "publishedAt": "2026-07-17T00:00:00Z"
-        },
-        {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/finance/china-says-us-will-restore-hong-kongs-special-trade-status-2026-07-17/",
-          "publishedAt": "2026-07-17T14:37:00Z"
+          "url": "https://www.reuters.com/world/federal-employees-can-download-tiktok-government-devices-doj-says-2026-07-17/",
+          "publishedAt": "2026-07-17T23:24:00Z"
         }
       ]
     },
@@ -270,22 +265,22 @@
       ]
     },
     {
-      "id": "apple-overtakes-nvidia-market-value-2026-07-17",
-      "category": "科技商业",
+      "id": "us-ai-data-center-protests-national-2026-07-18",
+      "category": "AI与大模型",
       "importance": "high",
-      "title": "Apple盘中超越Nvidia成为全球市值最高公司",
-      "summary": "Reuters报道称，Apple在周五交易中市值约4.88万亿美元，短暂超过因股价下跌而降至约4.86万亿美元的Nvidia，这是Apple自2025年4月以来首次重回榜首。",
-      "impact": "资金正在从最直接的AI芯片受益者向终端平台和更广泛的大型科技公司重新配置，科技股内部估值分化加大。",
-      "whyItMatters": "全球市值榜首更替反映投资者对AI基础设施收益持续性、芯片估值和Apple终端AI策略的相对判断，而不是单纯的排名变化。",
-      "eventTime": "2026-07-17T13:03:00Z",
+      "title": "美国42州举行142场反数据中心抗议，AI基础设施遭遇社区阻力",
+      "summary": "Reuters统计，反数据中心活动在美国42个州的142个地点举行，诉求集中于电价、水资源、污染、审批透明度与社区收益。Reuters/Ipsos六月调查显示，仅14%的受访者支持在本地建设AI数据中心。",
+      "impact": "社区反对与地方审批风险可能放慢新增算力落地，并提高大型科技公司在能源、水资源、环保披露和社区补偿方面的成本。",
+      "whyItMatters": "AI竞争正在从芯片和模型延伸到电力、水、土地与社会许可；基础设施能否获得地方接受将直接影响扩容速度。",
+      "eventTime": "2026-07-18T10:06:00Z",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
-          "publishedAt": "2026-07-17T13:03:00Z"
+          "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
+          "publishedAt": "2026-07-18T10:06:00Z"
         }
       ]
     },
@@ -495,27 +490,22 @@
       ]
     },
     {
-      "id": "fairlife-us-production-cyberattack-2026-07-16",
+      "id": "ecopetrol-cloud-accounts-cyberattack-2026-07-18",
       "category": "DevOps/SRE",
       "importance": "high",
-      "title": "Fairlife因网络攻击暂停美国生产，业务连续性风险显现",
-      "summary": "可口可乐旗下乳品品牌Fairlife在第三方未经授权访问部分生产相关系统后，暂时停止美国生产并启动外部安全调查、事件响应和业务连续性程序。公司称现有产品质量与安全未受影响，加拿大业务继续运行。",
-      "impact": "攻击把信息系统事件直接传导到实体制造，可能造成供应、收入与恢复成本压力，并要求企业同时验证IT与OT隔离、备份和手动运营能力。",
-      "whyItMatters": "对SRE和安全团队而言，这一事件说明生产系统的身份控制、网络分段、应急切换和可恢复性必须作为同一个业务连续性问题管理。",
-      "eventTime": "2026-07-16T00:00:00Z",
+      "title": "哥伦比亚Ecopetrol披露网络攻击，约3300个云账户相关数据被窃",
+      "summary": "Ecopetrol称攻击者访问了15家子公司的云文件存储，窃取与约3300个账户相关的数据并发出勒索威胁；公司表示勒索软件部署被阻止，目前未发现关键运营或财务流程受扰。",
+      "impact": "事件可能引发监管、通知与供应链审查，也凸显大型能源集团跨子公司云权限、身份治理和数据分区的风险。",
+      "whyItMatters": "能源企业属于关键基础设施，攻击虽未中断生产，但被窃账户数据可能被用于后续钓鱼、身份冒用或横向渗透。",
+      "eventTime": "2026-07-18T04:23:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/coca-cola-says-fairlife-halts-us-production-after-cyber-attack-2026-07-16/",
-          "publishedAt": "2026-07-16T00:00:00Z"
-        },
-        {
-          "name": "AP",
-          "url": "https://apnews.com/article/e3a5574043f58a7340500c89d74c2ba6",
-          "publishedAt": "2026-07-17T00:00:00Z"
+          "url": "https://www.reuters.com/legal/government/colombias-ecopetrol-says-cyberattack-stole-data-tied-3300-accounts-2026-07-18/",
+          "publishedAt": "2026-07-18T04:23:00Z"
         }
       ]
     },
@@ -600,48 +590,48 @@
       ]
     },
     {
-      "id": "shein-hong-kong-ipo-committee-2026-07-17",
+      "id": "shanghai-xingshu-space-computing-constellation-2026-07-18",
       "category": "科技商业",
-      "importance": "medium",
-      "title": "Shein据报通过港交所上市委员会审议",
-      "summary": "Reuters援引知情人士称，Shein已获得港交所上市委员会批准，计划在7月27日当周公开首份上市文件，并可能最快于8月底启动IPO；目标估值约400亿至500亿美元。Shein和港交所未就审议结果置评。",
-      "impact": "若推进，将成为香港多年最受关注的消费类上市项目之一，也将检验市场对跨境电商、供应链治理和平台增长前景的估值。",
-      "whyItMatters": "Shein此前在纽约和伦敦上市受阻，转向香港并进入后续流程代表实质进展，但时间表和发行规模仍可能随市场变化。",
-      "eventTime": "2026-07-17T05:54:00Z",
+      "importance": "high",
+      "title": "上海星数发射首批太空计算卫星，规划建设千星在轨算力网络",
+      "summary": "上海星数启动太空计算项目的首个星座，计划最终部署约1000颗卫星，在轨完成遥感和AI数据处理，以减少大规模原始数据回传地面的带宽与时延压力。",
+      "impact": "若规模化推进，卫星算力可能改变遥感数据处理链、地面站需求和商业航天的成本结构，并带动星载芯片、散热和网络技术投入。",
+      "whyItMatters": "把计算靠近数据源是边缘计算向太空的延伸，也体现中国商业航天正从发射与遥感服务扩展到在轨计算基础设施。",
+      "eventTime": "2026-07-18T10:27:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/science/shanghai-xingshu-launches-first-constellation-its-space-based-computing-project-2026-07-18/",
+          "publishedAt": "2026-07-18T10:27:00Z"
+        }
+      ]
+    },
+    {
+      "id": "canada-ontario-wildfire-smoke-travel-2026-07-18",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "加拿大安大略省扩大山火疏散，烟霾影响加拿大南部及美国东部",
+      "summary": "安大略省约65.5万公顷土地正在燃烧，偏远社区依赖飞机疏散；加拿大境内有955处活跃山火。烟霾令安大略南部和美国东部部分地区空气质量恶化，预报暂未显示会显著影响世界杯决赛。",
+      "impact": "旅客可能面临航班、道路、户外活动和健康风险，前往受影响地区前应查看当地疏散令、空气质量与承运人通知。",
+      "whyItMatters": "山火同时影响偏远社区安全、跨境空气质量和大型活动出行，是夏季北美旅行决策的重要即时变量。",
+      "eventTime": "2026-07-18T13:23:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/legal/transactional/shein-secures-nod-hong-kong-listing-committee-ipo-sources-say-2026-07-17/",
-          "publishedAt": "2026-07-17T05:54:00Z"
-        }
-      ]
-    },
-    {
-      "id": "delta-taipei-typhoon-bavi-advisory-2026-07-16",
-      "category": "旅行与目的地",
-      "importance": "medium",
-      "title": "台风Bavi影响台北航班，航空公司发布旅行提醒",
-      "summary": "Delta的当前旅行提醒显示，受台风Bavi影响，往返或经停台北地区的行程可能受到影响；纽约地区雷暴也进入其最新运行提示。",
-      "impact": "相关旅客应及时查看航班状态、改签政策和机场交通，避免在信息变化期间按原计划直接前往机场。",
-      "whyItMatters": "天气类旅行风险变化快，航空公司实时运行提醒比目的地宣传信息更适合做临行决策。",
-      "eventTime": "2026-07-16T14:33:00-04:00",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Delta Air Lines",
-          "url": "https://de.delta.com/eu/de/advisories/current-advisories",
-          "publishedAt": "2026-07-16T14:33:00-04:00"
+          "url": "https://www.reuters.com/business/environment/canada-prepares-evacuate-ontario-community-wildfire-smoke-chokes-us-2026-07-18/",
+          "publishedAt": "2026-07-18T13:23:00Z"
         }
       ]
     }
   ],
   "market": {
-    "updatedAt": "2026-07-19T00:30:00+08:00",
+    "updatedAt": "2026-07-19T06:30:00+08:00",
     "marketStatus": "closed",
     "indices": [
       {
@@ -881,11 +871,11 @@
       {
         "symbol": "BTCUSD",
         "name": "比特币",
-        "value": 64089,
-        "changePercent": 1.05,
+        "value": 64698,
+        "changePercent": 1.2,
         "unit": "USD",
         "tradingDate": "2026-07-19",
-        "updatedAt": "2026-07-19T00:30:00+08:00",
+        "updatedAt": "2026-07-19T06:30:00+08:00",
         "marketStatus": "open"
       }
     ]

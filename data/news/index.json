@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-18T18:00:00+08:00",
+  "updatedAt": "2026-07-19T00:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-19",
+      "edition": "0030",
+      "editionLabel": "凌晨版",
+      "generatedAt": "2026-07-19T00:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "美伊冲突外溢、全球资本市场、中美与台海、全球旅行和科技安全等30条滚动资讯。",
+      "path": "data/news/2026-07-19-0030.json"
+    },
     {
       "date": "2026-07-18",
       "edition": "1830",

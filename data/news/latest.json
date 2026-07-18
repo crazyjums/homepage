@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-18",
-  "generatedAt": "2026-07-18T06:31:39+08:00",
+  "generatedAt": "2026-07-18T18:00:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "Moonshot发布2.8万亿参数开放权重模型Kimi K3，中国开放模型竞争进一步升温。",
-    "习近平在上海提出AI开放、安全与全球治理主张，并宣布面向发展中国家的能力建设措施。",
-    "全球芯片股连续第三日下跌，美伊冲突扩大到桥梁和海水淡化设施，WTI结算价上涨4.48%。"
+    "中美高层外交进入下一轮峰会筹备期，南海、科技管制与贸易仍是关键变量。",
+    "台海议题同时出现外交空间收缩与无人机防务扩张两条主线。",
+    "全球资本市场出现科技股承压、跨地区资金继续流入股票与债券基金的分化。",
+    "中东空域、台风、纽约世界杯交通与新增航线构成当前最实用的全球旅行提醒。",
+    "德国安全等级、俄乌无人机攻击、越南山洪与印度商业航天成为新增全球信号。"
   ],
   "topStory": "Moonshot发布Kimi K3，并宣称其在长程编码和多步骤任务上接近美国前沿模型。它与上海WAIC提出的开放AI治理路线形成同日呼应，也直接触发市场对AI资本开支、芯片需求和中美模型竞争格局的重新评估。",
-  "editorialNote": "本期收录过去24小时内10条经核验的重要信息。中国相关新闻同时采用新华社、中国官方材料与国际媒体信源，并区分官方主张、监管事实和媒体分析。仅公布日期而无具体时刻的OFAC页面以00:00Z规范化，具体发布时刻不作推断。行情采用7月17日最新收盘或可核验盘后数据；无法取得可靠数值的项目保留为null。",
+  "editorialNote": "本期按用户要求扩展为30条，新增中美关系、台海问题、全球资本市场、旅行与目的地、全球重要事件等专题。核心新闻优先覆盖过去24小时；对仍在生效且直接影响出行的官方旅行提醒，保留其原始发布时间并明确状态。仅公布日期而无具体时刻的官方页面统一按当地00:00规范化，不推断真实发布时间。行情沿用本日已核验快照，无法取得可靠值的项目保留为null。",
   "news": [
     {
       "id": "moonshot-kimi-k3-open-model-2026-07-17",
@@ -231,40 +233,656 @@
           "publishedAt": "2026-07-17T16:36:00Z"
         }
       ]
+    },
+    {
+      "id": "rubio-wang-trump-xi-summit-prep-2026-07-17",
+      "category": "中美关系",
+      "importance": "high",
+      "title": "鲁比奥赴马尼拉，预计与王毅讨论特朗普—习近平峰会筹备",
+      "summary": "美国国务卿鲁比奥将赴马尼拉参加东盟相关会议，预计与中国外长王毅接触，为可能于9月举行的特朗普—习近平会晤铺路。南海、缅甸、跨境诈骗和伊朗战争对亚洲贸易的冲击也在议程之中。",
+      "impact": "高层沟通有助于维持临时贸易缓和，但科技管制、南海与安全议题仍可能限制关系改善空间。",
+      "whyItMatters": "这是下一阶段中美关系的重要风向标，峰会筹备结果可能影响关税、出口管制、投资与区域安全预期。",
+      "eventTime": "2026-07-17T12:01:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/rubio-expected-discuss-trump-xi-summit-asia-meetings-2026-07-17/",
+          "publishedAt": "2026-07-17T12:01:00Z"
+        }
+      ]
+    },
+    {
+      "id": "png-closes-taiwan-office-2026-07-17",
+      "category": "台海问题",
+      "importance": "high",
+      "title": "巴布亚新几内亚要求关闭台湾代表处，美中台分别表态",
+      "summary": "巴布亚新几内亚宣布关闭台北经济文化办事处。北京表示赞赏，台北称其面临持续外交压力，美国国务院则表示深切关切；目前台湾仅剩12个正式邦交国。",
+      "impact": "台湾在太平洋地区的非正式外交空间进一步收窄，美中在岛国的影响力竞争可能升温。",
+      "whyItMatters": "这不是军事动态，却是台海议题国际化与外交承认竞争的实质变化。",
+      "eventTime": "2026-07-17T06:51:40Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-suppressing-taiwan-everywhere-vice-president-says-png-pressure-2026-07-17/",
+          "publishedAt": "2026-07-17T06:51:40Z"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-drone-defence-budget-2026-07-17",
+      "category": "台海问题",
+      "importance": "high",
+      "title": "赖清德推动2100亿新台币无人机防务计划",
+      "summary": "台湾地区领导人赖清德呼吁立法机构支持一项截至2031年的2100亿新台币无人机计划，覆盖侦察、岸防攻击和小型水面无人系统，并将其描述为承担集体防卫责任的一部分。",
+      "impact": "计划若获批，将扩大台湾非对称防务投入，也会带动本地无人机与供应链产业。",
+      "whyItMatters": "无人系统已成为台海威慑建设核心，但预算仍面临朝野协商，最终规模尚未确定。",
+      "eventTime": "2026-07-17T05:55:30Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/taiwan-must-heed-calls-share-responsibility-collective-defence-president-says-2026-07-17/",
+          "publishedAt": "2026-07-17T05:55:30Z"
+        }
+      ]
+    },
+    {
+      "id": "global-fund-flows-eighth-week-2026-07-17",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "全球股票基金连续第八周净流入，资金偏向欧洲与亚洲",
+      "summary": "截至7月15日的一周，全球股票基金净流入124.6亿美元，连续第八周吸金；欧洲与亚洲基金分别流入94.9亿和54亿美元，美国基金则流出约48亿美元。全球债券基金连续第15周净流入。",
+      "impact": "资金流显示风险偏好尚未全面逆转，但地区配置从美国向欧洲、亚洲分散，债券需求仍强。",
+      "whyItMatters": "单日股指波动之外，跨地区资金流更能反映机构投资者的中期配置方向。",
+      "eventTime": "2026-07-17T10:12:41Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/finance/global-markets-flows-graphic-2026-07-17/",
+          "publishedAt": "2026-07-17T10:12:41Z"
+        }
+      ]
+    },
+    {
+      "id": "china-july-lpr-poll-2026-07-17",
+      "category": "宏观经济与投资",
+      "importance": "high",
+      "title": "机构预计中国7月LPR连续第14个月保持不变",
+      "summary": "Reuters对23位市场人士的调查显示，受访者一致预计一年期和五年期LPR将分别维持3.00%和3.50%。出口保持韧性，但消费与房地产仍拖累内需。",
+      "impact": "若利率不变，短期政策重点可能继续放在财政执行和定向支持，而不是全面降息。",
+      "whyItMatters": "LPR直接影响企业贷款与住房按揭定价，是观察中国稳增长政策力度的重要指标。",
+      "eventTime": "2026-07-17T18:48:09Z",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/china-set-leave-benchmark-lending-rates-unchanged-14th-month-july-2026-07-17/",
+          "publishedAt": "2026-07-17T18:48:09Z"
+        }
+      ]
+    },
+    {
+      "id": "indonesia-bank-liquidity-monitoring-2026-07-17",
+      "category": "宏观经济与投资",
+      "importance": "medium",
+      "title": "印尼央行加强监测银行体系流动性分布",
+      "summary": "印尼央行表示正监测各银行的流动性分布，以确保金融机构在支持经济增长的同时维持稳定。",
+      "impact": "政策关注点从总量流动性延伸到银行间分布，可能影响后续公开市场操作与信贷投放。",
+      "whyItMatters": "印尼是重要新兴市场，其流动性与汇率政策变化会影响东南亚资产风险偏好。",
+      "eventTime": "2026-07-17T10:31:57Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-central-bank-says-it-is-monitoring-banking-liquidity-2026-07-17/",
+          "publishedAt": "2026-07-17T10:31:57Z"
+        }
+      ]
+    },
+    {
+      "id": "eu-cross-border-bank-reform-2026-07-17",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "欧盟拟减少跨境银行并购障碍，提升与美国大行竞争能力",
+      "summary": "欧盟委员会计划限制成员国对跨境银行并购的不当政治干预，并研究集团层面资本与流动性安排。相关改革方案预计于2027年初提出。",
+      "impact": "若落地，欧洲银行整合速度可能加快，资本效率和跨境金融竞争格局将发生变化。",
+      "whyItMatters": "欧洲银行长期受市场碎片化制约，改革可能释放约2300亿欧元流动资产并推动大型交易。",
+      "eventTime": "2026-07-17T13:13:46Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/finance/eu-plans-measures-help-eu-banks-build-scale-compete-with-us-rivals-2026-07-17/",
+          "publishedAt": "2026-07-17T13:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "boe-gilt-repo-regulation-2026-07-17",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "英国央行称国债回购市场监管不能维持现状",
+      "summary": "英国央行副行长Sarah Breeden表示，约2000亿英镑净借款规模的英国国债回购市场存在危机时流动性枯竭风险，支持扩大中央清算和更合理的风险折扣。",
+      "impact": "改革可能提高部分杠杆交易成本，但有助于降低对交易商资产负债表和央行紧急干预的依赖。",
+      "whyItMatters": "国债回购是全球金融体系关键融资管道，英国2022年的市场动荡证明其风险会迅速外溢。",
+      "eventTime": "2026-07-17T12:29:02Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/uk/bank-england-says-action-needed-gilt-repo-market-regulation-2026-07-17/",
+          "publishedAt": "2026-07-17T12:29:02Z"
+        }
+      ]
+    },
+    {
+      "id": "europe-stocks-tech-ecb-watch-2026-07-17",
+      "category": "全球资本市场",
+      "importance": "medium",
+      "title": "欧洲股市受科技股抛售拖累，市场转向下周ECB会议",
+      "summary": "泛欧STOXX 600收跌0.34%，科技板块本周下跌3.27%。油价上涨和中东冲突增加通胀不确定性，投资者等待欧洲央行7月23日会议。",
+      "impact": "科技估值压力与能源成本上升并存，欧洲股票和利率市场对央行措辞会更加敏感。",
+      "whyItMatters": "这说明全球芯片抛售已传导至欧洲，同时货币政策预期开始重新定价。",
+      "eventTime": "2026-07-17T07:23:17Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/markets/europe/european-shares-slip-tech-stocks-mideast-tensions-weigh-2026-07-17/",
+          "publishedAt": "2026-07-17T07:23:17Z"
+        }
+      ]
+    },
+    {
+      "id": "dublin-airport-passenger-cap-law-2026-07-16",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "爱尔兰通过法律推进取消都柏林机场年旅客上限",
+      "summary": "爱尔兰总统签署新法，为调整或取消都柏林机场每年3200万人次上限建立法律基础。该机场承载全国约80%的航空客流，最终调整仍需环境评估。",
+      "impact": "中长期有利于增加爱尔兰与欧洲、北美之间的航班容量，但环保与地面交通压力仍需平衡。",
+      "whyItMatters": "对计划前往爱尔兰的旅客而言，航线供给可能改善；短期内上限并非立即无条件取消。",
+      "eventTime": "2026-07-16T16:19:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/ireland-enacts-law-lift-dublin-airport-passenger-cap-2026-07-16/",
+          "publishedAt": "2026-07-16T16:19:00Z"
+        }
+      ]
+    },
+    {
+      "id": "new-york-world-cup-travel-advisory-2026-07-17",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "纽约新泽西发布世界杯决赛周末交通提醒",
+      "summary": "纽约新泽西港务局提醒，世界杯决赛与JFK机场改造工程可能导致机场道路和区域交通拥堵，建议旅客优先使用公共交通、提前预订停车并预留额外时间。",
+      "impact": "经JFK、纽瓦克机场出行或前往决赛场地的旅客可能遇到绕行、停车紧张和更长安检时间。",
+      "whyItMatters": "这是直接影响本周末纽约都会区旅行安排的官方操作信息，具有即时可执行价值。",
+      "eventTime": "2026-07-17T00:00:00-04:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "纽约新泽西港务局",
+          "url": "https://www.panynj.gov/port-authority/en/press-room/press-release-archives/2026-press-releases/weekly-travel-advisory-for-july-17-to-23.html",
+          "publishedAt": "2026-07-17T00:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "chinese-airlines-airbus-95-order-2026-07-17",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "中国三家航空公司订购95架空客飞机",
+      "summary": "国航、深圳航空和海南航空合计订购95架空客飞机，目录价约178亿美元，包括A350-900和A320neo系列，计划于2028年至2032年陆续交付。",
+      "impact": "订单将扩大中国国内与国际航空运力，并提升燃油效率；实际成交价格通常低于目录价。",
+      "whyItMatters": "大型机队扩张是未来航线供给和旅游市场恢复的重要先行指标，也影响空客与波音在中国的竞争。",
+      "eventTime": "2026-07-17T10:26:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/air-china-shenzhen-airlines-order-55-airbus-jets-with-list-price-124-billion-2026-07-17/",
+          "publishedAt": "2026-07-17T10:26:00Z"
+        }
+      ]
+    },
+    {
+      "id": "riyadh-air-madrid-route-launch-2026-07-17",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "利雅得航空开通利雅得—马德里直飞航线",
+      "summary": "利雅得航空按计划于7月17日开通利雅得至马德里航线；该公司还安排夏季马拉加航线，并计划从7月30日起运营吉隆坡全年航线。",
+      "impact": "中东与西班牙、东南亚之间新增直飞选择，有利于商务和休闲客流，也扩大沙特航空枢纽竞争。",
+      "whyItMatters": "对全球目的地规划而言，这是已进入运营节点的新航线，而非仅停留在长期规划。",
+      "eventTime": "2026-07-17T00:00:00+03:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "沙特通讯社",
+          "url": "https://www.spa.gov.sa/en/N2624777",
+          "publishedAt": "2026-06-30T15:50:00+03:00"
+        }
+      ]
+    },
+    {
+      "id": "easa-middle-east-airspace-warning-2026-07-14",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "EASA强化中东空域警告，多地航班仍可能调整",
+      "summary": "欧洲航空安全局建议航空公司避开巴林、科威特、卡塔尔、阿联酋和阿曼湾空域，相关公告有效至7月29日；针对伊朗、伊拉克和黎巴嫩的避飞建议延长至8月底。",
+      "impact": "前往或经停海湾地区的航班可能绕飞、延误或取消，飞行时间和票价存在上行压力。",
+      "whyItMatters": "这是仍在生效的区域旅行风险提示，旅客应在出发前再次核对航空公司和机场通知。",
+      "eventTime": "2026-07-14T13:09:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/eu-aviation-body-reinstates-middle-east-flights-warning-fighting-resumes-2026-07-14/",
+          "publishedAt": "2026-07-14T13:09:00Z"
+        }
+      ]
+    },
+    {
+      "id": "delta-taipei-typhoon-bavi-advisory-2026-07-16",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "台风Bavi影响台北航班，航空公司发布旅行提醒",
+      "summary": "Delta的当前旅行提醒显示，受台风Bavi影响，往返或经停台北地区的行程可能受到影响；纽约地区雷暴也进入其最新运行提示。",
+      "impact": "相关旅客应及时查看航班状态、改签政策和机场交通，避免在信息变化期间按原计划直接前往机场。",
+      "whyItMatters": "天气类旅行风险变化快，航空公司实时运行提醒比目的地宣传信息更适合做临行决策。",
+      "eventTime": "2026-07-16T14:33:00-04:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Delta Air Lines",
+          "url": "https://de.delta.com/eu/de/advisories/current-advisories",
+          "publishedAt": "2026-07-16T14:33:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "un-hlpf-sdg-declaration-2026-07-15",
+      "category": "全球重要事件",
+      "importance": "medium",
+      "title": "联合国可持续发展高级别政治论坛通过部长级宣言",
+      "summary": "联合国HLPF在纽约闭幕并通过部长级宣言，重点审议清洁水与卫生、清洁能源、产业创新、可持续城市和全球伙伴关系。论坛汇集政府、企业与社会组织代表。",
+      "impact": "宣言本身不具强制力，但会影响各国2030议程政策排序、发展融资与国际合作项目。",
+      "whyItMatters": "距离2030年不足五年，SDG执行与融资缺口将持续影响基础设施、能源和全球南方发展。",
+      "eventTime": "2026-07-15T00:00:00-04:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "联合国",
+          "url": "https://www.un.org/sustainabledevelopment/blog/2026/07/closing-press-release-hlpf-2026/",
+          "publishedAt": "2026-07-15T00:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "germany-high-threat-level-2026-07-18",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "德国将国内安全评估提升至“高威胁级别”",
+      "summary": "德国内政部长表示，基于不断增加的报告和情报，德国把安全态势从“抽象威胁”提升至“高威胁”，需随时考虑针对基础设施、个人和机构的袭击风险。",
+      "impact": "德国可能加强公共场所、交通枢纽和关键基础设施的安保，旅行者也可能遇到更严格检查。",
+      "whyItMatters": "这是欧洲最大经济体安全风险判断的明确升级，但目前公开信息仍缺乏具体威胁细节。",
+      "eventTime": "2026-07-18T09:38:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/germany-upgrades-security-stance-high-threat-level-interior-minister-tells-paper-2026-07-18/",
+          "publishedAt": "2026-07-18T09:38:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-drone-attacks-russia-warehouses-2026-07-18",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "乌克兰无人机袭击俄罗斯仓库与油库，造成平民伤亡",
+      "summary": "俄罗斯地方官员称，乌克兰无人机袭击坦波夫州和莫斯科州的仓库，造成7名夜班工人死亡、数十人受伤，另有油库起火；乌方称目标包括用于无人机生产的物流设施。",
+      "impact": "远程无人机攻击继续扩大到物流和能源设施，增加平民伤亡、供应链与地区安全风险。",
+      "whyItMatters": "战事正在以低成本无人系统向纵深基础设施扩展，冲突外溢和误伤风险持续上升。",
+      "eventTime": "2026-07-18T07:05:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukrainian-drone-attacks-kill-seven-warehouse-workers-russia-spark-fire-moscow-2026-07-18/",
+          "publishedAt": "2026-07-18T07:05:00Z"
+        }
+      ]
+    },
+    {
+      "id": "india-skyroot-vikram1-launch-2026-07-18",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "印度Skyroot发射首枚私人研发轨道火箭Vikram-1",
+      "summary": "印度航天初创公司Skyroot Aerospace发射Vikram-1，这是印度首枚由私人企业研发的轨道火箭，也是该国争取全球商业发射市场的重要测试。",
+      "impact": "成功商业化将增加小型卫星发射选择，并推动印度私人航天、供应链和风险资本市场发展。",
+      "whyItMatters": "商业航天竞争正从美中欧扩展至印度，发射能力是衡量产业链成熟度的关键门槛。",
+      "eventTime": "2026-07-18T06:42:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/science/indias-skyroot-launches-vikram-1-first-private-orbital-rocket-mission-2026-07-18/",
+          "publishedAt": "2026-07-18T06:42:00Z"
+        }
+      ]
+    },
+    {
+      "id": "vietnam-flash-flood-2026-07-18",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "越南突发山洪造成4人死亡、4人失踪",
+      "summary": "越南发生突发山洪，Reuters报道称至少4人死亡、4人失踪。救援和损失评估仍在继续。",
+      "impact": "极端降雨可能继续影响道路、山区社区和旅游交通，失踪人数与基础设施损失仍可能变化。",
+      "whyItMatters": "东南亚雨季灾害对居民安全、区域交通和旅行计划均有即时影响，需要持续关注官方预警。",
+      "eventTime": "2026-07-18T05:30:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/flash-flood-kills-4-leaves-4-others-missing-vietnam-2026-07-18/",
+          "publishedAt": "2026-07-18T05:30:00Z"
+        }
+      ]
     }
   ],
   "market": {
     "updatedAt": "2026-07-18T06:31:39+08:00",
     "marketStatus": "closed",
     "indices": [
-      { "symbol": "IXIC", "name": "纳斯达克指数", "value": 25520.24, "changePercent": -1.40, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "SPX", "name": "标普500", "value": 7457.69, "changePercent": -1.01, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "DJI", "name": "道琼斯指数", "value": 52146.42, "changePercent": -0.77, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "NDX", "name": "纳斯达克100", "value": 28759.60, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "RUT", "name": "罗素2000", "value": 2962.22, "changePercent": -0.42, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "000001.SS", "name": "上证指数", "value": 3764.15, "changePercent": -3.05, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T07:00:00Z", "marketStatus": "closed" },
-      { "symbol": "000300.SS", "name": "沪深300", "value": 4529.10, "changePercent": -3.60, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T07:00:00Z", "marketStatus": "closed" },
-      { "symbol": "HSI", "name": "恒生指数", "value": 24562.24, "changePercent": -1.78, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T08:08:36Z", "marketStatus": "closed" },
-      { "symbol": "HSTECH", "name": "恒生科技指数", "value": 4623.17, "changePercent": -4.37, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T08:08:36Z", "marketStatus": "closed" },
-      { "symbol": "N225", "name": "日经225", "value": 64141.12, "changePercent": -4.03, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T06:00:00Z", "marketStatus": "closed" }
+      {
+        "symbol": "IXIC",
+        "name": "纳斯达克指数",
+        "value": 25520.24,
+        "changePercent": -1.4,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "SPX",
+        "name": "标普500",
+        "value": 7457.69,
+        "changePercent": -1.01,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DJI",
+        "name": "道琼斯指数",
+        "value": 52146.42,
+        "changePercent": -0.77,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NDX",
+        "name": "纳斯达克100",
+        "value": 28759.6,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "RUT",
+        "name": "罗素2000",
+        "value": 2962.22,
+        "changePercent": -0.42,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000001.SS",
+        "name": "上证指数",
+        "value": 3764.15,
+        "changePercent": -3.05,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000300.SS",
+        "name": "沪深300",
+        "value": 4529.1,
+        "changePercent": -3.6,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSI",
+        "name": "恒生指数",
+        "value": 24562.24,
+        "changePercent": -1.78,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSTECH",
+        "name": "恒生科技指数",
+        "value": 4623.17,
+        "changePercent": -4.37,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "N225",
+        "name": "日经225",
+        "value": 64141.12,
+        "changePercent": -4.03,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T06:00:00Z",
+        "marketStatus": "closed"
+      }
     ],
     "megaCapStocks": [
-      { "symbol": "AAPL", "name": "Apple", "value": 333.74, "changePercent": 0.13, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:39Z", "marketStatus": "after-hours" },
-      { "symbol": "MSFT", "name": "Microsoft", "value": 393.82, "changePercent": -1.80, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:31Z", "marketStatus": "after-hours" },
-      { "symbol": "NVDA", "name": "Nvidia", "value": 202.81, "changePercent": -2.28, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:47Z", "marketStatus": "after-hours" },
-      { "symbol": "GOOGL", "name": "Alphabet", "value": 346.77, "changePercent": -2.16, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:13Z", "marketStatus": "after-hours" },
-      { "symbol": "AMZN", "name": "Amazon", "value": 247.23, "changePercent": -1.05, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:07Z", "marketStatus": "after-hours" },
-      { "symbol": "META", "name": "Meta", "value": 646.01, "changePercent": -2.82, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:17:30Z", "marketStatus": "after-hours" },
-      { "symbol": "TSLA", "name": "Tesla", "value": 380.84, "changePercent": -2.63, "unit": "USD", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:18:20Z", "marketStatus": "after-hours" }
+      {
+        "symbol": "AAPL",
+        "name": "Apple",
+        "value": 333.74,
+        "changePercent": 0.13,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:39Z",
+        "marketStatus": "after-hours"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft",
+        "value": 393.82,
+        "changePercent": -1.8,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:31Z",
+        "marketStatus": "after-hours"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "value": 202.81,
+        "changePercent": -2.28,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:47Z",
+        "marketStatus": "after-hours"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "value": 346.77,
+        "changePercent": -2.16,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:13Z",
+        "marketStatus": "after-hours"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "value": 247.23,
+        "changePercent": -1.05,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:07Z",
+        "marketStatus": "after-hours"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "value": 646.01,
+        "changePercent": -2.82,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:30Z",
+        "marketStatus": "after-hours"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla",
+        "value": 380.84,
+        "changePercent": -2.63,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:20Z",
+        "marketStatus": "after-hours"
+      }
     ],
     "assets": [
-      { "symbol": "VIX", "name": "VIX", "value": 18.09, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T20:00:00Z", "marketStatus": "closed" },
-      { "symbol": "US10Y", "name": "美国10年期国债收益率", "value": 4.554, "changePercent": null, "unit": "%", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
-      { "symbol": "DXY", "name": "美元指数", "value": 100.73, "changePercent": null, "unit": "点", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
-      { "symbol": "USDCNY", "name": "美元兑人民币", "value": null, "changePercent": null, "unit": "CNY", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T22:31:39Z", "marketStatus": "unknown" },
-      { "symbol": "XAUUSD", "name": "黄金", "value": 3985.80, "changePercent": 0.19, "unit": "USD/oz", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T21:00:00Z", "marketStatus": "closed" },
-      { "symbol": "WTI", "name": "WTI原油", "value": 82.49, "changePercent": 4.48, "unit": "USD/bbl", "tradingDate": "2026-07-17", "updatedAt": "2026-07-17T18:30:00Z", "marketStatus": "closed" },
-      { "symbol": "BTCUSD", "name": "比特币", "value": 63922, "changePercent": -0.19, "unit": "USD", "tradingDate": "2026-07-18", "updatedAt": "2026-07-17T22:31:39Z", "marketStatus": "open" }
+      {
+        "symbol": "VIX",
+        "name": "VIX",
+        "value": 18.09,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "US10Y",
+        "name": "美国10年期国债收益率",
+        "value": 4.554,
+        "changePercent": null,
+        "unit": "%",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": 100.73,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "USDCNY",
+        "name": "美元兑人民币",
+        "value": null,
+        "changePercent": null,
+        "unit": "CNY",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:31:39Z",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "XAUUSD",
+        "name": "黄金",
+        "value": 3985.8,
+        "changePercent": 0.19,
+        "unit": "USD/oz",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": 82.49,
+        "changePercent": 4.48,
+        "unit": "USD/bbl",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T18:30:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "BTCUSD",
+        "name": "比特币",
+        "value": 63922,
+        "changePercent": -0.19,
+        "unit": "USD",
+        "tradingDate": "2026-07-18",
+        "updatedAt": "2026-07-17T22:31:39Z",
+        "marketStatus": "open"
+      }
     ]
   }
 }

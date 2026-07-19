@@ -1,167 +1,165 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T06:30:00+08:00",
+  "generatedAt": "2026-07-19T12:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "美国反AI数据中心抗议扩展至42个州142个地点，地方许可与能源基础设施成为算力扩张新约束。",
-    "美军确认约旦遇袭两人死亡，美伊冲突继续抬升能源、航运、航空与区域旅行风险。",
-    "Ecopetrol、肯尼亚政府网站等网络安全事件提示关键基础设施身份和云权限风险。",
-    "美国政府设备上的TikTok适用规则调整，中美科技与数据安全政策出现新变化。",
-    "加拿大山火烟霾与上海太空计算星座带来新的旅行和科技基础设施信息。"
+    "俄军弹道导弹袭击基辅及周边地区，造成至少1人死亡、11人受伤。",
+    "国家开发银行原行长欧阳卫民接受纪律审查和监察调查。",
+    "英格兰6比4击败法国获得世界杯季军，姆巴佩以22球刷新世界杯历史射手纪录。",
+    "三星电子美国新泽西业务涉及739个岗位调整，总部计划迁往得州。",
+    "世界杯商业收入据报达到150亿美元，北美三国领导人将共同出席决赛。"
   ],
-  "topStory": "本版相对凌晨版新增或发生实质变化的重点，是美国反数据中心抗议扩展到42州，以及美伊冲突新增美军人员伤亡确认。",
-  "editorialNote": "2026-07-19早间版为增量更新，共7条，仅保留相对凌晨版新增或发生实质变化的信息；未重复凌晨版已有新闻。",
+  "topStory": "俄军弹道导弹袭击基辅并波及住宅、宿舍、超市与仓库，是午间版最值得关注的安全事件；明确伤亡与民用设施受损显示战争风险仍在升级。",
+  "editorialNote": "2026-07-19午间版为增量更新，共7条，仅发布相对凌晨版和早间版新增的信息；未重复当天已发布新闻。三星岗位调整发生时间略早于最近6小时窗口，但此前版本未收录且具有较高科技商业价值，因此纳入本版。",
+  "updateMode": "incremental",
+  "baseEdition": "0630",
+  "previousGeneratedAt": "2026-07-19T06:30:00+08:00",
   "news": [
     {
-      "id": "iran-gulf-jordan-strikes-kuwait-infrastructure-2026-07-18",
+      "id": "russia-ballistic-missile-strike-kyiv-2026-07-19",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "俄军弹道导弹袭击基辅，至少1人死亡、11人受伤",
+      "summary": "乌克兰官员称，俄军导弹在当地周日清晨击中基辅及周边地区，造成至少1人死亡；基辅市内9人受伤、基辅州另有2人受伤。宿舍、住宅楼、超市、仓库及车辆起火或受损。",
+      "impact": "袭击显示乌克兰首都的防空与民用基础设施仍承受高强度压力，可能推动更多防空援助需求并加剧地区安全风险。",
+      "whyItMatters": "这是本时段伤亡最明确的重大安全事件，且目标波及多类民用设施。",
+      "eventTime": "2026-07-19T02:27:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-ballistic-missiles-rock-kyiv-one-killed-officials-say-2026-07-19/",
+          "publishedAt": "2026-07-19T02:27:00Z"
+        }
+      ]
+    },
+    {
+      "id": "china-development-bank-ouyang-weimin-investigation-2026-07-19",
       "category": "中国与国际新闻",
       "importance": "high",
-      "title": "美军确认约旦遇袭两人死亡，美伊冲突继续外溢至海湾关键设施",
-      "summary": "美军称约旦一处基地遇袭造成两名美军人员死亡、另有一人失踪，使本轮冲突中的美军死亡人数升至16人、伤者超过420人。伊朗相关攻击继续波及沙特、科威特、约旦及海湾基础设施，欧盟和海湾国家呼吁停止干扰海上航行。",
-      "impact": "人员伤亡上升与关键设施遇袭提高进一步报复、能源运输中断、空域限制和区域旅行风险，油价与避险资产仍可能剧烈波动。",
-      "whyItMatters": "美军新增死亡意味着冲突的人力与政治成本继续上升，任何误判都可能把有限打击推向更广泛的地区战争。",
-      "eventTime": "2026-07-18T17:27:16Z",
-      "status": "developing",
+      "title": "国家开发银行原行长欧阳卫民接受反腐调查",
+      "summary": "中国中央纪委国家监委通报，国家开发银行原行长欧阳卫民涉嫌严重违纪违法，正接受纪律审查和监察调查。目前通报尚未披露具体事项。",
+      "impact": "调查可能引发对政策性银行内部治理、信贷决策与合规体系的进一步审视。",
+      "whyItMatters": "国家开发银行在基础设施和政策性融资中地位重要，高层调查具有明显的金融治理信号意义。",
+      "eventTime": "2026-07-19T03:15:00Z",
+      "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-renews-attacks-gulf-states-after-another-night-us-strikes-2026-07-18/",
-          "publishedAt": "2026-07-18T03:55:00Z"
-        },
-        {
-          "name": "AP",
-          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2",
-          "publishedAt": "2026-07-18T00:00:00Z"
+          "url": "https://www.reuters.com/world/china/former-china-development-bank-president-put-under-anti-graft-investigation-2026-07-19/",
+          "publishedAt": "2026-07-19T03:15:00Z"
         }
       ]
     },
     {
-      "id": "kenya-president-website-cyber-incident-2026-07-18",
-      "category": "DevOps/SRE",
+      "id": "samsung-electronics-america-new-jersey-workforce-2026-07-18",
+      "category": "科技商业",
       "importance": "medium",
-      "title": "肯尼亚调查总统官方网站网络安全事件",
-      "summary": "肯尼亚信息通信部门表示正在调查影响总统官方网站的网络安全事件；截至披露时，尚无证据表明敏感数据被访问或丢失，事件范围与攻击来源仍在核查。",
-      "impact": "政府网站受扰可能影响公众信息发布与数字政务信任，并促使公共部门加强日志留存、供应链审查和应急恢复。",
-      "whyItMatters": "在事实仍有限时，明确区分网站可用性事件与已证实的数据泄露，有助于避免夸大风险并持续跟踪调查结果。",
-      "eventTime": "2026-07-18T12:56:00Z",
+      "title": "三星电子美国新泽西业务涉及739个岗位调整，总部计划迁往得州",
+      "summary": "Reuters援引WARN通知称，三星电子美国在新泽西Englewood Cliffs涉及739个岗位调整。三星表示总部拟于年内迁往得州，多数受影响员工获得搬迁选项，并认为不应将全部变化简单描述为裁员。",
+      "impact": "总部迁移可能改变三星美国消费电子业务的人员分布与运营成本，并影响当地就业。",
+      "whyItMatters": "调整覆盖其美国显示器、手机、电视和家电销售营销团队，规模相对于当地约1200名员工较大。",
+      "eventTime": "2026-07-18T21:58:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/legal/litigation/kenya-investigating-cybersecurity-incident-affecting-presidents-website-2026-07-18/",
-          "publishedAt": "2026-07-18T12:56:00Z"
+          "url": "https://www.reuters.com/business/samsung-electronics-america-reduce-workforce-by-739-new-jersey-us-warn-notice-2026-07-18/",
+          "publishedAt": "2026-07-18T21:58:00Z"
         }
       ]
     },
     {
-      "id": "us-federal-tiktok-government-devices-policy-2026-07-17",
+      "id": "england-france-world-cup-third-place-2026-07-18",
+      "category": "世界杯或重要体育新闻",
+      "importance": "high",
+      "title": "英格兰6比4击败法国获世界杯季军，姆巴佩刷新历史进球纪录",
+      "summary": "英格兰在季军赛以6比4战胜法国，首次获得世界杯第三名；10个进球刷新季军赛纪录。萨卡上演帽子戏法，姆巴佩梅开二度并以世界杯累计22球成为历史射手榜第一。",
+      "impact": "比赛改写多项世界杯纪录，也为法国主帅德尚的最后一战和决赛前金靴竞争增加新背景。",
+      "whyItMatters": "这是世界杯决赛前最重要的已完成赛事结果，兼具球队历史与个人纪录价值。",
+      "eventTime": "2026-07-18T23:43:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/england-survive-france-fightback-secure-third-place-miami-goalfest-2026-07-18/",
+          "publishedAt": "2026-07-18T23:43:00Z"
+        }
+      ]
+    },
+    {
+      "id": "mexico-sheinbaum-world-cup-final-trump-invitation-2026-07-18",
       "category": "中美关系",
-      "importance": "high",
-      "title": "美国司法部称联邦雇员可在政府设备使用TikTok，具体仍受机构政策约束",
-      "summary": "美国司法部表示，2022年针对政府设备的TikTok禁令在美国业务合资安排后不再适用；新架构由美国及全球投资者持有80.1%，字节跳动持有19.9%，数据使用Oracle云服务。各联邦机构仍可制定更严格规则。",
-      "impact": "政策变化降低TikTok在部分联邦设备上的制度障碍，但数据治理、算法控制和机构级安全限制仍会继续接受审查。",
-      "whyItMatters": "这是中美科技与数据安全政策的重要转折点，也将影响TikTok美国业务的合规预期与政府采购安全边界。",
-      "eventTime": "2026-07-17T23:24:00Z",
+      "importance": "medium",
+      "title": "墨西哥总统将与美加领导人共同出席世界杯决赛",
+      "summary": "墨西哥总统辛鲍姆表示，将应美国总统特朗普邀请，与加拿大总理卡尼共同出席在新泽西举行的世界杯决赛。她称三国东道主共同出席具有政治意义，也体现与美国政府的协调。",
+      "impact": "三国领导人在赛事期间同场，为北美贸易协定重谈前的政治沟通提供窗口；美墨第三轮谈判将于周二举行。",
+      "whyItMatters": "体育外交与钢铁、汽车、农业及电子支付等贸易议题在同一时间交汇，可能影响北美经贸气氛。",
+      "eventTime": "2026-07-18T23:48:00Z",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/federal-employees-can-download-tiktok-government-devices-doj-says-2026-07-17/",
-          "publishedAt": "2026-07-17T23:24:00Z"
+          "url": "https://www.reuters.com/sports/soccer/mexicos-sheinbaum-attend-world-cup-final-president-trumps-invitation-2026-07-18/",
+          "publishedAt": "2026-07-18T23:48:00Z"
         }
       ]
     },
     {
-      "id": "us-ai-data-center-protests-national-2026-07-18",
-      "category": "AI与大模型",
-      "importance": "high",
-      "title": "美国42州举行142场反数据中心抗议，AI基础设施遭遇社区阻力",
-      "summary": "Reuters统计，反数据中心活动在美国42个州的142个地点举行，诉求集中于电价、水资源、污染、审批透明度与社区收益。Reuters/Ipsos六月调查显示，仅14%的受访者支持在本地建设AI数据中心。",
-      "impact": "社区反对与地方审批风险可能放慢新增算力落地，并提高大型科技公司在能源、水资源、环保披露和社区补偿方面的成本。",
-      "whyItMatters": "AI竞争正在从芯片和模型延伸到电力、水、土地与社会许可；基础设施能否获得地方接受将直接影响扩容速度。",
-      "eventTime": "2026-07-18T10:06:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
-          "publishedAt": "2026-07-18T10:06:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ecopetrol-cloud-accounts-cyberattack-2026-07-18",
-      "category": "DevOps/SRE",
-      "importance": "high",
-      "title": "哥伦比亚Ecopetrol披露网络攻击，约3300个云账户相关数据被窃",
-      "summary": "Ecopetrol称攻击者访问了15家子公司的云文件存储，窃取与约3300个账户相关的数据并发出勒索威胁；公司表示勒索软件部署被阻止，目前未发现关键运营或财务流程受扰。",
-      "impact": "事件可能引发监管、通知与供应链审查，也凸显大型能源集团跨子公司云权限、身份治理和数据分区的风险。",
-      "whyItMatters": "能源企业属于关键基础设施，攻击虽未中断生产，但被窃账户数据可能被用于后续钓鱼、身份冒用或横向渗透。",
-      "eventTime": "2026-07-18T04:23:00Z",
+      "id": "peru-central-earthquake-magnitude-56-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "秘鲁中部发生5.6级地震，震源深度约22公里",
+      "summary": "欧洲地中海地震中心称，秘鲁中部发生5.6级地震，震源深度约22公里。截至本版生成时，可靠信源尚未报告重大伤亡或广泛破坏。",
+      "impact": "前往受影响地区的旅客应关注当地余震、道路、机场与官方应急通报，避免依据社交媒体传言调整行程。",
+      "whyItMatters": "地震较浅且震级达到中强水平，后续是否出现基础设施损害仍需持续核验。",
+      "eventTime": "2026-07-19T02:47:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/legal/government/colombias-ecopetrol-says-cyberattack-stole-data-tied-3300-accounts-2026-07-18/",
-          "publishedAt": "2026-07-18T04:23:00Z"
+          "url": "https://www.reuters.com/business/environment/earthquake-magnitude-56-strikes-central-peru-emsc-says-2026-07-19/",
+          "publishedAt": "2026-07-19T02:47:00Z"
         }
       ]
     },
     {
-      "id": "shanghai-xingshu-space-computing-constellation-2026-07-18",
+      "id": "fifa-world-cup-record-15-billion-revenue-2026-07-18",
       "category": "科技商业",
       "importance": "high",
-      "title": "上海星数发射首批太空计算卫星，规划建设千星在轨算力网络",
-      "summary": "上海星数启动太空计算项目的首个星座，计划最终部署约1000颗卫星，在轨完成遥感和AI数据处理，以减少大规模原始数据回传地面的带宽与时延压力。",
-      "impact": "若规模化推进，卫星算力可能改变遥感数据处理链、地面站需求和商业航天的成本结构，并带动星载芯片、散热和网络技术投入。",
-      "whyItMatters": "把计算靠近数据源是边缘计算向太空的延伸，也体现中国商业航天正从发射与遥感服务扩展到在轨计算基础设施。",
-      "eventTime": "2026-07-18T10:27:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/science/shanghai-xingshu-launches-first-constellation-its-space-based-computing-project-2026-07-18/",
-          "publishedAt": "2026-07-18T10:27:00Z"
-        }
-      ]
-    },
-    {
-      "id": "canada-ontario-wildfire-smoke-travel-2026-07-18",
-      "category": "旅行与目的地",
-      "importance": "high",
-      "title": "加拿大安大略省扩大山火疏散，烟霾影响加拿大南部及美国东部",
-      "summary": "安大略省约65.5万公顷土地正在燃烧，偏远社区依赖飞机疏散；加拿大境内有955处活跃山火。烟霾令安大略南部和美国东部部分地区空气质量恶化，预报暂未显示会显著影响世界杯决赛。",
-      "impact": "旅客可能面临航班、道路、户外活动和健康风险，前往受影响地区前应查看当地疏散令、空气质量与承运人通知。",
-      "whyItMatters": "山火同时影响偏远社区安全、跨境空气质量和大型活动出行，是夏季北美旅行决策的重要即时变量。",
-      "eventTime": "2026-07-18T13:23:00Z",
+      "title": "FIFA据报将宣布本届世界杯收入达到创纪录的150亿美元",
+      "summary": "英国《卫报》报道，FIFA将宣布本届世界杯收入约150亿美元，显著高于原先110亿美元目标；酒店接待、票务及高价二级市场被指是主要推动因素。相关分配细节尚待FIFA正式公布。",
+      "impact": "超预期收入将增加FIFA对成员协会的分配空间，也会强化对动态票价、二级市场收费和赛事商业化程度的讨论。",
+      "whyItMatters": "收入规模反映48队世界杯和北美市场的商业能力，但该数字目前属于可靠媒体报道，仍待FIFA正式确认。",
+      "eventTime": "2026-07-18T18:30:00-04:00",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/environment/canada-prepares-evacuate-ontario-community-wildfire-smoke-chokes-us-2026-07-18/",
-          "publishedAt": "2026-07-18T13:23:00Z"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
+          "publishedAt": "2026-07-18T18:30:00-04:00"
         }
       ]
     }
   ],
   "market": {
-    "updatedAt": "2026-07-19T06:30:00+08:00",
+    "updatedAt": "2026-07-19T12:30:00+08:00",
     "marketStatus": "closed",
     "indices": [
       {
@@ -401,16 +399,13 @@
       {
         "symbol": "BTCUSD",
         "name": "比特币",
-        "value": 64698,
-        "changePercent": 1.2,
+        "value": 64669,
+        "changePercent": 1.18,
         "unit": "USD",
         "tradingDate": "2026-07-19",
-        "updatedAt": "2026-07-19T06:30:00+08:00",
+        "updatedAt": "2026-07-19T12:30:00+08:00",
         "marketStatus": "open"
       }
     ]
-  },
-  "updateMode": "incremental",
-  "baseEdition": "0030",
-  "previousGeneratedAt": "2026-07-19T00:30:00+08:00"
+  }
 }

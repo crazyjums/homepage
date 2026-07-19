@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T18:30:00+08:00",
+  "updatedAt": "2026-07-20T00:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-20",
+      "edition": "0030",
+      "editionLabel": "凌晨版",
+      "generatedAt": "2026-07-20T00:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "完整首版30条：美伊冲突、台海与中国资本市场、全球旅行风险、科技平台故障及重要体育事件。",
+      "path": "data/news/2026-07-20-0030.json"
+    },
     {
       "date": "2026-07-19",
       "edition": "1830",

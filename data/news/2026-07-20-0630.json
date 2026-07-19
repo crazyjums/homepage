@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-20T06:30:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "美伊冲突新增美军死亡并继续外溢至海湾基础设施",
+    "西班牙加时击败阿根廷夺得世界杯冠军",
+    "秘鲁地震伤亡与损毁数据显著上调"
+  ],
+  "topStory": "美伊冲突新增一名美军死亡，科威特海水淡化设施连续第二天遇袭，区域安全与民用基础设施风险继续上升。",
+  "editorialNote": "早间增量版新增5条，其中3条为凌晨版既有事件的实质更新、2条为全新事件；已按稳定ID、标题、主体、规范化URL和事件时间与凌晨版30条新闻去重，未重复旧闻。",
+  "updateMode": "incremental",
+  "baseEdition": "0030",
+  "previousGeneratedAt": "2026-07-20T00:30:00+08:00",
+  "news": [
+    {
+      "id": "us-iran-third-us-death-gulf-attacks-update-2026-07-20",
+      "updateOf": "us-iran-strikes-eighth-night-2026-07-19",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "美伊冲突再增一名美军死亡，海湾关键设施继续遇袭",
+      "summary": "美方称一名军人在伊拉克北部处置被击落伊朗无人机的未爆弹药时死亡；科威特海水淡化厂连续第二天遭袭并起火，巴林和约旦也报告拦截来袭目标。",
+      "impact": "美军死亡人数增加及海湾民用基础设施受袭，进一步推高区域安全、能源供应和航空通行风险。",
+      "whyItMatters": "这是凌晨版后出现的实质伤亡与攻击范围更新，不是对原事件的重复报道。",
+      "eventTime": "2026-07-18T23:21:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/",
+          "publishedAt": "2026-07-18T23:21:00Z"
+        }
+      ]
+    },
+    {
+      "id": "peru-earthquakes-casualty-update-2026-07-20",
+      "updateOf": "peru-earthquake-56-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "秘鲁两次地震已造成至少6人死亡、21人受伤",
+      "summary": "秘鲁民防部门称，胡宁地区丘帕卡省两次地震造成至少6人死亡、21人受伤，约48所住宅被毁、18所受损，约300人受到影响。",
+      "impact": "伤亡和住房损毁数据显著提升当地灾害等级，前往秘鲁中部的旅客应关注余震、道路和应急部门通告。",
+      "whyItMatters": "凌晨版仅报道震级；本次新增了经民防部门确认的伤亡和损毁数据，属于实质更新。",
+      "eventTime": "2026-07-19T02:47:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/earthquake-magnitude-56-strikes-central-peru-emsc-says-2026-07-19/",
+          "publishedAt": "2026-07-19T02:47:00Z"
+        }
+      ]
+    },
+    {
+      "id": "spain-wins-world-cup-final-2026-07-19",
+      "category": "世界杯或重要体育新闻",
+      "importance": "high",
+      "title": "西班牙加时1比0击败阿根廷，夺得世界杯冠军",
+      "summary": "西班牙在决赛中凭替补登场的费兰·托雷斯加时进球，以1比0战胜十人作战的卫冕冠军阿根廷。",
+      "impact": "本届世界杯正式落幕，赛事结果将影响国家队周期、球员估值及赛事商业权益结算。",
+      "whyItMatters": "冠军归属是本时段最重要的全球体育结果，且发生在凌晨版发布之后。",
+      "eventTime": "2026-07-19T22:03:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/spain-battle-past-10-man-argentina-1-0-extra-time-win-world-cup-2026-07-19/",
+          "publishedAt": "2026-07-19T22:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "hungary-judit-polgar-president-nomination-2026-07-19",
+      "updateOf": "hungary-president-term-ended-2026-07-18",
+      "category": "中国与国际新闻",
+      "importance": "medium",
+      "title": "匈牙利总理拟提名国际象棋名将波尔加出任总统",
+      "summary": "匈牙利总理彼得·马扎尔表示，将询问国际象棋名将朱迪特·波尔加是否愿意接受总统提名；议会将选出继任者。",
+      "impact": "该提名将影响匈牙利修宪过渡期的国家元首安排，但波尔加尚未确认接受。",
+      "whyItMatters": "这是凌晨版总统提前结束任期之后出现的明确继任安排进展。",
+      "eventTime": "2026-07-19T20:29:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/hungarys-pm-magyar-ask-chess-champion-judit-polgar-become-president-2026-07-19/",
+          "publishedAt": "2026-07-19T20:29:00Z"
+        }
+      ]
+    },
+    {
+      "id": "russia-black-sea-cargo-ship-strike-2026-07-19",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "俄军被指袭击黑海国际货轮，至少5名船员死亡",
+      "summary": "乌克兰官员称，一艘装载玉米、悬挂几内亚比绍旗的国际货轮在敖德萨外海遭俄军袭击，至少5名船员死亡、5人失踪，8人获救；俄方尚未公开回应。",
+      "impact": "对民用粮食运输船的攻击可能抬升黑海航运保险、粮食出口和船员安全风险。",
+      "whyItMatters": "这是凌晨版后发生的全新国际航运安全事件，直接关联全球粮食运输通道。",
+      "eventTime": "2026-07-19T20:04:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-strike-cargo-ship-black-sea-kills-5-kyiv-says-2026-07-19/",
+          "publishedAt": "2026-07-19T20:04:00Z"
+        }
+      ]
+    }
+  ],
+  "market": {
+    "updatedAt": "2026-07-20T00:30:00+08:00",
+    "marketStatus": "closed",
+    "indices": [
+      {
+        "symbol": "IXIC",
+        "name": "纳斯达克指数",
+        "value": 25520.24,
+        "changePercent": -1.4,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "SPX",
+        "name": "标普500",
+        "value": 7457.69,
+        "changePercent": -1.01,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DJI",
+        "name": "道琼斯指数",
+        "value": 52146.42,
+        "changePercent": -0.77,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NDX",
+        "name": "纳斯达克100",
+        "value": 28759.6,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "RUT",
+        "name": "罗素2000",
+        "value": 2962.22,
+        "changePercent": -0.42,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000001.SS",
+        "name": "上证指数",
+        "value": 3764.15,
+        "changePercent": -3.05,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000300.SS",
+        "name": "沪深300",
+        "value": 4529.1,
+        "changePercent": -3.6,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSI",
+        "name": "恒生指数",
+        "value": 24562.24,
+        "changePercent": -1.78,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSTECH",
+        "name": "恒生科技指数",
+        "value": 4623.17,
+        "changePercent": -4.37,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "N225",
+        "name": "日经225",
+        "value": 64141.12,
+        "changePercent": -4.03,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T06:00:00Z",
+        "marketStatus": "closed"
+      }
+    ],
+    "megaCapStocks": [
+      {
+        "symbol": "AAPL",
+        "name": "Apple",
+        "value": 333.74,
+        "changePercent": 0.13,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:39Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft",
+        "value": 393.82,
+        "changePercent": -1.8,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:31Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "value": 202.81,
+        "changePercent": -2.28,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:47Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "value": 346.77,
+        "changePercent": -2.16,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:13Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "value": 247.23,
+        "changePercent": -1.05,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:07Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "value": 646.01,
+        "changePercent": -2.82,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:30Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla",
+        "value": 380.84,
+        "changePercent": -2.63,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:20Z",
+        "marketStatus": "closed"
+      }
+    ],
+    "assets": [
+      {
+        "symbol": "VIX",
+        "name": "VIX",
+        "value": 18.09,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "US10Y",
+        "name": "美国10年期国债收益率",
+        "value": 4.554,
+        "changePercent": null,
+        "unit": "%",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": 100.73,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "USDCNY",
+        "name": "美元兑人民币",
+        "value": null,
+        "changePercent": null,
+        "unit": "CNY",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:31:39Z",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "XAUUSD",
+        "name": "黄金",
+        "value": 3985.8,
+        "changePercent": 0.19,
+        "unit": "USD/oz",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": 82.49,
+        "changePercent": 4.48,
+        "unit": "USD/bbl",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T18:30:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "BTCUSD",
+        "name": "比特币",
+        "value": 64669,
+        "changePercent": 1.18,
+        "unit": "USD",
+        "tradingDate": "2026-07-19",
+        "updatedAt": "2026-07-19T12:30:00+08:00",
+        "marketStatus": "open"
+      }
+    ]
+  }
+}

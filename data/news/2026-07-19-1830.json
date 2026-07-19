@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T18:30:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "美伊冲突出现新的美军伤亡与连续第八夜打击进展",
+    "台海出现新的政治表态，区域风险需持续观察",
+    "华南强降雨影响铁路、景区与山地出行",
+    "长鑫存储大型IPO机构申购数据公布"
+  ],
+  "topStory": "美伊冲突继续升级：美军确认两名军人死亡并完成连续第八夜打击，海湾航运、能源设施与国际旅行风险同步上升。",
+  "editorialNote": "晚间增量版新增5条，其中1条为既有事件的实质更新；已与当天凌晨版、早间版和午间版按稳定ID、标题、事件主体、规范化URL及事件时间去重。",
+  "updateMode": "incremental",
+  "baseEdition": "1230",
+  "previousGeneratedAt": "2026-07-19T12:30:00+08:00",
+  "news": [
+    {
+      "id": "us-iran-eighth-night-strikes-us-deaths-update-2026-07-19",
+      "updateOf": "iran-gulf-jordan-strikes-kuwait-infrastructure-2026-07-18",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "美军完成连续第八夜对伊朗打击，两名美军人员死亡",
+      "summary": "美国中央司令部称，美军完成连续第八夜对伊朗的打击，目标包括沿海监视和防空设施；美方同时确认，两名军人在伊朗对约旦的袭击中死亡，另有一人失踪。伊朗方面随后报告对科威特境内美军设施发动无人机袭击。",
+      "impact": "冲突进一步升级，霍尔木兹海峡航运、海湾能源设施和国际航班面临更高风险。",
+      "whyItMatters": "这是相较当天早前版本的实质变化，新增了经美方确认的人员伤亡和新一轮打击完成情况。",
+      "eventTime": "2026-07-19T07:21:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/",
+          "publishedAt": "2026-07-18T23:21:00Z"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-lai-dpp-congress-democracy-statement-2026-07-19",
+      "category": "台海问题",
+      "importance": "high",
+      "title": "赖清德在民进党党代会强调台湾不应成为“中国的台湾”",
+      "summary": "台湾地区领导人赖清德在民进党年度大会上表示，台湾应共同维护其民主制度，并警惕其所称来自北京的“法律战”。这是台方公开表态；北京长期主张台湾是中国领土的一部分。",
+      "impact": "相关表态可能加剧两岸政治互信不足，并影响后续军事、外交和经贸风险评估。",
+      "whyItMatters": "这是当日下午出现的台海政策表态，直接涉及两岸关系与地区安全。",
+      "eventTime": "2026-07-19T15:38:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/democratic-taiwan-must-not-become-chinas-taiwan-president-says-2026-07-19/",
+          "publishedAt": "2026-07-19T07:38:00Z"
+        }
+      ]
+    },
+    {
+      "id": "southern-china-heavy-rain-travel-disruptions-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "华南多地迎强降雨，部分列车停运和景区临时关闭",
+      "summary": "中国气象部门发布华南部分地区强降雨预警。上海至昆明铁路部分客运列车暂停运行，云南虎跳峡等景区临时关闭；重庆滑坡搜救仍在继续，已确认8人死亡、34人失踪。",
+      "impact": "云南、广西、重庆及长江下游部分地区的铁路、公路、山地景区和户外行程可能持续受影响。",
+      "whyItMatters": "这是一项直接影响旅行安全与交通安排的最新灾害信息，游客应核验列车和景区状态。",
+      "eventTime": "2026-07-19T15:35:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/southern-china-braces-more-rain-chongqing-landslide-search-continues-2026-07-19/",
+          "publishedAt": "2026-07-19T07:35:00Z"
+        }
+      ]
+    },
+    {
+      "id": "cxmt-shanghai-ipo-institutional-demand-2026-07-19",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "长鑫存储上海IPO机构申购逾500倍，芯片股回调压低热度",
+      "summary": "长鑫存储披露，其86亿美元上海科创板IPO的机构申购约为570倍，规模可观但明显低于近期部分科技IPO。上市预计在本月稍晚进行，正值全球芯片股回调。",
+      "impact": "该交易将检验资本市场对中国存储芯片自主化投资主题的承接能力，也可能影响后续大型科技IPO定价。",
+      "whyItMatters": "这是亚洲今年迄今规模最大的IPO之一，兼具中国半导体产业政策与资本市场风向意义。",
+      "eventTime": "2026-07-19T17:11:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/institutional-demand-cxmts-86-bln-shanghai-ipo-dented-by-chip-stock-selloff-2026-07-19/",
+          "publishedAt": "2026-07-19T09:11:00Z"
+        }
+      ]
+    },
+    {
+      "id": "tate-brothers-us-arrest-uk-extradition-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "medium",
+      "title": "美国法警逮捕Andrew和Tristan Tate，英国寻求引渡",
+      "summary": "美国法警逮捕社交媒体人物Andrew Tate和Tristan Tate。英国皇家检察署表示将就强奸、伤害和人口贩运等新增指控寻求引渡；两人否认不当行为。",
+      "impact": "案件将进入跨境引渡与多法域司法协调阶段，并可能影响平台对相关账号和内容的处置。",
+      "whyItMatters": "案件涉及跨国刑事执法、网络影响力人物治理与多名受害者指控。",
+      "eventTime": "2026-07-19T10:17:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/us/us-marshals-arrest-hypermasculine-social-media-stars-andrew-tristan-tate-uk-2026-07-19/",
+          "publishedAt": "2026-07-19T02:17:00Z"
+        }
+      ]
+    }
+  ],
+  "market": {
+    "updatedAt": "2026-07-19T18:30:00+08:00",
+    "marketStatus": "closed",
+    "indices": [
+      {
+        "symbol": "IXIC",
+        "name": "纳斯达克指数",
+        "value": 25520.24,
+        "changePercent": -1.4,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "SPX",
+        "name": "标普500",
+        "value": 7457.69,
+        "changePercent": -1.01,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DJI",
+        "name": "道琼斯指数",
+        "value": 52146.42,
+        "changePercent": -0.77,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NDX",
+        "name": "纳斯达克100",
+        "value": 28759.6,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "RUT",
+        "name": "罗素2000",
+        "value": 2962.22,
+        "changePercent": -0.42,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000001.SS",
+        "name": "上证指数",
+        "value": 3764.15,
+        "changePercent": -3.05,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000300.SS",
+        "name": "沪深300",
+        "value": 4529.1,
+        "changePercent": -3.6,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSI",
+        "name": "恒生指数",
+        "value": 24562.24,
+        "changePercent": -1.78,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSTECH",
+        "name": "恒生科技指数",
+        "value": 4623.17,
+        "changePercent": -4.37,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "N225",
+        "name": "日经225",
+        "value": 64141.12,
+        "changePercent": -4.03,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T06:00:00Z",
+        "marketStatus": "closed"
+      }
+    ],
+    "megaCapStocks": [
+      {
+        "symbol": "AAPL",
+        "name": "Apple",
+        "value": 333.74,
+        "changePercent": 0.13,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:39Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft",
+        "value": 393.82,
+        "changePercent": -1.8,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:31Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "value": 202.81,
+        "changePercent": -2.28,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:47Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "value": 346.77,
+        "changePercent": -2.16,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:13Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "value": 247.23,
+        "changePercent": -1.05,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:07Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "value": 646.01,
+        "changePercent": -2.82,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:30Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla",
+        "value": 380.84,
+        "changePercent": -2.63,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:20Z",
+        "marketStatus": "closed"
+      }
+    ],
+    "assets": [
+      {
+        "symbol": "VIX",
+        "name": "VIX",
+        "value": 18.09,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "US10Y",
+        "name": "美国10年期国债收益率",
+        "value": 4.554,
+        "changePercent": null,
+        "unit": "%",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": 100.73,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "USDCNY",
+        "name": "美元兑人民币",
+        "value": null,
+        "changePercent": null,
+        "unit": "CNY",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:31:39Z",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "XAUUSD",
+        "name": "黄金",
+        "value": 3985.8,
+        "changePercent": 0.19,
+        "unit": "USD/oz",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": 82.49,
+        "changePercent": 4.48,
+        "unit": "USD/bbl",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T18:30:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "BTCUSD",
+        "name": "比特币",
+        "value": 64669,
+        "changePercent": 1.18,
+        "unit": "USD",
+        "tradingDate": "2026-07-19",
+        "updatedAt": "2026-07-19T12:30:00+08:00",
+        "marketStatus": "open"
+      }
+    ]
+  }
+}

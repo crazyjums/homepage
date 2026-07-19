@@ -1,165 +1,125 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T12:30:00+08:00",
+  "generatedAt": "2026-07-19T18:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "俄军弹道导弹袭击基辅及周边地区，造成至少1人死亡、11人受伤。",
-    "国家开发银行原行长欧阳卫民接受纪律审查和监察调查。",
-    "英格兰6比4击败法国获得世界杯季军，姆巴佩以22球刷新世界杯历史射手纪录。",
-    "三星电子美国新泽西业务涉及739个岗位调整，总部计划迁往得州。",
-    "世界杯商业收入据报达到150亿美元，北美三国领导人将共同出席决赛。"
+    "美伊冲突出现新的美军伤亡与连续第八夜打击进展",
+    "台海出现新的政治表态，区域风险需持续观察",
+    "华南强降雨影响铁路、景区与山地出行",
+    "长鑫存储大型IPO机构申购数据公布"
   ],
-  "topStory": "俄军弹道导弹袭击基辅并波及住宅、宿舍、超市与仓库，是午间版最值得关注的安全事件；明确伤亡与民用设施受损显示战争风险仍在升级。",
-  "editorialNote": "2026-07-19午间版为增量更新，共7条，仅发布相对凌晨版和早间版新增的信息；未重复当天已发布新闻。三星岗位调整发生时间略早于最近6小时窗口，但此前版本未收录且具有较高科技商业价值，因此纳入本版。",
+  "topStory": "美伊冲突继续升级：美军确认两名军人死亡并完成连续第八夜打击，海湾航运、能源设施与国际旅行风险同步上升。",
+  "editorialNote": "晚间增量版新增5条，其中1条为既有事件的实质更新；已与当天凌晨版、早间版和午间版按稳定ID、标题、事件主体、规范化URL及事件时间去重。",
   "updateMode": "incremental",
-  "baseEdition": "0630",
-  "previousGeneratedAt": "2026-07-19T06:30:00+08:00",
+  "baseEdition": "1230",
+  "previousGeneratedAt": "2026-07-19T12:30:00+08:00",
   "news": [
     {
-      "id": "russia-ballistic-missile-strike-kyiv-2026-07-19",
+      "id": "us-iran-eighth-night-strikes-us-deaths-update-2026-07-19",
+      "updateOf": "iran-gulf-jordan-strikes-kuwait-infrastructure-2026-07-18",
       "category": "全球重要事件",
       "importance": "high",
-      "title": "俄军弹道导弹袭击基辅，至少1人死亡、11人受伤",
-      "summary": "乌克兰官员称，俄军导弹在当地周日清晨击中基辅及周边地区，造成至少1人死亡；基辅市内9人受伤、基辅州另有2人受伤。宿舍、住宅楼、超市、仓库及车辆起火或受损。",
-      "impact": "袭击显示乌克兰首都的防空与民用基础设施仍承受高强度压力，可能推动更多防空援助需求并加剧地区安全风险。",
-      "whyItMatters": "这是本时段伤亡最明确的重大安全事件，且目标波及多类民用设施。",
-      "eventTime": "2026-07-19T02:27:00Z",
+      "title": "美军完成连续第八夜对伊朗打击，两名美军人员死亡",
+      "summary": "美国中央司令部称，美军完成连续第八夜对伊朗的打击，目标包括沿海监视和防空设施；美方同时确认，两名军人在伊朗对约旦的袭击中死亡，另有一人失踪。伊朗方面随后报告对科威特境内美军设施发动无人机袭击。",
+      "impact": "冲突进一步升级，霍尔木兹海峡航运、海湾能源设施和国际航班面临更高风险。",
+      "whyItMatters": "这是相较当天早前版本的实质变化，新增了经美方确认的人员伤亡和新一轮打击完成情况。",
+      "eventTime": "2026-07-19T07:21:00+08:00",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russian-ballistic-missiles-rock-kyiv-one-killed-officials-say-2026-07-19/",
-          "publishedAt": "2026-07-19T02:27:00Z"
+          "url": "https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/",
+          "publishedAt": "2026-07-18T23:21:00Z"
         }
       ]
     },
     {
-      "id": "china-development-bank-ouyang-weimin-investigation-2026-07-19",
-      "category": "中国与国际新闻",
+      "id": "taiwan-lai-dpp-congress-democracy-statement-2026-07-19",
+      "category": "台海问题",
       "importance": "high",
-      "title": "国家开发银行原行长欧阳卫民接受反腐调查",
-      "summary": "中国中央纪委国家监委通报，国家开发银行原行长欧阳卫民涉嫌严重违纪违法，正接受纪律审查和监察调查。目前通报尚未披露具体事项。",
-      "impact": "调查可能引发对政策性银行内部治理、信贷决策与合规体系的进一步审视。",
-      "whyItMatters": "国家开发银行在基础设施和政策性融资中地位重要，高层调查具有明显的金融治理信号意义。",
-      "eventTime": "2026-07-19T03:15:00Z",
+      "title": "赖清德在民进党党代会强调台湾不应成为“中国的台湾”",
+      "summary": "台湾地区领导人赖清德在民进党年度大会上表示，台湾应共同维护其民主制度，并警惕其所称来自北京的“法律战”。这是台方公开表态；北京长期主张台湾是中国领土的一部分。",
+      "impact": "相关表态可能加剧两岸政治互信不足，并影响后续军事、外交和经贸风险评估。",
+      "whyItMatters": "这是当日下午出现的台海政策表态，直接涉及两岸关系与地区安全。",
+      "eventTime": "2026-07-19T15:38:00+08:00",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/former-china-development-bank-president-put-under-anti-graft-investigation-2026-07-19/",
-          "publishedAt": "2026-07-19T03:15:00Z"
+          "url": "https://www.reuters.com/world/china/democratic-taiwan-must-not-become-chinas-taiwan-president-says-2026-07-19/",
+          "publishedAt": "2026-07-19T07:38:00Z"
         }
       ]
     },
     {
-      "id": "samsung-electronics-america-new-jersey-workforce-2026-07-18",
-      "category": "科技商业",
-      "importance": "medium",
-      "title": "三星电子美国新泽西业务涉及739个岗位调整，总部计划迁往得州",
-      "summary": "Reuters援引WARN通知称，三星电子美国在新泽西Englewood Cliffs涉及739个岗位调整。三星表示总部拟于年内迁往得州，多数受影响员工获得搬迁选项，并认为不应将全部变化简单描述为裁员。",
-      "impact": "总部迁移可能改变三星美国消费电子业务的人员分布与运营成本，并影响当地就业。",
-      "whyItMatters": "调整覆盖其美国显示器、手机、电视和家电销售营销团队，规模相对于当地约1200名员工较大。",
-      "eventTime": "2026-07-18T21:58:00Z",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/samsung-electronics-america-reduce-workforce-by-739-new-jersey-us-warn-notice-2026-07-18/",
-          "publishedAt": "2026-07-18T21:58:00Z"
-        }
-      ]
-    },
-    {
-      "id": "england-france-world-cup-third-place-2026-07-18",
-      "category": "世界杯或重要体育新闻",
-      "importance": "high",
-      "title": "英格兰6比4击败法国获世界杯季军，姆巴佩刷新历史进球纪录",
-      "summary": "英格兰在季军赛以6比4战胜法国，首次获得世界杯第三名；10个进球刷新季军赛纪录。萨卡上演帽子戏法，姆巴佩梅开二度并以世界杯累计22球成为历史射手榜第一。",
-      "impact": "比赛改写多项世界杯纪录，也为法国主帅德尚的最后一战和决赛前金靴竞争增加新背景。",
-      "whyItMatters": "这是世界杯决赛前最重要的已完成赛事结果，兼具球队历史与个人纪录价值。",
-      "eventTime": "2026-07-18T23:43:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/sports/soccer/england-survive-france-fightback-secure-third-place-miami-goalfest-2026-07-18/",
-          "publishedAt": "2026-07-18T23:43:00Z"
-        }
-      ]
-    },
-    {
-      "id": "mexico-sheinbaum-world-cup-final-trump-invitation-2026-07-18",
-      "category": "中美关系",
-      "importance": "medium",
-      "title": "墨西哥总统将与美加领导人共同出席世界杯决赛",
-      "summary": "墨西哥总统辛鲍姆表示，将应美国总统特朗普邀请，与加拿大总理卡尼共同出席在新泽西举行的世界杯决赛。她称三国东道主共同出席具有政治意义，也体现与美国政府的协调。",
-      "impact": "三国领导人在赛事期间同场，为北美贸易协定重谈前的政治沟通提供窗口；美墨第三轮谈判将于周二举行。",
-      "whyItMatters": "体育外交与钢铁、汽车、农业及电子支付等贸易议题在同一时间交汇，可能影响北美经贸气氛。",
-      "eventTime": "2026-07-18T23:48:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/sports/soccer/mexicos-sheinbaum-attend-world-cup-final-president-trumps-invitation-2026-07-18/",
-          "publishedAt": "2026-07-18T23:48:00Z"
-        }
-      ]
-    },
-    {
-      "id": "peru-central-earthquake-magnitude-56-2026-07-19",
+      "id": "southern-china-heavy-rain-travel-disruptions-2026-07-19",
       "category": "旅行与目的地",
-      "importance": "medium",
-      "title": "秘鲁中部发生5.6级地震，震源深度约22公里",
-      "summary": "欧洲地中海地震中心称，秘鲁中部发生5.6级地震，震源深度约22公里。截至本版生成时，可靠信源尚未报告重大伤亡或广泛破坏。",
-      "impact": "前往受影响地区的旅客应关注当地余震、道路、机场与官方应急通报，避免依据社交媒体传言调整行程。",
-      "whyItMatters": "地震较浅且震级达到中强水平，后续是否出现基础设施损害仍需持续核验。",
-      "eventTime": "2026-07-19T02:47:00Z",
+      "importance": "high",
+      "title": "华南多地迎强降雨，部分列车停运和景区临时关闭",
+      "summary": "中国气象部门发布华南部分地区强降雨预警。上海至昆明铁路部分客运列车暂停运行，云南虎跳峡等景区临时关闭；重庆滑坡搜救仍在继续，已确认8人死亡、34人失踪。",
+      "impact": "云南、广西、重庆及长江下游部分地区的铁路、公路、山地景区和户外行程可能持续受影响。",
+      "whyItMatters": "这是一项直接影响旅行安全与交通安排的最新灾害信息，游客应核验列车和景区状态。",
+      "eventTime": "2026-07-19T15:35:00+08:00",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/environment/earthquake-magnitude-56-strikes-central-peru-emsc-says-2026-07-19/",
-          "publishedAt": "2026-07-19T02:47:00Z"
+          "url": "https://www.reuters.com/business/environment/southern-china-braces-more-rain-chongqing-landslide-search-continues-2026-07-19/",
+          "publishedAt": "2026-07-19T07:35:00Z"
         }
       ]
     },
     {
-      "id": "fifa-world-cup-record-15-billion-revenue-2026-07-18",
-      "category": "科技商业",
+      "id": "cxmt-shanghai-ipo-institutional-demand-2026-07-19",
+      "category": "全球资本市场",
       "importance": "high",
-      "title": "FIFA据报将宣布本届世界杯收入达到创纪录的150亿美元",
-      "summary": "英国《卫报》报道，FIFA将宣布本届世界杯收入约150亿美元，显著高于原先110亿美元目标；酒店接待、票务及高价二级市场被指是主要推动因素。相关分配细节尚待FIFA正式公布。",
-      "impact": "超预期收入将增加FIFA对成员协会的分配空间，也会强化对动态票价、二级市场收费和赛事商业化程度的讨论。",
-      "whyItMatters": "收入规模反映48队世界杯和北美市场的商业能力，但该数字目前属于可靠媒体报道，仍待FIFA正式确认。",
-      "eventTime": "2026-07-18T18:30:00-04:00",
-      "status": "developing",
+      "title": "长鑫存储上海IPO机构申购逾500倍，芯片股回调压低热度",
+      "summary": "长鑫存储披露，其86亿美元上海科创板IPO的机构申购约为570倍，规模可观但明显低于近期部分科技IPO。上市预计在本月稍晚进行，正值全球芯片股回调。",
+      "impact": "该交易将检验资本市场对中国存储芯片自主化投资主题的承接能力，也可能影响后续大型科技IPO定价。",
+      "whyItMatters": "这是亚洲今年迄今规模最大的IPO之一，兼具中国半导体产业政策与资本市场风向意义。",
+      "eventTime": "2026-07-19T17:11:00+08:00",
+      "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
-          "publishedAt": "2026-07-18T18:30:00-04:00"
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/institutional-demand-cxmts-86-bln-shanghai-ipo-dented-by-chip-stock-selloff-2026-07-19/",
+          "publishedAt": "2026-07-19T09:11:00Z"
+        }
+      ]
+    },
+    {
+      "id": "tate-brothers-us-arrest-uk-extradition-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "medium",
+      "title": "美国法警逮捕Andrew和Tristan Tate，英国寻求引渡",
+      "summary": "美国法警逮捕社交媒体人物Andrew Tate和Tristan Tate。英国皇家检察署表示将就强奸、伤害和人口贩运等新增指控寻求引渡；两人否认不当行为。",
+      "impact": "案件将进入跨境引渡与多法域司法协调阶段，并可能影响平台对相关账号和内容的处置。",
+      "whyItMatters": "案件涉及跨国刑事执法、网络影响力人物治理与多名受害者指控。",
+      "eventTime": "2026-07-19T10:17:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/us/us-marshals-arrest-hypermasculine-social-media-stars-andrew-tristan-tate-uk-2026-07-19/",
+          "publishedAt": "2026-07-19T02:17:00Z"
         }
       ]
     }
   ],
   "market": {
-    "updatedAt": "2026-07-19T12:30:00+08:00",
+    "updatedAt": "2026-07-19T18:30:00+08:00",
     "marketStatus": "closed",
     "indices": [
       {

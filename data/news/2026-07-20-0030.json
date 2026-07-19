@@ -1,0 +1,869 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-20T00:30:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "美伊冲突继续升级，美国在中东调整军事部署并讨论扩大制裁",
+    "中国资本市场出现国资增持承诺，长鑫存储大型IPO申购数据受到关注",
+    "台海出现新的政治表态，华南强降雨继续影响交通与景区",
+    "加拿大新增埃博拉相关入境限制，圭亚那渡轮沉没搜救持续",
+    "Meta平台故障、三星岗位调整与波音增产计划构成科技商业重点"
+  ],
+  "topStory": "美伊冲突仍是最大系统性风险：人员伤亡、空中加油机增援、港口与机场安全信息相互交织，能源、航运与国际旅行风险均处于高位。",
+  "editorialNote": "凌晨完整首版收录过去24小时30条经核验的高价值信息。该时段未出现足够重要且可核验的新AI模型或编程工具发布，因此未为凑分类而加入低价值内容。",
+  "updateMode": "full",
+  "news": [
+    {
+      "id": "us-iran-strikes-eighth-night-2026-07-19",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "美军连续第八夜打击伊朗，两名美军人员死亡",
+      "summary": "美国中央司令部称打击伊朗沿海监视与防空设施；美方确认两名军人在约旦遇袭死亡，另有一人失踪。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-18T23:21:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/",
+          "publishedAt": "2026-07-18T23:21:00Z"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-lai-dpp-statement-2026-07-19",
+      "category": "台海问题",
+      "importance": "high",
+      "title": "赖清德在民进党党代会发表两岸与民主表态",
+      "summary": "赖清德称台湾不应成为“中国的台湾”，并指责北京进行所谓法律战；北京坚持台湾属于中国。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T07:38:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/democratic-taiwan-must-not-become-chinas-taiwan-president-says-2026-07-19/",
+          "publishedAt": "2026-07-19T07:38:00Z"
+        }
+      ]
+    },
+    {
+      "id": "southern-china-heavy-rain-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "华南强降雨影响列车与景区，重庆滑坡继续搜救",
+      "summary": "部分沪昆铁路客运列车暂停，云南虎跳峡等景区关闭；重庆滑坡已造成8人死亡、34人失踪。",
+      "impact": "可能影响出行安全、边境政策、交通安排或目的地风险判断。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T07:35:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/southern-china-braces-more-rain-chongqing-landslide-search-continues-2026-07-19/",
+          "publishedAt": "2026-07-19T07:35:00Z"
+        }
+      ]
+    },
+    {
+      "id": "cxmt-shanghai-ipo-demand-2026-07-19",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "长鑫存储上海IPO机构申购约570倍",
+      "summary": "长鑫存储86亿美元科创板IPO获约570倍机构申购，但热度低于近期部分科技IPO。",
+      "impact": "可能影响市场风险偏好、行业估值、资金流向或政策预期。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T09:11:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/institutional-demand-cxmts-86-bln-shanghai-ipo-dented-by-chip-stock-selloff-2026-07-19/",
+          "publishedAt": "2026-07-19T09:11:00Z"
+        }
+      ]
+    },
+    {
+      "id": "tate-brothers-arrest-extradition-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "medium",
+      "title": "美国法警逮捕Tate兄弟，英国寻求引渡",
+      "summary": "Andrew和Tristan Tate在美国被捕，英国检方将就强奸、伤害和人口贩运等新增指控寻求引渡；两人否认不当行为。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T02:17:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/us/us-marshals-arrest-hypermasculine-social-media-stars-andrew-tristan-tate-uk-2026-07-19/",
+          "publishedAt": "2026-07-19T02:17:00Z"
+        }
+      ]
+    },
+    {
+      "id": "russia-kyiv-ballistic-strike-2026-07-19",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "俄军弹道导弹袭击基辅造成死伤",
+      "summary": "乌克兰官员称俄军对基辅发动大规模弹道导弹袭击，至少1人死亡、11人受伤。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T02:27:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-ballistic-missiles-rock-kyiv-one-killed-officials-say-2026-07-19/",
+          "publishedAt": "2026-07-19T02:27:00Z"
+        }
+      ]
+    },
+    {
+      "id": "china-development-bank-probe-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "国家开发银行原行长欧阳卫民接受调查",
+      "summary": "中国纪检监察机关称欧阳卫民涉嫌严重违纪违法，目前正接受审查调查。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T03:15:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/former-china-development-bank-president-put-under-anti-graft-investigation-2026-07-19/",
+          "publishedAt": "2026-07-19T03:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "samsung-us-jobs-relocation-2026-07-18",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "三星电子美国业务调整岗位并推进总部迁移",
+      "summary": "文件显示三星美国显示、手机等消费电子业务岗位调整主要影响新泽西和得州，部分员工获迁岗选择。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-18T21:58:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/samsung-electronics-america-reduce-workforce-by-739-new-jersey-us-warn-notice-2026-07-18/",
+          "publishedAt": "2026-07-18T21:58:00Z"
+        }
+      ]
+    },
+    {
+      "id": "england-france-world-cup-bronze-2026-07-18",
+      "category": "世界杯或重要体育新闻",
+      "importance": "high",
+      "title": "英格兰6比4击败法国获得世界杯季军",
+      "summary": "英格兰在迈阿密的季军战中取胜，姆巴佩同时刷新世界杯历史进球纪录。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-18T23:43:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/england-survive-france-fightback-secure-third-place-miami-goalfest-2026-07-18/",
+          "publishedAt": "2026-07-18T23:43:00Z"
+        }
+      ]
+    },
+    {
+      "id": "mexico-us-canada-world-cup-final-2026-07-18",
+      "category": "中美关系",
+      "importance": "medium",
+      "title": "墨西哥总统将与美加领导人共同出席世界杯决赛",
+      "summary": "墨西哥总统辛鲍姆表示，应特朗普邀请，她将与美国和加拿大领导人共同出席决赛。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-18T23:48:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/mexicos-sheinbaum-attend-world-cup-final-president-trumps-invitation-2026-07-18/",
+          "publishedAt": "2026-07-18T23:48:00Z"
+        }
+      ]
+    },
+    {
+      "id": "peru-earthquake-56-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "秘鲁中部发生5.6级地震",
+      "summary": "欧洲地中海地震中心称秘鲁中部发生5.6级地震，震源深度约22公里。",
+      "impact": "可能影响出行安全、边境政策、交通安排或目的地风险判断。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T02:47:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/earthquake-magnitude-56-strikes-central-peru-emsc-says-2026-07-19/",
+          "publishedAt": "2026-07-19T02:47:00Z"
+        }
+      ]
+    },
+    {
+      "id": "fifa-world-cup-revenue-record-2026-07-18",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "FIFA本届世界杯收入据报达到创纪录150亿美元",
+      "summary": "报道指本届世界杯商业收入创纪录，反映扩军赛事的转播、赞助与门票价值。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-18T22:30:00Z",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
+          "publishedAt": "2026-07-18T22:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "israel-us-refuelling-planes-2026-07-19",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "以色列准备接收更多美国空中加油机",
+      "summary": "以色列官员称数十架美国加油机预计抵达，部分将部署在军事基地以降低对民航的影响。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T11:50:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/israel-receive-more-us-refuelling-planes-iran-attacks-intensify-israeli-2026-07-19/",
+          "publishedAt": "2026-07-19T11:50:00Z"
+        }
+      ]
+    },
+    {
+      "id": "lebanon-aoun-trump-white-house-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "黎巴嫩总统将赴白宫讨论真主党解除武装与以军撤离",
+      "summary": "奥恩计划向特朗普提交方案，寻求推动真主党解除武装并促成以色列军队撤出黎巴嫩。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T06:03:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/lebanons-aoun-meet-trump-white-house-hoping-generate-pressure-israel-2026-07-19/",
+          "publishedAt": "2026-07-19T06:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "canada-congo-entry-ban-ebola-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "加拿大将暂时限制近期到访刚果的外国人入境",
+      "summary": "加拿大宣布对过去21天到访刚果的外国人实施临时入境限制，以应对埃博拉疫情；世卫组织反对旅行限制。",
+      "impact": "可能影响出行安全、边境政策、交通安排或目的地风险判断。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T15:52:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/americas/canada-temporarily-bar-entry-foreigners-who-have-recently-been-congo-against-un-2026-07-19/",
+          "publishedAt": "2026-07-19T15:52:00Z"
+        }
+      ]
+    },
+    {
+      "id": "germany-merz-cabinet-reshuffle-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "medium",
+      "title": "德国总理默茨暗示可能调整内阁",
+      "summary": "默茨表示，近期高级政治人物辞职可能成为重新考虑联邦政府组成的机会。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T10:16:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/germanys-merz-signals-possible-opportunity-cabinet-reshuffle-2026-07-19/",
+          "publishedAt": "2026-07-19T10:16:00Z"
+        }
+      ]
+    },
+    {
+      "id": "guyana-ferry-sinking-2026-07-19",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "圭亚那客轮沉没，数十人失踪",
+      "summary": "一艘载有116名乘客和17名船员的渡轮沉没，已救出67人，搜救仍在继续。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T15:56:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/dozens-missing-after-passenger-ferry-sinks-off-coast-guyana-2026-07-19/",
+          "publishedAt": "2026-07-19T15:56:00Z"
+        }
+      ]
+    },
+    {
+      "id": "trump-iran-russia-sanctions-bill-2026-07-19",
+      "category": "宏观经济与投资",
+      "importance": "high",
+      "title": "特朗普要求共和党把伊朗纳入俄罗斯制裁法案",
+      "summary": "特朗普表示，共和党人应在有关俄罗斯的制裁法案中加入伊朗，具体立法安排尚未公布。",
+      "impact": "可能影响市场风险偏好、行业估值、资金流向或政策预期。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T12:11:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-says-republicans-should-add-iran-russian-bill-2026-07-19/",
+          "publishedAt": "2026-07-19T12:11:00Z"
+        }
+      ]
+    },
+    {
+      "id": "meta-facebook-instagram-outage-2026-07-19",
+      "category": "DevOps/SRE",
+      "importance": "high",
+      "title": "Facebook和Instagram出现部分服务中断",
+      "summary": "Downdetector收到数千份美国用户报告，Reuters在新加坡也观察到访问间歇性异常，Meta当时未回应。",
+      "impact": "提示大型在线平台仍需强化容量、故障隔离、状态沟通与灾难恢复能力。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T08:53:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/users-metas-facebook-instagram-report-suffering-some-outages-2026-07-19/",
+          "publishedAt": "2026-07-19T08:53:00Z"
+        }
+      ]
+    },
+    {
+      "id": "boeing-737-max-production-ramp-2026-07-19",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "波音将重点放在737 MAX增产与质量稳定",
+      "summary": "波音商用飞机负责人称将先稳定在每月47架，再提高至52架，航展重点不是新增订单。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T13:22:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/boeing-studying-new-737-max-production-hikes-2026-07-19/",
+          "publishedAt": "2026-07-19T13:22:00Z"
+        }
+      ]
+    },
+    {
+      "id": "yougov-ceo-search-2026-07-19",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "YouGov据报考虑Wayne Levings出任CEO",
+      "summary": "Sky News报道称YouGov正考虑由前Kantar高管接任CEO，公司希望恢复增长并改善业绩。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T12:27:00Z",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-pollster-yougov-eyes-levings-next-ceo-sky-news-reports-2026-07-19/",
+          "publishedAt": "2026-07-19T12:27:00Z"
+        }
+      ]
+    },
+    {
+      "id": "gender-pay-negotiation-study-2026-07-19",
+      "category": "宏观经济与投资",
+      "importance": "medium",
+      "title": "研究称外部工作机会谈薪差异解释约一半性别薪酬差距",
+      "summary": "研究发现男性更常利用外部工作机会与现雇主谈加薪，同岗位男性平均薪酬高约8%。",
+      "impact": "可能影响市场风险偏好、行业估值、资金流向或政策预期。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T08:05:00Z",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/world-at-work/men-more-likely-than-women-use-job-offers-pay-rises-study-finds-2026-07-19/",
+          "publishedAt": "2026-07-19T08:05:00Z"
+        }
+      ]
+    },
+    {
+      "id": "china-state-investors-stock-buying-2026-07-19",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "中国国有资本运营公司承诺继续增持股票",
+      "summary": "国新投资称已动用逾500亿元支持回购增持，中国诚通称已买入近100亿元并将继续增持央企和科技股。",
+      "impact": "可能影响市场风险偏好、行业估值、资金流向或政策预期。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T15:40:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/china-state-investors-pledge-further-purchases-stocks-2026-07-19/",
+          "publishedAt": "2026-07-19T15:40:00Z"
+        }
+      ]
+    },
+    {
+      "id": "jordan-aqaba-airport-port-status-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "约旦称亚喀巴机场和港口未被疏散且正常运行",
+      "summary": "约旦政府否认下令疏散亚喀巴机场和港口；美国使馆则称因可信威胁实施疏散并建议避免前往。",
+      "impact": "可能影响出行安全、边境政策、交通安排或目的地风险判断。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T11:13:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/jordan-has-not-ordered-evacuation-aqaba-airport-or-seaport-govt-spokesperson-2026-07-19/",
+          "publishedAt": "2026-07-19T11:13:00Z"
+        }
+      ]
+    },
+    {
+      "id": "india-wangchuk-hospital-court-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "medium",
+      "title": "印度法院未下令让活动人士Wangchuk离开公立医院",
+      "summary": "印度法院拒绝立即命令院方为绝食中的活动人士办理出院，其家属此前要求转往私立医院。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T05:35:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/wife-indian-activist-wangchuk-asks-court-move-him-private-hospital-2026-07-19/",
+          "publishedAt": "2026-07-19T05:35:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ice-body-cameras-vehicle-stops-2026-07-19",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "美国ICE车辆拦截行动将要求开启执法记录仪",
+      "summary": "美国边境事务负责人称，ICE人员执行车辆拦截时至少要有一台执法记录仪录像。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T16:22:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/us/ice-officers-wear-body-cameras-during-vehicle-stops-border-czar-says-2026-07-19/",
+          "publishedAt": "2026-07-19T16:22:00Z"
+        }
+      ]
+    },
+    {
+      "id": "deschamps-france-coach-exit-2026-07-19",
+      "category": "世界杯或重要体育新闻",
+      "importance": "medium",
+      "title": "德尚解释结束法国队14年执教生涯的原因",
+      "summary": "德尚称围绕自己的氛围已经令人窒息，因此决定世界杯后离任。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T13:20:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/deschamps-says-stifling-atmosphere-led-his-decision-step-down-france-coach-2026-07-19/",
+          "publishedAt": "2026-07-19T13:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "tour-de-france-stage15-2026-07-19",
+      "category": "世界杯或重要体育新闻",
+      "importance": "medium",
+      "title": "Evenepoel赢得环法第15赛段，Vingegaard摔车退赛",
+      "summary": "Evenepoel击败领骑者Pogacar夺冠，Vingegaard在距终点约20公里处摔车并退出比赛。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T15:14:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/two-time-champion-vingegaard-abandons-tour-de-france-after-stage-15-crash-2026-07-19/",
+          "publishedAt": "2026-07-19T15:14:00Z"
+        }
+      ]
+    },
+    {
+      "id": "antonelli-belgian-grand-prix-2026-07-19",
+      "category": "世界杯或重要体育新闻",
+      "importance": "medium",
+      "title": "Antonelli赢得比利时大奖赛，Russell退赛",
+      "summary": "Antonelli在比利时大奖赛取胜，Russell发生事故退出，赛事结果影响车手积分竞争。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-19T14:40:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/formula1/antonelli-wins-belgium-russell-retires-2026-07-19/",
+          "publishedAt": "2026-07-19T14:40:00Z"
+        }
+      ]
+    },
+    {
+      "id": "hungary-president-term-ended-2026-07-18",
+      "category": "中国与国际新闻",
+      "importance": "medium",
+      "title": "匈牙利总统签署修宪案并提前结束任期",
+      "summary": "匈牙利总统Sulyok签署修宪案，议会议长将担任临时总统；改革引发法治争议。",
+      "impact": "事件可能改变相关地区的政策、安全、商业或社会风险评估。",
+      "whyItMatters": "该事件在过去24小时内出现了可核验的新事实，值得纳入本期风险与趋势跟踪。",
+      "eventTime": "2026-07-18T16:37:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/hungarys-president-signs-law-change-ending-his-term-office-2026-07-18/",
+          "publishedAt": "2026-07-18T16:37:00Z"
+        }
+      ]
+    }
+  ],
+  "market": {
+    "updatedAt": "2026-07-20T00:30:00+08:00",
+    "marketStatus": "closed",
+    "indices": [
+      {
+        "symbol": "IXIC",
+        "name": "纳斯达克指数",
+        "value": 25520.24,
+        "changePercent": -1.4,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "SPX",
+        "name": "标普500",
+        "value": 7457.69,
+        "changePercent": -1.01,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DJI",
+        "name": "道琼斯指数",
+        "value": 52146.42,
+        "changePercent": -0.77,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NDX",
+        "name": "纳斯达克100",
+        "value": 28759.6,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "RUT",
+        "name": "罗素2000",
+        "value": 2962.22,
+        "changePercent": -0.42,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000001.SS",
+        "name": "上证指数",
+        "value": 3764.15,
+        "changePercent": -3.05,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "000300.SS",
+        "name": "沪深300",
+        "value": 4529.1,
+        "changePercent": -3.6,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T07:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSI",
+        "name": "恒生指数",
+        "value": 24562.24,
+        "changePercent": -1.78,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "HSTECH",
+        "name": "恒生科技指数",
+        "value": 4623.17,
+        "changePercent": -4.37,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T08:08:36Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "N225",
+        "name": "日经225",
+        "value": 64141.12,
+        "changePercent": -4.03,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T06:00:00Z",
+        "marketStatus": "closed"
+      }
+    ],
+    "megaCapStocks": [
+      {
+        "symbol": "AAPL",
+        "name": "Apple",
+        "value": 333.74,
+        "changePercent": 0.13,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:39Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft",
+        "value": 393.82,
+        "changePercent": -1.8,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:31Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "value": 202.81,
+        "changePercent": -2.28,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:47Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "value": 346.77,
+        "changePercent": -2.16,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:13Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "value": 247.23,
+        "changePercent": -1.05,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:07Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "value": 646.01,
+        "changePercent": -2.82,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:17:30Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla",
+        "value": 380.84,
+        "changePercent": -2.63,
+        "unit": "USD",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:18:20Z",
+        "marketStatus": "closed"
+      }
+    ],
+    "assets": [
+      {
+        "symbol": "VIX",
+        "name": "VIX",
+        "value": 18.09,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T20:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "US10Y",
+        "name": "美国10年期国债收益率",
+        "value": 4.554,
+        "changePercent": null,
+        "unit": "%",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": 100.73,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "USDCNY",
+        "name": "美元兑人民币",
+        "value": null,
+        "changePercent": null,
+        "unit": "CNY",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T22:31:39Z",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "XAUUSD",
+        "name": "黄金",
+        "value": 3985.8,
+        "changePercent": 0.19,
+        "unit": "USD/oz",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T21:00:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": 82.49,
+        "changePercent": 4.48,
+        "unit": "USD/bbl",
+        "tradingDate": "2026-07-17",
+        "updatedAt": "2026-07-17T18:30:00Z",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "BTCUSD",
+        "name": "比特币",
+        "value": 64669,
+        "changePercent": 1.18,
+        "unit": "USD",
+        "tradingDate": "2026-07-19",
+        "updatedAt": "2026-07-19T12:30:00+08:00",
+        "marketStatus": "open"
+      }
+    ]
+  }
+}

@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T12:30:00+08:00",
+  "updatedAt": "2026-07-19T18:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-19",
+      "edition": "1830",
+      "editionLabel": "晚间版",
+      "generatedAt": "2026-07-19T18:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "本版新增5条：美伊冲突新进展、台海表态、华南强降雨、长鑫存储IPO与跨境司法事件。",
+      "path": "data/news/2026-07-19-1830.json"
+    },
     {
       "date": "2026-07-19",
       "edition": "1230",

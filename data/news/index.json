@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T06:30:00+08:00",
+  "updatedAt": "2026-07-19T12:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-19",
+      "edition": "1230",
+      "editionLabel": "午间版",
+      "generatedAt": "2026-07-19T12:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "本版新增7条：基辅遇袭、国开行反腐调查、三星岗位调整、世界杯纪录与秘鲁地震。",
+      "path": "data/news/2026-07-19-1230.json"
+    },
     {
       "date": "2026-07-19",
       "edition": "0630",

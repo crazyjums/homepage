@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-20T06:30:00+08:00",
+  "updatedAt": "2026-07-20T12:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-20",
+      "edition": "1230",
+      "editionLabel": "午间版",
+      "generatedAt": "2026-07-20T12:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "本版新增9条：美伊冲突与油价、台海船只活动、中国市场稳定会议、英国政局、留学趋势、星舰延期及公共安全。",
+      "path": "data/news/2026-07-20-1230.json"
+    },
     {
       "date": "2026-07-20",
       "edition": "0630",

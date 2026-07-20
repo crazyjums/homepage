@@ -1,120 +1,199 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-20",
-  "generatedAt": "2026-07-20T06:30:00+08:00",
+  "generatedAt": "2026-07-20T12:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "美伊冲突新增美军死亡并继续外溢至海湾基础设施",
-    "西班牙加时击败阿根廷夺得世界杯冠军",
-    "秘鲁地震伤亡与损毁数据显著上调"
+    "美伊冲突进入第九天并进一步威胁霍尔木兹海峡商业航运",
+    "台湾公布大陆公务船活动增长数据并计划补给线防护演练",
+    "油价升破90美元与中国市场稳定政策成为资本市场焦点"
   ],
-  "topStory": "美伊冲突新增一名美军死亡，科威特海水淡化设施连续第二天遇袭，区域安全与民用基础设施风险继续上升。",
-  "editorialNote": "早间增量版新增5条，其中3条为凌晨版既有事件的实质更新、2条为全新事件；已按稳定ID、标题、主体、规范化URL和事件时间与凌晨版30条新闻去重，未重复旧闻。",
+  "topStory": "美军连续第九天打击伊朗并称新一轮行动针对霍尔木兹海峡商业航运威胁，冲突正通过油价、航运和利率预期扩大对全球市场的影响。",
+  "editorialNote": "午间增量版新增9条，其中2条为当天既有事件的实质更新、7条为全新事件；已与凌晨版30条及早间版5条按稳定ID、标题、主体、规范化URL和事件时间完成去重，未为凑数量重复旧闻。",
   "updateMode": "incremental",
-  "baseEdition": "0030",
-  "previousGeneratedAt": "2026-07-20T00:30:00+08:00",
+  "baseEdition": "0630",
+  "previousGeneratedAt": "2026-07-20T06:30:00+08:00",
   "news": [
     {
-      "id": "us-iran-third-us-death-gulf-attacks-update-2026-07-20",
-      "updateOf": "us-iran-strikes-eighth-night-2026-07-19",
+      "id": "us-iran-ninth-day-hormuz-shipping-strikes-2026-07-20",
+      "updateOf": "us-iran-third-us-death-gulf-attacks-update-2026-07-20",
       "category": "全球重要事件",
       "importance": "high",
-      "title": "美伊冲突再增一名美军死亡，海湾关键设施继续遇袭",
-      "summary": "美方称一名军人在伊拉克北部处置被击落伊朗无人机的未爆弹药时死亡；科威特海水淡化厂连续第二天遭袭并起火，巴林和约旦也报告拦截来袭目标。",
-      "impact": "美军死亡人数增加及海湾民用基础设施受袭，进一步推高区域安全、能源供应和航空通行风险。",
-      "whyItMatters": "这是凌晨版后出现的实质伤亡与攻击范围更新，不是对原事件的重复报道。",
-      "eventTime": "2026-07-18T23:21:00Z",
+      "title": "美军连续第九天打击伊朗，称新一轮行动针对霍尔木兹海峡威胁",
+      "summary": "美国中央司令部称启动新一轮打击，目标是削弱伊朗攻击霍尔木兹海峡商业船只的能力；伊朗媒体称多个城市遭导弹袭击，革命卫队则称打击了叙利亚境内目标。",
+      "impact": "冲突重点进一步转向全球关键能源航道，可能继续推高航运、保险、油价和区域旅行风险。",
+      "whyItMatters": "相较早间版，本次新增了连续第九天行动及明确针对商业航运威胁的新一轮打击目标，属于实质进展。",
+      "eventTime": "2026-07-20T01:49:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/",
-          "publishedAt": "2026-07-18T23:21:00Z"
+          "url": "https://www.reuters.com/world/middle-east/us-launches-iran-strikes-ninth-day-another-american-confirmed-killed-2026-07-20/",
+          "publishedAt": "2026-07-20T01:49:00Z"
         }
       ]
     },
     {
-      "id": "peru-earthquakes-casualty-update-2026-07-20",
-      "updateOf": "peru-earthquake-56-2026-07-19",
-      "category": "旅行与目的地",
+      "id": "taiwan-chinese-vessel-activity-pacific-routes-2026-07-20",
+      "category": "台海问题",
       "importance": "high",
-      "title": "秘鲁两次地震已造成至少6人死亡、21人受伤",
-      "summary": "秘鲁民防部门称，胡宁地区丘帕卡省两次地震造成至少6人死亡、21人受伤，约48所住宅被毁、18所受损，约300人受到影响。",
-      "impact": "伤亡和住房损毁数据显著提升当地灾害等级，前往秘鲁中部的旅客应关注余震、道路和应急部门通告。",
-      "whyItMatters": "凌晨版仅报道震级；本次新增了经民防部门确认的伤亡和损毁数据，属于实质更新。",
-      "eventTime": "2026-07-19T02:47:00Z",
+      "title": "台湾称大陆公务船活动显著增加，将演练保护太平洋补给线",
+      "summary": "台湾海巡数据称6月在台湾周边发现55次大陆海警及科研船活动，较5月增加83%；台方官员表示将模拟海上活动升级，并与海军演练保护太平洋补给航线。",
+      "impact": "海警和科研船活动增加可能提升灰色地带摩擦风险，并影响对台海封锁、航运和供应链情景的评估。",
+      "whyItMatters": "这是本时段公布的新数据和应对计划，与此前政治表态不同，直接涉及海上活动和供应路线。",
+      "eventTime": "2026-07-20T03:04:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/environment/earthquake-magnitude-56-strikes-central-peru-emsc-says-2026-07-19/",
-          "publishedAt": "2026-07-19T02:47:00Z"
+          "url": "https://www.reuters.com/world/china/taiwan-says-chinese-vessel-activity-jumps-raising-fears-pacific-supply-routes-2026-07-20/",
+          "publishedAt": "2026-07-20T03:04:00Z"
         }
       ]
     },
     {
-      "id": "spain-wins-world-cup-final-2026-07-19",
-      "category": "世界杯或重要体育新闻",
+      "id": "asia-markets-oil-above-90-fed-risks-2026-07-20",
+      "category": "全球资本市场",
       "importance": "high",
-      "title": "西班牙加时1比0击败阿根廷，夺得世界杯冠军",
-      "summary": "西班牙在决赛中凭替补登场的费兰·托雷斯加时进球，以1比0战胜十人作战的卫冕冠军阿根廷。",
-      "impact": "本届世界杯正式落幕，赛事结果将影响国家队周期、球员估值及赛事商业权益结算。",
-      "whyItMatters": "冠军归属是本时段最重要的全球体育结果，且发生在凌晨版发布之后。",
-      "eventTime": "2026-07-19T22:03:00Z",
+      "title": "油价升破90美元压制亚洲市场，利率预期重新上升",
+      "summary": "布伦特原油一度升至每桶90.40美元，美国原油升至84.39美元；亚洲股市整体承压，韩国股市继续下跌，市场重新计入年内加息风险。",
+      "impact": "能源价格和利率预期同步上升，将提高企业融资成本，并加大科技股估值、通胀和全球资产配置压力。",
+      "whyItMatters": "这是周一开盘后的新市场定价，反映中东冲突已开始传导至油价、债券收益率和亚洲风险资产。",
+      "eventTime": "2026-07-20T00:35:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-20/",
+          "publishedAt": "2026-07-20T00:35:00Z"
+        }
+      ]
+    },
+    {
+      "id": "china-csrc-market-stability-meeting-2026-07-20",
+      "updateOf": "china-state-investors-stock-buying-2026-07-19",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "中国证监会将召开市场稳定座谈会",
+      "summary": "官方媒体称，中国证监会将与券商、基金和上市公司代表讨论市场稳定措施；过去两周中国市场市值缩水约10万亿元，两家国有机构周末合计投入约600亿元增持股票。",
+      "impact": "监管层与市场机构直接沟通可能影响稳定资金、流动性安排和后续政策预期。",
+      "whyItMatters": "早前仅有国资增持承诺，本次新增了监管机构召开座谈会并征集政策建议的明确安排。",
+      "eventTime": "2026-07-20T01:33:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/government/china-securities-regulator-hold-market-stability-meeting-state-media-reports-2026-07-20/",
+          "publishedAt": "2026-07-20T01:33:00Z"
+        }
+      ]
+    },
+    {
+      "id": "uk-andy-burnham-becomes-prime-minister-2026-07-20",
+      "category": "中国与国际新闻",
+      "importance": "high",
+      "title": "安迪·伯纳姆将出任英国首相，承诺重塑公共服务和生活成本政策",
+      "summary": "英国工党新领导人安迪·伯纳姆将在斯塔默辞职后正式出任首相，并计划组建新内阁，优先处理生活成本、公共服务和经济增长问题。",
+      "impact": "英国政府更替可能影响财政政策、公共事业监管、英镑和对外政策预期。",
+      "whyItMatters": "英国在十年内迎来第七位首相，是本时段重要的国际政治权力交接。",
+      "eventTime": "2026-07-19T23:04:00Z",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/sports/soccer/spain-battle-past-10-man-argentina-1-0-extra-time-win-world-cup-2026-07-19/",
-          "publishedAt": "2026-07-19T22:03:00Z"
+          "url": "https://www.reuters.com/world/uk/pledging-rewire-britain-king-north-burnham-becomes-pm-2026-07-19/",
+          "publishedAt": "2026-07-19T23:04:00Z"
         }
       ]
     },
     {
-      "id": "hungary-judit-polgar-president-nomination-2026-07-19",
-      "updateOf": "hungary-president-term-ended-2026-07-18",
-      "category": "中国与国际新闻",
+      "id": "indian-students-shift-us-to-eu-2026-07-20",
+      "category": "旅行与目的地",
       "importance": "medium",
-      "title": "匈牙利总理拟提名国际象棋名将波尔加出任总统",
-      "summary": "匈牙利总理彼得·马扎尔表示，将询问国际象棋名将朱迪特·波尔加是否愿意接受总统提名；议会将选出继任者。",
-      "impact": "该提名将影响匈牙利修宪过渡期的国家元首安排，但波尔加尚未确认接受。",
-      "whyItMatters": "这是凌晨版总统提前结束任期之后出现的明确继任安排进展。",
-      "eventTime": "2026-07-19T20:29:00Z",
-      "status": "developing",
+      "title": "签证趋严与成本差异推动印度留学生转向欧洲",
+      "summary": "报道显示，印度学生对欧洲高校兴趣上升；欧盟学费通常比美国低约50%至80%，印度与欧盟贸易协议的流动安排，以及美国、加拿大和英国收紧签证政策共同改变留学选择。",
+      "impact": "留学目的地变化可能影响国际教育市场、学生签证申请、跨境人才流动和航空出行需求。",
+      "whyItMatters": "这是新发布的跨境教育与签证趋势，对计划赴欧美留学和长期停留的人群具有直接参考价值。",
+      "eventTime": "2026-07-20T02:40:00Z",
+      "status": "analysis",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/hungarys-pm-magyar-ask-chess-champion-judit-polgar-become-president-2026-07-19/",
-          "publishedAt": "2026-07-19T20:29:00Z"
+          "url": "https://www.reuters.com/world/india/indian-students-cool-american-dream-eu-opens-its-doors-2026-07-20/",
+          "publishedAt": "2026-07-20T02:40:00Z"
         }
       ]
     },
     {
-      "id": "russia-black-sea-cargo-ship-strike-2026-07-19",
-      "category": "全球重要事件",
-      "importance": "high",
-      "title": "俄军被指袭击黑海国际货轮，至少5名船员死亡",
-      "summary": "乌克兰官员称，一艘装载玉米、悬挂几内亚比绍旗的国际货轮在敖德萨外海遭俄军袭击，至少5名船员死亡、5人失踪，8人获救；俄方尚未公开回应。",
-      "impact": "对民用粮食运输船的攻击可能抬升黑海航运保险、粮食出口和船员安全风险。",
-      "whyItMatters": "这是凌晨版后发生的全新国际航运安全事件，直接关联全球粮食运输通道。",
-      "eventTime": "2026-07-19T20:04:00Z",
+      "id": "spacex-starship-launch-moved-july23-2026",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "SpaceX将星舰第13次试飞推迟至7月23日",
+      "summary": "SpaceX表示下一次星舰发射尝试改至7月23日，并称已调整推进系统以解决上次发射前最后一刻中止所暴露的发动机问题。",
+      "impact": "延期将影响星舰测试节奏、Starlink卫星部署验证及SpaceX项目进度预期。",
+      "whyItMatters": "这是早间版后确认的最新发射安排，包含针对前次故障的工程调整。",
+      "eventTime": "2026-07-19T22:25:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/spacex-moves-starship-launch-attempt-thursday-2026-07-19/",
+          "publishedAt": "2026-07-19T22:25:00Z"
+        }
+      ]
+    },
+    {
+      "id": "tucson-mass-shooting-ten-wounded-2026-07-19",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "美国亚利桑那州图森市中心附近枪击致10人受伤",
+      "summary": "图森警方称，市中心附近商业区发生大规模枪击，包括嫌疑人在内共10人受伤；9名受害者被送医，事件原因仍在调查。",
+      "impact": "事件对当地夜间商业区公共安全和短期旅行风险构成影响，游客应关注警方通报和现场管制。",
+      "whyItMatters": "这是当天新确认的公共安全事件，涉及繁忙商业区和多名伤者。",
+      "eventTime": "2026-07-19T22:16:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russian-strike-cargo-ship-black-sea-kills-5-kyiv-says-2026-07-19/",
-          "publishedAt": "2026-07-19T20:04:00Z"
+          "url": "https://www.reuters.com/world/us/shooting-tucson-arizona-leaves-10-people-wounded-including-suspect-2026-07-19/",
+          "publishedAt": "2026-07-19T22:16:00Z"
+        }
+      ]
+    },
+    {
+      "id": "uk-cfo-ai-optimism-deloitte-2026-07-20",
+      "category": "AI与大模型",
+      "importance": "medium",
+      "title": "德勤调查显示英国大型企业财务负责人对AI更乐观",
+      "summary": "德勤对58名英国大型企业财务负责人的调查显示，73%受访者看好AI改善企业表现，高于2025年末的59%和两年前的39%。",
+      "impact": "企业决策层信心改善可能支持AI软件、自动化和数据基础设施投入，但样本规模有限，仍需结合实际资本开支观察。",
+      "whyItMatters": "该调查为本时段新增的企业AI采用情绪指标，反映管理层预期变化。",
+      "eventTime": "2026-07-19T23:06:00Z",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-chief-financial-officers-turn-more-hopeful-about-ai-2026-07-19/",
+          "publishedAt": "2026-07-19T23:06:00Z"
         }
       ]
     }

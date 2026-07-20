@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-20T12:30:00+08:00",
+  "updatedAt": "2026-07-20T18:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-20",
+      "edition": "1830",
+      "editionLabel": "晚间版",
+      "generatedAt": "2026-07-20T18:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "本版新增10条：Kimi算力与上市、AliExpress欧盟罚款、证监会稳市会议、油价反转、港交所时段改革、欧洲利率、稀土、南海及Meta诉讼。",
+      "path": "data/news/2026-07-20-1830.json"
+    },
     {
       "date": "2026-07-20",
       "edition": "1230",

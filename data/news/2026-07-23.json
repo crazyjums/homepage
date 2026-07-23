@@ -179,7 +179,7 @@
   ],
   "market": {
     "updatedAt": "2026-07-23T12:30:00+08:00",
-    "marketStatus": "mixed",
+    "marketStatus": "unknown",
     "indices": [
       {
         "symbol": "IXIC",

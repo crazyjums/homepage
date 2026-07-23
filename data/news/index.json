@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-24T00:30:00+08:00",
+  "updatedAt": "2026-07-24T06:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-24",
+      "edition": "0630",
+      "editionLabel": "早间版",
+      "generatedAt": "2026-07-24T06:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "本版新增10条：Intel与AI服务器CPU、英伟达先进封装、美国全球关税、日元政策及战争权力投票等。",
+      "path": "data/news/2026-07-24-0630.json"
+    },
     {
       "date": "2026-07-24",
       "edition": "0030",

@@ -1,30 +1,49 @@
 {
   "schemaVersion": 1,
-  "date": "2026-07-23",
-  "generatedAt": "2026-07-23T18:30:00+08:00",
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T00:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "欧盟对Google处以约10亿美元罚款，数字平台监管进入实质执法阶段。",
-    "中美约300亿美元贸易降税安排开始征求意见，双边贸易机制出现具体进展。",
-    "DeepSeek明确AGI、开源与算力路线，AI基础设施需求继续扩散到网络设备和企业软件。",
-    "红海油轮遇袭扩大能源航运风险，欧洲跨境旅行系统仍有不确定性。"
+    "中东冲突与能源航道风险",
+    "AI资本开支与芯片云基础设施",
+    "中美关系与台海动态",
+    "全球利率、汇率与资本市场",
+    "旅行安全与公共卫生"
   ],
-  "topStory": "晚间新增信号集中在科技监管、中美贸易和AI路线：欧盟对Google罚款8.9亿欧元，中国就约300亿美元中美降税安排征求意见，DeepSeek披露长期AGI与开源策略；红海油轮袭击则扩大中东能源运输风险。",
-  "editorialNote": "本版新增8条，经与今日午间版按稳定ID、标题主体和规范化来源URL去重；市场快照沿用午间版已核验数据，未可靠取得的项目继续保留为null。",
-  "updateMode": "incremental",
-  "baseEdition": "1230",
-  "previousGeneratedAt": "2026-07-23T12:30:00+08:00",
+  "topStory": "中东冲突与红海油轮遇袭推动油价突破每桶100美元，能源、通胀、航空与全球资产定价同时承压。",
+  "editorialNote": "本版为2026-07-24首个完整版本，汇总过去24小时30条经公开来源核验的高价值信息；市场速览仅保留可可靠取得的实时值，其余项目为null，未作估算。",
+  "updateMode": "full",
   "news": [
     {
-      "id": "houthis-saudi-tankers-red-sea-2026-07-23",
+      "id": "us-iran-strikes-night12-20260723",
       "category": "全球重要事件",
       "importance": "high",
-      "title": "胡塞武装称袭击两艘沙特油轮，红海航运出现第二处能源瓶颈风险",
-      "summary": "胡塞武装称使用导弹和无人机袭击两艘沙特油轮；沙特官方确认Encelia号船艏起火，另一艘Layla号遇袭说法尚未获独立确认，多艘油轮已调整航线。",
-      "impact": "若曼德海峡通行持续受阻，绕开霍尔木兹海峡的沙特红海出口也将承压，航程、保险和能源运输成本可能进一步上升。",
-      "whyItMatters": "中东能源运输风险由霍尔木兹海峡扩展到红海南端，可能形成两个关键航运瓶颈。",
-      "eventTime": "2026-07-23T04:15:00Z",
+      "title": "美军完成连续第12夜对伊朗打击",
+      "summary": "美军表示已完成连续第12夜针对伊朗的打击，冲突仍处于持续升级阶段。",
+      "impact": "中东航运、能源设施和区域驻军的安全风险继续上升。",
+      "whyItMatters": "持续军事行动增加误判与外溢概率，并直接影响油价、保险与航空线路。",
+      "eventTime": "2026-07-23T18:00:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-military-completes-12th-straight-night-strikes-iran-2026-07-23/",
+          "publishedAt": "2026-07-23T18:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "houthi-saudi-tankers-red-sea-20260723",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "胡塞武装称袭击沙特油轮，红海风险再升",
+      "summary": "胡塞武装称在红海袭击沙特油轮，能源运输风险由霍尔木兹海峡进一步外溢至曼德海峡航道。",
+      "impact": "油轮改道、保费和燃料运输成本可能继续上升。",
+      "whyItMatters": "两处关键海上咽喉同时承压，会放大全球能源与供应链冲击。",
+      "eventTime": "2026-07-23T16:30:00+08:00",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
@@ -32,139 +51,119 @@
         {
           "name": "Reuters",
           "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-saudi-tankers-red-sea-threatening-new-chokepoint-iran-2026-07-23/",
-          "publishedAt": "2026-07-23T04:15:00Z"
+          "publishedAt": "2026-07-23T16:30:00+08:00"
         }
       ]
     },
     {
-      "id": "nokia-ai-cloud-sales-q2-2026-07-23",
-      "category": "AI与大模型",
+      "id": "china-taiwan-strait-drills-20260723",
+      "category": "台海问题",
       "importance": "high",
-      "title": "诺基亚AI与云客户销售额翻倍，上调全年利润指引",
-      "summary": "诺基亚第二季度AI和云客户净销售额增至4.46亿欧元，可比营业利润同比增长18%至4.34亿欧元，并小幅上调全年利润指引。",
-      "impact": "AI数据中心对光纤网络和通信设备的需求形成新的增长来源，但内存等组件涨价仍可能挤压设备厂商利润。",
-      "whyItMatters": "AI基础设施投资的收益正从芯片扩散到光网络和通信设备，验证算力集群的系统级需求。",
-      "eventTime": "2026-07-23T04:59:00Z",
+      "title": "中国在台湾海峡附近展开两天实弹演习",
+      "summary": "中国方面宣布在福建东山岛附近海域进行两天实弹演习；台湾方面公开表示反对并称其加剧区域紧张。",
+      "impact": "相关海空域通行和两岸安全预期面临短期扰动。",
+      "whyItMatters": "军事活动的范围和持续时间是评估台海风险的重要事实指标。",
+      "eventTime": "2026-07-23T06:00:00+08:00",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/nokia-q2-profit-beat-ai-demand-2026-07-23/",
-          "publishedAt": "2026-07-23T04:59:00Z"
+          "url": "https://www.reuters.com/world/asia-pacific/china-announces-live-fire-drills-taiwan-strait-2026-07-23/",
+          "publishedAt": "2026-07-23T06:00:00+08:00"
         }
       ]
     },
     {
-      "id": "dassault-arisglobal-ai-deal-2026-07-23",
-      "category": "科技商业",
-      "importance": "medium",
-      "title": "达索系统拟以18亿美元收购ArisGlobal，加码生命科学AI软件",
-      "summary": "达索系统确认2026年展望，并宣布以约18亿美元现金收购美国生命科学软件公司ArisGlobal，另设最高2亿美元与AI收入目标挂钩的追加付款。",
-      "impact": "交易将扩大达索在临床开发、监管申报和药物安全软件领域的覆盖，预计于2026年下半年完成，仍需监管批准。",
-      "whyItMatters": "工业软件厂商正通过并购把AI能力延伸到高合规、高价值的生命科学工作流。",
-      "eventTime": "2026-07-23T05:06:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/technology/dassault-systmes-q2-revenue-rises-178-billion-2026-07-23/",
-          "publishedAt": "2026-07-23T05:06:00Z"
-        }
-      ]
-    },
-    {
-      "id": "channel-tunnel-eu-biometric-delay-2026-07-23",
-      "category": "旅行与目的地",
-      "importance": "medium",
-      "title": "英法海底隧道运营商警告欧盟生物识别边检可能延期",
-      "summary": "Getlink称，面向驾车旅客的欧盟入出境系统生物识别阶段可能无法按9月6日计划启用，原因是欧洲层面的软件尚未完全稳定。",
-      "impact": "若延期或上线不稳定，英法跨境自驾和欧洲旅行可能出现排队、流程调整与出行时间不确定性。",
-      "whyItMatters": "这是直接影响英欧跨境旅客的系统性旅行风险，需要关注正式启用日期和口岸通知。",
-      "eventTime": "2026-07-23T06:41:00Z",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/channel-tunnel-operator-says-eu-software-issues-could-delay-biometric-checks-2026-07-23/",
-          "publishedAt": "2026-07-23T06:41:00Z"
-        }
-      ]
-    },
-    {
-      "id": "china-us-tariff-cuts-consultation-2026-07-23",
+      "id": "rubio-asia-allies-assurance-20260723",
       "category": "中美关系",
       "importance": "high",
-      "title": "中国就约300亿美元中美贸易降税安排公开征求意见",
-      "summary": "中国商务部表示，正向企业、行业协会和地方政府征求对中美互惠降税安排的意见，涉及约300亿美元贸易；双方团队持续沟通具体框架。",
-      "impact": "若具体安排落地，农产品及其他纳入范围的双边商品成本和贸易量可能变化。",
-      "whyItMatters": "这是中美贸易休战从原则性沟通转向具体税目和执行机制的重要进展。",
-      "eventTime": "2026-07-23T09:13:00Z",
+      "title": "鲁比奥在马尼拉重申美国对亚洲盟友承诺",
+      "summary": "美国国务卿鲁比奥在地区安全会议期间表示，对华关系改善不会以牺牲亚洲盟友为代价，并谈及南海与能源安全。",
+      "impact": "美中沟通与同盟承诺并行，区域国家将据此调整外交和防务判断。",
+      "whyItMatters": "该表态连接中美高层接触、南海摩擦与中东能源冲击。",
+      "eventTime": "2026-07-23T20:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/top-diplomats-gather-security-forum-southeast-asia-2026-07-23/",
+          "publishedAt": "2026-07-23T20:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "rubio-lavrov-ukraine-talks-20260723",
+      "category": "全球重要事件",
+      "importance": "medium",
+      "title": "鲁比奥会见拉夫罗夫后称美国仍致力推动乌克兰停战",
+      "summary": "美国国务卿鲁比奥与俄罗斯外长拉夫罗夫会晤后表示，美国仍致力于推动结束乌克兰战争。",
+      "impact": "高层接触为外交沟通保留渠道，但战场行动尚未出现同步降温。",
+      "whyItMatters": "是否形成后续谈判安排将影响欧洲安全和制裁预期。",
+      "eventTime": "2026-07-23T16:41:00+08:00",
       "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/rubio-says-us-committed-helping-end-ukraine-war-after-meeting-lavrov-2026-07-23/",
+          "publishedAt": "2026-07-23T16:41:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "china-us-tariff-consultation-20260723",
+      "category": "中美关系",
+      "importance": "high",
+      "title": "中国就约300亿美元中美贸易降税安排征求意见",
+      "summary": "中国有关部门就一项涉及约300亿美元双边贸易的关税下调安排公开征求意见。",
+      "impact": "若落地，将影响相关进口成本、企业订单与双边贸易预期。",
+      "whyItMatters": "这是观察中美贸易缓和能否转化为具体政策的重要节点。",
+      "eventTime": "2026-07-23T14:30:00+08:00",
+      "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
           "url": "https://www.reuters.com/world/china/beijing-seeks-opinions-planned-china-us-tariff-cuts-30-billion-trade-2026-07-23/",
-          "publishedAt": "2026-07-23T09:13:00Z"
+          "publishedAt": "2026-07-23T14:30:00+08:00"
         }
       ]
     },
     {
-      "id": "deepseek-agi-open-source-strategy-2026-07-23",
+      "id": "deepseek-agi-open-source-20260723",
       "category": "AI与大模型",
       "importance": "high",
-      "title": "DeepSeek创始人称优先推进AGI，顶级模型预计继续开源",
-      "summary": "据第一财经援引投资者会议记录，梁文锋表示DeepSeek更重视长期AGI研发而非利润最大化，先进模型大概率继续开源，并将算力视为当前最大约束。",
-      "impact": "持续开源可能加快模型生态扩散并压低应用成本，而建设大型算力集群将提高公司的资本与供应链需求。",
-      "whyItMatters": "这明确了DeepSeek融资后的技术路线、商业化取舍和算力规划，对中国开源模型竞争具有直接影响。",
-      "eventTime": "2026-07-23T09:20:00Z",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/founder-says-deepseek-prioritises-agi-over-profit-likely-keep-top-models-open-2026-07-23/",
-          "publishedAt": "2026-07-23T09:20:00Z"
-        }
-      ]
-    },
-    {
-      "id": "geely-ford-spain-ev-joint-venture-2026-07-23",
-      "category": "科技商业",
-      "importance": "high",
-      "title": "吉利与福特将在西班牙合资生产电动SUV并联合开发欧洲车型",
-      "summary": "吉利与福特宣布成立由福特持股66%、吉利持股33%的合资企业，在福特瓦伦西亚工厂生产两款吉利电动SUV，并联合开发新车型，计划2028年投产。",
-      "impact": "合作可帮助吉利提高欧洲本地化生产比例，也能提升福特闲置产能利用率。",
-      "whyItMatters": "中国车企与传统欧美车企正从单纯竞争转向产能和产品协作，以适应欧洲本地含量规则。",
-      "eventTime": "2026-07-23T09:33:00Z",
+      "title": "DeepSeek创始人称优先推进AGI并倾向保持顶级模型开放",
+      "summary": "DeepSeek创始人表示，公司更重视通用人工智能目标而非短期利润，并可能继续开放其领先模型。",
+      "impact": "开源路线会影响模型生态、算力需求和中美AI竞争格局。",
+      "whyItMatters": "领先中国模型公司的战略选择会改变开发者采用与商业化节奏。",
+      "eventTime": "2026-07-23T15:00:00+08:00",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/chinas-geely-make-electric-suvs-ford-spain-plant-jointly-develop-model-europe-2026-07-23/",
-          "publishedAt": "2026-07-23T09:33:00Z"
+          "url": "https://www.reuters.com/world/china/founder-says-deepseek-prioritises-agi-over-profit-likely-keep-top-models-open-2026-07-23/",
+          "publishedAt": "2026-07-23T15:00:00+08:00"
         }
       ]
     },
     {
-      "id": "google-eu-dma-fine-2026-07-23",
+      "id": "google-eu-dma-fine-20260723",
       "category": "科技商业",
       "importance": "high",
-      "title": "欧盟依据标志性数字规则对Google处以约10亿美元罚款",
-      "summary": "欧盟委员会宣布，Google因违反旨在约束大型科技平台权力的规则，被合计罚款8.9亿欧元；监管机构同时表示其后续合规整改取得进展。",
-      "impact": "处罚将提高大型平台在欧洲的合规成本，并可能影响搜索、广告、应用分发和竞争对手接入规则。",
-      "whyItMatters": "这是欧盟以新一代数字监管框架约束大型科技公司的重要执法案例。",
-      "eventTime": "2026-07-23T10:08:00Z",
+      "title": "欧盟依据数字市场规则对Google罚款约10亿美元",
+      "summary": "欧盟委员会称Google违反旨在约束大型科技平台的规则，对其合计罚款8.9亿欧元；双方仍在就后续整改沟通。",
+      "impact": "处罚可能改变Google在欧洲的产品设计、商业条款和合规成本。",
+      "whyItMatters": "这是欧盟数字市场监管对全球平台落地执行的重要案例。",
+      "eventTime": "2026-07-23T22:00:00+08:00",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
@@ -172,23 +171,463 @@
         {
           "name": "Reuters",
           "url": "https://www.reuters.com/world/google-hit-with-1-billion-eu-fine-first-under-landmark-rules-2026-07-23/",
-          "publishedAt": "2026-07-23T10:08:00Z"
+          "publishedAt": "2026-07-23T22:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "alphabet-ai-capex-cashburn-20260723",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "Alphabet提高AI资本开支预期，现金消耗引发市场担忧",
+      "summary": "Alphabet上调2026年资本开支预期，Google Cloud保持强劲增长，但高额AI基础设施投入令自由现金流和回报周期受到关注。",
+      "impact": "大型科技公司的估值越来越取决于AI投入能否转化为持续利润。",
+      "whyItMatters": "资本开支变化会直接传导至芯片、云和数据中心供应链。",
+      "eventTime": "2026-07-23T20:30:00+08:00",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+          "publishedAt": "2026-07-23T20:30:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "amd-helios-venice-ai-infra-20260723",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "AMD展示新一代AI基础设施，强化对英伟达竞争",
+      "summary": "AMD在旧金山活动中推进Helios机架、Venice CPU和MI450等下一代AI基础设施方案，重点面向推理与大规模部署。",
+      "impact": "云服务商和模型公司将获得更多硬件选择，AI服务器竞争加剧。",
+      "whyItMatters": "软硬件整栈能力决定AMD能否扩大数据中心份额。",
+      "eventTime": "2026-07-23T21:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/",
+          "publishedAt": "2026-07-23T21:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "nokia-ai-cloud-q2-20260723",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "诺基亚AI与云客户销售翻倍并上调全年指引",
+      "summary": "诺基亚第二季度可比营业利润高于预期，AI与云客户销售同比翻倍，公司上调全年营业利润指引。",
+      "impact": "AI数据中心建设正在扩大光网络与通信设备需求。",
+      "whyItMatters": "需求从GPU外溢到光纤和网络设备，验证AI基础设施投资链条延伸。",
+      "eventTime": "2026-07-23T14:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/nokia-q2-profit-beat-ai-demand-2026-07-23/",
+          "publishedAt": "2026-07-23T14:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "dassault-arisglobal-ai-deal-20260723",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "达索系统押注AI并维持2026年展望",
+      "summary": "达索系统第二季度营收增长，工业软件云收入上升，并通过收购ArisGlobal强化生命科学AI能力。",
+      "impact": "交易有望补强临床与监管软件，但生命科学业务仍面临增长压力。",
+      "whyItMatters": "工业软件公司正通过并购加速将生成式AI嵌入专业工作流。",
+      "eventTime": "2026-07-23T13:30:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/technology/dassault-systmes-q2-revenue-rises-178-billion-2026-07-23/",
+          "publishedAt": "2026-07-23T13:30:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "amazon-prime-video-ai-redesign-20260723",
+      "category": "AI与大模型",
+      "importance": "medium",
+      "title": "亚马逊推动Prime Video以AI为核心的改版",
+      "summary": "亚马逊正在测试代号Lighthouse的Prime Video改版，计划加强AI推荐、个性化内容入口和语音搜索。",
+      "impact": "AI将更深地进入面向消费者的媒体分发界面。",
+      "whyItMatters": "拥有两亿级用户的平台改版可检验生成式AI对留存和内容发现的真实价值。",
+      "eventTime": "2026-07-23T22:30:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/amazons-bezos-pushes-prime-video-redesign-focused-ai-2026-07-23/",
+          "publishedAt": "2026-07-23T22:30:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "databricks-azure-custom-chips-20260723",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "Databricks扩大Azure合作并增加使用微软自研芯片",
+      "summary": "Databricks与微软扩大长期合作，将更多核心数据与AI工作负载迁至Azure并采用Cobalt自研处理器。",
+      "impact": "微软自研芯片获得大型企业AI平台客户，云算力供应链进一步多元化。",
+      "whyItMatters": "该合作反映云厂商正在以软硬件捆绑争夺AI数据平台。",
+      "eventTime": "2026-07-23T23:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/databricks-expands-microsoft-azure-partnership-use-more-custom-chips-2026-07-23/",
+          "publishedAt": "2026-07-23T23:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "us-cybercrime-visa-policy-20260723",
+      "category": "全球重要事件",
+      "importance": "medium",
+      "title": "美国推出针对网络犯罪参与者的签证限制政策",
+      "summary": "美国国务院宣布，可对参与或协助网络犯罪及网络赋能犯罪的个人实施签证限制，部分情况下也涉及其直系亲属。",
+      "impact": "跨境网络犯罪执法增加外交和出入境工具。",
+      "whyItMatters": "政策扩大了网络安全事件对个人流动和国际合作的后果。",
+      "eventTime": "2026-07-23T22:48:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/us/us-announces-visa-restriction-policy-people-complicit-cybercrime-2026-07-23/",
+          "publishedAt": "2026-07-23T22:48:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "cxmt-shanghai-listing-20260723",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "长鑫科技完成大型IPO并拟于7月27日上海上市",
+      "summary": "中国DRAM厂商长鑫科技完成约579亿元人民币募资，计划7月27日在上海证券交易所上市。",
+      "impact": "募资将支持扩产和研发，强化中国存储芯片与AI供应链投入。",
+      "whyItMatters": "该交易是观察中国半导体产业融资能力与本土替代进程的重要样本。",
+      "eventTime": "2026-07-23T17:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/chinese-chipmaker-cxmt-list-shanghai-july-27-after-asias-biggest-ipo-this-year-2026-07-23/",
+          "publishedAt": "2026-07-23T17:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "europe-semiconductor-divergence-20260723",
+      "category": "全球资本市场",
+      "importance": "medium",
+      "title": "欧洲芯片股分化，市场重新评估AI需求与盈利兑现",
+      "summary": "欧洲半导体股票在业绩发布后明显分化，投资者同时权衡AI需求、成本压力与增长指引。",
+      "impact": "高估值芯片资产对订单质量和利润率变化更加敏感。",
+      "whyItMatters": "分化说明AI主题正从普涨转向业绩验证阶段。",
+      "eventTime": "2026-07-23T18:36:00+08:00",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/european-semiconductor-stocks-diverge-investors-weigh-ai-demand-growth-2026-07-23/",
+          "publishedAt": "2026-07-23T18:36:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "tesla-robotaxi-guidance-shift-20260723",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "特斯拉对Robotaxi扩张转为更谨慎的逐城推进",
+      "summary": "特斯拉承认Robotaxi落地慢于此前雄心勃勃的预测，目前更强调按城市处理监管和运营问题。",
+      "impact": "自动驾驶商业化进度仍不足以支撑此前的高速扩张叙事。",
+      "whyItMatters": "Robotaxi是特斯拉估值的重要支柱，执行节奏变化会直接影响投资者预期。",
+      "eventTime": "2026-07-23T21:30:00+08:00",
+      "status": "analysis",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/teslas-once-bullish-tone-robotaxis-shifts-2026-07-23/",
+          "publishedAt": "2026-07-23T21:30:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "american-airlines-fuel-outlook-20260723",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "美国航空因燃油冲击下调2026年业绩展望",
+      "summary": "美国航空称7月以来燃油成本大幅上升，尽管票价和需求保持韧性，仍下调全年盈利预期。",
+      "impact": "高油价可能传导至机票价格、航线安排和航空公司利润。",
+      "whyItMatters": "中东冲突对普通旅客最直接的经济影响之一是燃油与票价。",
+      "eventTime": "2026-07-23T20:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/american-airlines-trims-full-year-profit-target-weighed-by-higher-fuel-prices-2026-07-23/",
+          "publishedAt": "2026-07-23T20:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "ecb-holds-rate-225-20260723",
+      "category": "宏观经济与投资",
+      "importance": "high",
+      "title": "欧洲央行维持存款利率2.25%并保留加息可能",
+      "summary": "欧洲央行维持利率不变，但能源价格回升使政策层保留后续加息空间，市场继续押注年内收紧。",
+      "impact": "欧洲融资成本和欧元资产定价将继续受油价与通胀数据牵引。",
+      "whyItMatters": "央行在增长疲弱与能源通胀之间的取舍影响全球利率路径。",
+      "eventTime": "2026-07-23T20:15:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/view-ecb-leaves-rates-hold-keeps-door-open-further-rate-hikes-2026-07-23/",
+          "publishedAt": "2026-07-23T20:15:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "us-jobless-claims-low-20260723",
+      "category": "宏观经济与投资",
+      "importance": "high",
+      "title": "美国初请失业金人数降至1969年以来最低",
+      "summary": "美国最新一周初请失业金人数大幅下降，显示劳动力市场仍然紧张。",
+      "impact": "强劲就业可能降低近期降息概率，并支撑美元与债券收益率。",
+      "whyItMatters": "就业数据是美联储权衡通胀与增长的核心变量。",
+      "eventTime": "2026-07-23T20:40:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/us/us-weekly-jobless-claims-fall-sharply-latest-week-2026-07-23/",
+          "publishedAt": "2026-07-23T20:40:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "wall-st-tech-oil-selloff-20260723",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "科技股资本开支担忧与百美元油价拖累美股",
+      "summary": "Alphabet和Tesla大跌，AI投入回报担忧叠加油价突破100美元，推动美股主要指数走低并抬升波动率。",
+      "impact": "成长股估值、通胀预期和利率路径同步承压。",
+      "whyItMatters": "科技资本开支与能源冲击同时出现，使股债组合面临双重风险。",
+      "eventTime": "2026-07-24T00:18:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/wall-st-futures-ease-big-tech-results-revive-ai-spending-worries-oil-jumps-2026-07-23/",
+          "publishedAt": "2026-07-24T00:18:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "india-rupee-rbi-intervention-20260723",
+      "category": "全球资本市场",
+      "importance": "medium",
+      "title": "印度卢比逼近纪录低位，交易员称央行疑似干预",
+      "summary": "印度卢比接近历史低位，市场交易员称印度央行可能在外汇市场进行干预。",
+      "impact": "强美元和高油价增加印度进口成本与通胀压力。",
+      "whyItMatters": "印度是重要能源进口国，汇率承压可反映油价冲击的跨市场传导。",
+      "eventTime": "2026-07-23T12:06:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/india/indian-central-bank-likely-intervenes-rupee-nears-record-low-traders-say-2026-07-23/",
+          "publishedAt": "2026-07-23T12:06:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "teck-copper-profit-20260723",
+      "category": "宏观经济与投资",
+      "importance": "medium",
+      "title": "铜价与产量增长推动Teck Resources利润超预期",
+      "summary": "Teck Resources第二季度利润超过预期，铜价上涨和产量增加提供主要支撑。",
+      "impact": "数据中心、电网与能源转型需求继续强化铜的战略属性。",
+      "whyItMatters": "铜价既反映供给约束，也连接AI基础设施和全球制造周期。",
+      "eventTime": "2026-07-23T21:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/teck-resources-tops-profit-estimates-stronger-copper-production-prices-2026-07-23/",
+          "publishedAt": "2026-07-23T21:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "india-ecommerce-export-rules-20260723",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "印度放宽电商出口投资规则，亚马逊获直接采购空间",
+      "summary": "印度允许外资电商为出口直接向本地卖家采购商品，改变此前仅限平台撮合的规则。",
+      "impact": "新规有望扩大中小制造商出口，但本地零售团体要求强化反滥用监管。",
+      "whyItMatters": "政策将影响Amazon等平台在印度的供应链控制力和跨境电商竞争。",
+      "eventTime": "2026-07-23T20:30:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/india/india-relaxes-e-commerce-investment-rules-exports-win-amazon-2026-07-23/",
+          "publishedAt": "2026-07-23T20:30:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "sweden-mining-national-security-20260723",
+      "category": "全球重要事件",
+      "importance": "medium",
+      "title": "瑞典将关键矿产开采列为国家安全利益",
+      "summary": "瑞典政府宣布关键金属和稀土矿业属于国家安全利益，并提出降低对中国依赖的新战略。",
+      "impact": "欧洲关键矿产项目可能获得更快审批和政策支持。",
+      "whyItMatters": "稀土供应链已从商业议题上升为产业与安全政策核心。",
+      "eventTime": "2026-07-23T22:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/sweden-declares-mining-national-security-interest-counter-dependence-china-2026-07-23/",
+          "publishedAt": "2026-07-23T22:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "france-wildfire-evacuation-20260723",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "法国西南部山火迫使逾万人撤离",
+      "summary": "法国波尔多附近阿卡雄湾地区山火快速蔓延，超过一万人从住宅和露营地撤离，数百名消防员参与扑救。",
+      "impact": "当地公路、露营地和沿海旅游活动面临中断，旅客需核实交通与警报。",
+      "whyItMatters": "这是欧洲高温干旱对热门目的地安全和旅行计划的直接冲击。",
+      "eventTime": "2026-07-23T18:00:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/more-than-10000-evacuated-southwestern-france-wildfire-spreads-2026-07-23/",
+          "publishedAt": "2026-07-23T18:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "channel-tunnel-biometric-delay-20260723",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "英法海底隧道运营方警告欧盟生物识别系统可能造成延误",
+      "summary": "英法海底隧道运营方称，欧盟入境生物识别软件问题可能在边境检查启用后增加排队和行程延误。",
+      "impact": "跨英吉利海峡铁路与自驾旅客需预留更长边检时间。",
+      "whyItMatters": "新边检系统的技术稳定性会直接影响欧洲高峰旅行体验。",
+      "eventTime": "2026-07-23T17:30:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/channel-tunnel-operator-says-eu-software-issues-could-delay-biometric-checks-2026-07-23/",
+          "publishedAt": "2026-07-23T17:30:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "congo-ebola-deaths-1000-20260723",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "刚果埃博拉死亡人数超过1000",
+      "summary": "刚果方面称埃博拉死亡人数已超过1000，暴力冲突、医疗物资不足和交通受阻妨碍救治。",
+      "impact": "疫情扩散和跨境旅行卫生措施的风险上升。",
+      "whyItMatters": "公共卫生危机与地区冲突叠加，增加国际援助和监测难度。",
+      "eventTime": "2026-07-23T16:26:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-more-than-1000-die-ebola-confirmed-cases-rise-2536-2026-07-23/",
+          "publishedAt": "2026-07-23T16:26:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "totalenergies-arctic-lng-exit-20260723",
+      "category": "宏观经济与投资",
+      "importance": "medium",
+      "title": "TotalEnergies将退出俄罗斯Arctic LNG 2项目",
+      "summary": "TotalEnergies表示将把Arctic LNG 2项目10%权益转让给Novatek旗下实体，俄方已批准相关安排。",
+      "impact": "交易改变欧洲能源企业在俄资产敞口，并影响受制裁LNG项目结构。",
+      "whyItMatters": "能源资产退出反映制裁、地缘政治与资本回收之间的持续调整。",
+      "eventTime": "2026-07-23T22:30:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/totalenergies-exit-arctic-lng-2-plant-russia-ceo-says-2026-07-23/",
+          "publishedAt": "2026-07-23T22:30:00+08:00"
         }
       ]
     }
   ],
   "market": {
-    "updatedAt": "2026-07-23T12:30:00+08:00",
+    "updatedAt": "2026-07-24T00:30:00+08:00",
     "marketStatus": "unknown",
     "indices": [
       {
         "symbol": "IXIC",
-        "name": "纳斯达克指数",
+        "name": "纳斯达克综合指数",
         "value": null,
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -198,7 +637,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -208,7 +647,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -218,7 +657,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -228,7 +667,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -238,7 +677,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -248,7 +687,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -258,7 +697,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -268,7 +707,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -278,7 +717,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       }
     ],
@@ -286,133 +725,83 @@
       {
         "symbol": "AAPL",
         "name": "苹果",
-        "value": 325.89,
-        "changePercent": -0.497,
+        "value": 321.08,
+        "changePercent": -1.476,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T08:15:00+08:00",
-        "marketStatus": "closed"
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "MSFT",
         "name": "微软",
-        "value": 390.34,
-        "changePercent": -1.825,
+        "value": 380.23,
+        "changePercent": -2.59,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T08:15:00+08:00",
-        "marketStatus": "closed"
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "NVDA",
         "name": "英伟达",
-        "value": 212.06,
-        "changePercent": 2.291,
+        "value": 208.93,
+        "changePercent": -1.476,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T08:15:00+08:00",
-        "marketStatus": "closed"
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "GOOGL",
         "name": "Alphabet",
-        "value": null,
-        "changePercent": null,
+        "value": 321.4,
+        "changePercent": -6.048,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
-        "marketStatus": "unknown"
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "AMZN",
         "name": "亚马逊",
-        "value": null,
-        "changePercent": null,
+        "value": 234.27,
+        "changePercent": -4.321,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
-        "marketStatus": "unknown"
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "META",
         "name": "Meta",
-        "value": null,
-        "changePercent": null,
+        "value": 603.1,
+        "changePercent": -3.838,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
-        "marketStatus": "unknown"
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "TSLA",
         "name": "特斯拉",
-        "value": null,
-        "changePercent": null,
+        "value": 324.88,
+        "changePercent": -13.136,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
-        "marketStatus": "unknown"
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       }
     ],
     "assets": [
       {
-        "symbol": "BRENT",
-        "name": "布伦特原油",
-        "value": 95.31,
-        "changePercent": 1.3,
-        "unit": "美元/桶",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T09:00:00+08:00",
-        "marketStatus": "unknown"
-      },
-      {
-        "symbol": "DXY",
-        "name": "美元指数",
-        "value": 101.05,
+        "symbol": "VIX",
+        "name": "VIX波动率指数",
+        "value": null,
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T09:00:00+08:00",
-        "marketStatus": "open"
-      },
-      {
-        "symbol": "USDJPY",
-        "name": "美元兑日元",
-        "value": 163.1,
-        "changePercent": null,
-        "unit": "日元",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T09:00:00+08:00",
-        "marketStatus": "open"
-      },
-      {
-        "symbol": "GOLD",
-        "name": "现货黄金",
-        "value": 4132.01,
-        "changePercent": null,
-        "unit": "美元/盎司",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T10:00:00+08:00",
-        "marketStatus": "open"
-      },
-      {
-        "symbol": "BTC",
-        "name": "比特币",
-        "value": 65659,
-        "changePercent": -0.977,
-        "unit": "美元",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T08:15:00+08:00",
-        "marketStatus": "open"
-      },
-      {
-        "symbol": "WTI",
-        "name": "WTI原油",
-        "value": null,
-        "changePercent": null,
-        "unit": "美元/桶",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -422,7 +811,17 @@
         "changePercent": null,
         "unit": "%",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -432,18 +831,38 @@
         "changePercent": null,
         "unit": "人民币",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
-        "symbol": "VIX",
-        "name": "VIX波动率指数",
+        "symbol": "GOLD",
+        "name": "现货黄金",
         "value": null,
         "changePercent": null,
-        "unit": "点",
+        "unit": "美元/盎司",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
         "marketStatus": "unknown"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元/桶",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "BTC",
+        "name": "比特币",
+        "value": 64751,
+        "changePercent": -2.041,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "marketStatus": "open"
       }
     ]
   }

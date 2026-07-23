@@ -1,216 +1,178 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-23",
-  "generatedAt": "2026-07-23T12:30:00+08:00",
+  "generatedAt": "2026-07-23T18:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "台海实弹演练成为本时段最重要的地区安全变量。",
-    "AI基础设施需求继续向服务器CPU、芯片制造和系统组装扩散。",
-    "科技股预期推动亚洲市场反弹，但中东冲突推动油价与通胀风险上升。",
-    "欧洲高温干旱和山火正在同时影响农业、能源、航运与旅行安全。"
+    "欧盟对Google处以约10亿美元罚款，数字平台监管进入实质执法阶段。",
+    "中美约300亿美元贸易降税安排开始征求意见，双边贸易机制出现具体进展。",
+    "DeepSeek明确AGI、开源与算力路线，AI基础设施需求继续扩散到网络设备和企业软件。",
+    "红海油轮遇袭扩大能源航运风险，欧洲跨境旅行系统仍有不确定性。"
   ],
-  "topStory": "中国宣布在台湾海峡部分区域开展两天实弹演练；与此同时，AI服务器需求推高CPU供应价格，亚洲市场受科技企业资本开支预期提振，但中东风险把布伦特油价推向六周高位。",
-  "editorialNote": "本期为2026年7月23日午间首版，覆盖过去24小时。军事冲突、外交表态和市场信息均按公开来源的报道状态标记；市场无法可靠取得的项目保留为null。",
-  "updateMode": "full",
+  "topStory": "晚间新增信号集中在科技监管、中美贸易和AI路线：欧盟对Google罚款8.9亿欧元，中国就约300亿美元中美降税安排征求意见，DeepSeek披露长期AGI与开源策略；红海油轮袭击则扩大中东能源运输风险。",
+  "editorialNote": "本版新增8条，经与今日午间版按稳定ID、标题主体和规范化来源URL去重；市场快照沿用午间版已核验数据，未可靠取得的项目继续保留为null。",
+  "updateMode": "incremental",
+  "baseEdition": "1230",
+  "previousGeneratedAt": "2026-07-23T12:30:00+08:00",
   "news": [
     {
-      "id": "china-taiwan-strait-live-fire-2026-07-23",
-      "category": "台海问题",
-      "importance": "high",
-      "title": "中国宣布在台湾海峡部分区域开展实弹演练",
-      "summary": "福建海事部门发布航行警告，相关区域将于7月23日至24日进行实弹射击训练，时段为当地6时至18时。",
-      "impact": "演练可能影响周边航运和航空安排，并提高台海军事活动与误判风险。",
-      "whyItMatters": "这是本时段最直接的台海安全变量，需要关注演练范围、持续时间和各方后续反应。",
-      "eventTime": "2026-07-23T06:00:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/china-announces-live-fire-drills-taiwan-strait-2026-07-23/",
-          "publishedAt": "2026-07-23T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "asian-stocks-us-tech-earnings-oil-2026-07-23",
-      "category": "全球资本市场",
-      "importance": "high",
-      "title": "亚洲股市受美国科技股业绩提振上涨，油价升至六周高位",
-      "summary": "美国大型科技企业资本开支和业绩预期提振亚洲芯片股，韩国综合指数涨幅超过3%，日本股市也明显上行；中东局势则推动布伦特原油升至约96美元。",
-      "impact": "科技投资预期支撑风险资产，但油价上涨会重新推高通胀、利率和企业成本压力。",
-      "whyItMatters": "AI基础设施投资和能源供给风险正在同时影响亚洲市场定价。",
-      "eventTime": "2026-07-23T09:00:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-23/",
-          "publishedAt": "2026-07-23T01:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "intel-amd-china-server-cpu-deals-2026-07-23",
-      "category": "AI与大模型",
-      "importance": "high",
-      "title": "英特尔和AMD与中国客户签订长期服务器CPU供应协议",
-      "summary": "据知情人士，AI基础设施需求推高中国服务器CPU价格，英特尔和AMD正通过长期协议锁定客户采购量，部分产品价格较年初上涨超过40%。",
-      "impact": "CPU、内存和网络设备供给趋紧，可能增加中国云厂商和互联网企业扩充AI服务的成本。",
-      "whyItMatters": "AI算力瓶颈已从GPU扩展到服务器整机的多个关键部件，供应链成本正在向上游集中。",
-      "eventTime": "2026-07-23T08:00:00+08:00",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/legal/transactional/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-prices-surge-2026-07-23/",
-          "publishedAt": "2026-07-23T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "us-iran-oil-dollar-yen-2026-07-23",
-      "category": "宏观经济与投资",
-      "importance": "high",
-      "title": "美伊紧张局势支撑美元，日元接近40年低位",
-      "summary": "中东冲突和油价上涨增强避险需求，美元指数约为101.05，日元一度接近每美元163.1，市场同时关注美国国债收益率和潜在政策干预。",
-      "impact": "能源价格和避险资金流向可能推高通胀预期、债券收益率及亚洲进口成本。",
-      "whyItMatters": "美元、油价、利率和日元正在被同一地缘风险同时驱动，资产联动性增强。",
-      "eventTime": "2026-07-23T08:30:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/us-iran-tensions-underpin-dollar-yen-nears-40-year-low-2026-07-23/",
-          "publishedAt": "2026-07-23T01:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "gold-oil-fed-rate-2026-07-23",
-      "category": "全球资本市场",
-      "importance": "medium",
-      "title": "金价从两周高位回落，市场重新评估美联储利率路径",
-      "summary": "现货金价从前一交易日高点回落，油价上涨和通胀担忧令市场提高对未来利率的关注，美国两年期国债收益率升至较高水平。",
-      "impact": "若能源冲击持续，降息预期可能后移，黄金、债券和成长股的估值逻辑都会受到影响。",
-      "whyItMatters": "黄金走强与利率预期上行同时出现，说明避险需求和紧缩担忧正在相互拉扯。",
-      "eventTime": "2026-07-23T09:00:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/india/gold-off-two-week-peak-oil-advances-fed-meeting-eyed-2026-07-23/",
-          "publishedAt": "2026-07-23T02:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "rubio-wang-xi-us-visit-2026-07-22",
-      "category": "中美关系",
-      "importance": "high",
-      "title": "鲁比奥与王毅会晤，讨论为中方领导人访美铺路",
-      "summary": "美国国务卿鲁比奥与中国外交部长王毅在马尼拉举行会谈，双方讨论中美关系、台湾和地区安全，并涉及为9月访问安排作准备。",
-      "impact": "高层沟通有助于降低意外升级风险，但贸易、台湾和南海等结构性分歧仍然存在。",
-      "whyItMatters": "在竞争持续的背景下，沟通机制是否稳定是中美关系短期可控性的关键。",
-      "eventTime": "2026-07-22T18:00:00+08:00",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/rubio-says-he-discussed-china-presidents-us-visit-meeting-with-wang-yi-2026-07-22/",
-          "publishedAt": "2026-07-22T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "wistron-texas-ai-factory-2026-07-22",
-      "category": "科技商业",
-      "importance": "high",
-      "title": "纬创在得州启用7亿美元AI系统生产基地",
-      "summary": "台湾电子制造商纬创在得州启用面向英伟达AI系统的生产设施，反映AI供应链继续向美国本地扩张。",
-      "impact": "AI服务器制造、组装和供应链本地化趋势加速，可能改变亚洲厂商的产能布局与资本开支。",
-      "whyItMatters": "AI产业链竞争已从芯片设计延伸到封装、组装和交付能力。",
-      "eventTime": "2026-07-22T18:00:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/nvidia-supplier-wistron-launches-700-million-texas-factory-ai-system-production-2026-07-22/",
-          "publishedAt": "2026-07-22T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "europe-drought-heat-2026-07-22",
+      "id": "houthis-saudi-tankers-red-sea-2026-07-23",
       "category": "全球重要事件",
       "importance": "high",
-      "title": "极端高温加剧欧洲干旱，农业、航运和水电承压",
-      "summary": "研究显示，欧洲近期干旱受到极端高温导致的蒸发增强影响，部分地区出现用水限制、农作物减产、河流水位下降和山火风险上升。",
-      "impact": "食品价格、内河运输、水电供应和旅游安全可能受到持续影响。",
-      "whyItMatters": "欧洲干旱的主要驱动从单纯少雨扩展到高温造成的快速失水，气候风险正在转化为现实经济成本。",
-      "eventTime": "2026-07-22T12:00:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/sustainability/cop/climate-change-exacerbating-drought-across-europe-scientists-say-2026-07-22/",
-          "publishedAt": "2026-07-22T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "spain-france-wildfires-2026-07-22",
-      "category": "旅行与目的地",
-      "importance": "high",
-      "title": "西班牙和法国持续应对高温山火，部分地区实施疏散与限制",
-      "summary": "西班牙和法国多地受到高温、干燥和强风影响，山火造成大面积受灾、人员疏散和户外活动限制，南欧旅行安全风险上升。",
-      "impact": "前往相关地区的游客需关注机场、公路、铁路、景区和地方政府的临时安排。",
-      "whyItMatters": "极端天气可能迅速改变旅行可达性和安全条件，不能仅依据原定行程判断是否适合出行。",
-      "eventTime": "2026-07-22T12:00:00+08:00",
+      "title": "胡塞武装称袭击两艘沙特油轮，红海航运出现第二处能源瓶颈风险",
+      "summary": "胡塞武装称使用导弹和无人机袭击两艘沙特油轮；沙特官方确认Encelia号船艏起火，另一艘Layla号遇袭说法尚未获独立确认，多艘油轮已调整航线。",
+      "impact": "若曼德海峡通行持续受阻，绕开霍尔木兹海峡的沙特红海出口也将承压，航程、保险和能源运输成本可能进一步上升。",
+      "whyItMatters": "中东能源运输风险由霍尔木兹海峡扩展到红海南端，可能形成两个关键航运瓶颈。",
+      "eventTime": "2026-07-23T04:15:00Z",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/environment/spain-france-battle-wildfires-heat-grips-southern-europe-2026-07-22/",
-          "publishedAt": "2026-07-22T00:00:00Z"
+          "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-saudi-tankers-red-sea-threatening-new-chokepoint-iran-2026-07-23/",
+          "publishedAt": "2026-07-23T04:15:00Z"
         }
       ]
     },
     {
-      "id": "amd-advancing-ai-2026-07-23",
-      "category": "编程与软件工程",
-      "importance": "medium",
-      "title": "AMD Advancing AI 2026 聚焦AI基础设施与开发者生态",
-      "summary": "AMD在旧金山举行面向开发者和产业客户的Advancing AI活动，议题覆盖AI基础设施、架构和开发工具。",
-      "impact": "硬件厂商对开发者工具和软件生态的投入，可能影响AI应用迁移成本和云端算力选择。",
-      "whyItMatters": "AI竞争已不只是芯片性能比较，开发框架、工具链和开发者体验也在决定生态黏性。",
-      "eventTime": "2026-07-23T09:30:00-07:00",
+      "id": "nokia-ai-cloud-sales-q2-2026-07-23",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "诺基亚AI与云客户销售额翻倍，上调全年利润指引",
+      "summary": "诺基亚第二季度AI和云客户净销售额增至4.46亿欧元，可比营业利润同比增长18%至4.34亿欧元，并小幅上调全年利润指引。",
+      "impact": "AI数据中心对光纤网络和通信设备的需求形成新的增长来源，但内存等组件涨价仍可能挤压设备厂商利润。",
+      "whyItMatters": "AI基础设施投资的收益正从芯片扩散到光网络和通信设备，验证算力集群的系统级需求。",
+      "eventTime": "2026-07-23T04:59:00Z",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
       "sources": [
         {
-          "name": "AMD",
-          "url": "https://www.amd.com/en/corporate/events/advancing-ai.html",
-          "publishedAt": "2026-07-23T00:00:00Z"
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/nokia-q2-profit-beat-ai-demand-2026-07-23/",
+          "publishedAt": "2026-07-23T04:59:00Z"
+        }
+      ]
+    },
+    {
+      "id": "dassault-arisglobal-ai-deal-2026-07-23",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "达索系统拟以18亿美元收购ArisGlobal，加码生命科学AI软件",
+      "summary": "达索系统确认2026年展望，并宣布以约18亿美元现金收购美国生命科学软件公司ArisGlobal，另设最高2亿美元与AI收入目标挂钩的追加付款。",
+      "impact": "交易将扩大达索在临床开发、监管申报和药物安全软件领域的覆盖，预计于2026年下半年完成，仍需监管批准。",
+      "whyItMatters": "工业软件厂商正通过并购把AI能力延伸到高合规、高价值的生命科学工作流。",
+      "eventTime": "2026-07-23T05:06:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/technology/dassault-systmes-q2-revenue-rises-178-billion-2026-07-23/",
+          "publishedAt": "2026-07-23T05:06:00Z"
+        }
+      ]
+    },
+    {
+      "id": "channel-tunnel-eu-biometric-delay-2026-07-23",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "英法海底隧道运营商警告欧盟生物识别边检可能延期",
+      "summary": "Getlink称，面向驾车旅客的欧盟入出境系统生物识别阶段可能无法按9月6日计划启用，原因是欧洲层面的软件尚未完全稳定。",
+      "impact": "若延期或上线不稳定，英法跨境自驾和欧洲旅行可能出现排队、流程调整与出行时间不确定性。",
+      "whyItMatters": "这是直接影响英欧跨境旅客的系统性旅行风险，需要关注正式启用日期和口岸通知。",
+      "eventTime": "2026-07-23T06:41:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/channel-tunnel-operator-says-eu-software-issues-could-delay-biometric-checks-2026-07-23/",
+          "publishedAt": "2026-07-23T06:41:00Z"
+        }
+      ]
+    },
+    {
+      "id": "china-us-tariff-cuts-consultation-2026-07-23",
+      "category": "中美关系",
+      "importance": "high",
+      "title": "中国就约300亿美元中美贸易降税安排公开征求意见",
+      "summary": "中国商务部表示，正向企业、行业协会和地方政府征求对中美互惠降税安排的意见，涉及约300亿美元贸易；双方团队持续沟通具体框架。",
+      "impact": "若具体安排落地，农产品及其他纳入范围的双边商品成本和贸易量可能变化。",
+      "whyItMatters": "这是中美贸易休战从原则性沟通转向具体税目和执行机制的重要进展。",
+      "eventTime": "2026-07-23T09:13:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/beijing-seeks-opinions-planned-china-us-tariff-cuts-30-billion-trade-2026-07-23/",
+          "publishedAt": "2026-07-23T09:13:00Z"
+        }
+      ]
+    },
+    {
+      "id": "deepseek-agi-open-source-strategy-2026-07-23",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "DeepSeek创始人称优先推进AGI，顶级模型预计继续开源",
+      "summary": "据第一财经援引投资者会议记录，梁文锋表示DeepSeek更重视长期AGI研发而非利润最大化，先进模型大概率继续开源，并将算力视为当前最大约束。",
+      "impact": "持续开源可能加快模型生态扩散并压低应用成本，而建设大型算力集群将提高公司的资本与供应链需求。",
+      "whyItMatters": "这明确了DeepSeek融资后的技术路线、商业化取舍和算力规划，对中国开源模型竞争具有直接影响。",
+      "eventTime": "2026-07-23T09:20:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/founder-says-deepseek-prioritises-agi-over-profit-likely-keep-top-models-open-2026-07-23/",
+          "publishedAt": "2026-07-23T09:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "geely-ford-spain-ev-joint-venture-2026-07-23",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "吉利与福特将在西班牙合资生产电动SUV并联合开发欧洲车型",
+      "summary": "吉利与福特宣布成立由福特持股66%、吉利持股33%的合资企业，在福特瓦伦西亚工厂生产两款吉利电动SUV，并联合开发新车型，计划2028年投产。",
+      "impact": "合作可帮助吉利提高欧洲本地化生产比例，也能提升福特闲置产能利用率。",
+      "whyItMatters": "中国车企与传统欧美车企正从单纯竞争转向产能和产品协作，以适应欧洲本地含量规则。",
+      "eventTime": "2026-07-23T09:33:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/chinas-geely-make-electric-suvs-ford-spain-plant-jointly-develop-model-europe-2026-07-23/",
+          "publishedAt": "2026-07-23T09:33:00Z"
+        }
+      ]
+    },
+    {
+      "id": "google-eu-dma-fine-2026-07-23",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "欧盟依据标志性数字规则对Google处以约10亿美元罚款",
+      "summary": "欧盟委员会宣布，Google因违反旨在约束大型科技平台权力的规则，被合计罚款8.9亿欧元；监管机构同时表示其后续合规整改取得进展。",
+      "impact": "处罚将提高大型平台在欧洲的合规成本，并可能影响搜索、广告、应用分发和竞争对手接入规则。",
+      "whyItMatters": "这是欧盟以新一代数字监管框架约束大型科技公司的重要执法案例。",
+      "eventTime": "2026-07-23T10:08:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/google-hit-with-1-billion-eu-fine-first-under-landmark-rules-2026-07-23/",
+          "publishedAt": "2026-07-23T10:08:00Z"
         }
       ]
     }
@@ -401,7 +363,7 @@
         "unit": "美元/桶",
         "tradingDate": "2026-07-23",
         "updatedAt": "2026-07-23T09:00:00+08:00",
-        "marketStatus": "developing"
+        "marketStatus": "unknown"
       },
       {
         "symbol": "DXY",

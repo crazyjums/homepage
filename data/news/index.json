@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T18:30:00+08:00",
+  "updatedAt": "2026-07-24T00:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "entries": [
+    {
+      "date": "2026-07-24",
+      "edition": "0030",
+      "editionLabel": "凌晨版",
+      "generatedAt": "2026-07-24T00:30:00+08:00",
+      "title": "全球重要资讯每日简报",
+      "summary": "本日完整首版：中东能源航道、AI基础设施、中美与台海、全球市场及旅行安全等30条重要信息。",
+      "path": "data/news/2026-07-24-0030.json"
+    },
     {
       "date": "2026-07-23",
       "edition": "1830",

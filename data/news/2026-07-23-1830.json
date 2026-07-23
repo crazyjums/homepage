@@ -1,0 +1,450 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T18:30:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "欧盟对Google处以约10亿美元罚款，数字平台监管进入实质执法阶段。",
+    "中美约300亿美元贸易降税安排开始征求意见，双边贸易机制出现具体进展。",
+    "DeepSeek明确AGI、开源与算力路线，AI基础设施需求继续扩散到网络设备和企业软件。",
+    "红海油轮遇袭扩大能源航运风险，欧洲跨境旅行系统仍有不确定性。"
+  ],
+  "topStory": "晚间新增信号集中在科技监管、中美贸易和AI路线：欧盟对Google罚款8.9亿欧元，中国就约300亿美元中美降税安排征求意见，DeepSeek披露长期AGI与开源策略；红海油轮袭击则扩大中东能源运输风险。",
+  "editorialNote": "本版新增8条，经与今日午间版按稳定ID、标题主体和规范化来源URL去重；市场快照沿用午间版已核验数据，未可靠取得的项目继续保留为null。",
+  "updateMode": "incremental",
+  "baseEdition": "1230",
+  "previousGeneratedAt": "2026-07-23T12:30:00+08:00",
+  "news": [
+    {
+      "id": "houthis-saudi-tankers-red-sea-2026-07-23",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "胡塞武装称袭击两艘沙特油轮，红海航运出现第二处能源瓶颈风险",
+      "summary": "胡塞武装称使用导弹和无人机袭击两艘沙特油轮；沙特官方确认Encelia号船艏起火，另一艘Layla号遇袭说法尚未获独立确认，多艘油轮已调整航线。",
+      "impact": "若曼德海峡通行持续受阻，绕开霍尔木兹海峡的沙特红海出口也将承压，航程、保险和能源运输成本可能进一步上升。",
+      "whyItMatters": "中东能源运输风险由霍尔木兹海峡扩展到红海南端，可能形成两个关键航运瓶颈。",
+      "eventTime": "2026-07-23T04:15:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-saudi-tankers-red-sea-threatening-new-chokepoint-iran-2026-07-23/",
+          "publishedAt": "2026-07-23T04:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "nokia-ai-cloud-sales-q2-2026-07-23",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "诺基亚AI与云客户销售额翻倍，上调全年利润指引",
+      "summary": "诺基亚第二季度AI和云客户净销售额增至4.46亿欧元，可比营业利润同比增长18%至4.34亿欧元，并小幅上调全年利润指引。",
+      "impact": "AI数据中心对光纤网络和通信设备的需求形成新的增长来源，但内存等组件涨价仍可能挤压设备厂商利润。",
+      "whyItMatters": "AI基础设施投资的收益正从芯片扩散到光网络和通信设备，验证算力集群的系统级需求。",
+      "eventTime": "2026-07-23T04:59:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/nokia-q2-profit-beat-ai-demand-2026-07-23/",
+          "publishedAt": "2026-07-23T04:59:00Z"
+        }
+      ]
+    },
+    {
+      "id": "dassault-arisglobal-ai-deal-2026-07-23",
+      "category": "科技商业",
+      "importance": "medium",
+      "title": "达索系统拟以18亿美元收购ArisGlobal，加码生命科学AI软件",
+      "summary": "达索系统确认2026年展望，并宣布以约18亿美元现金收购美国生命科学软件公司ArisGlobal，另设最高2亿美元与AI收入目标挂钩的追加付款。",
+      "impact": "交易将扩大达索在临床开发、监管申报和药物安全软件领域的覆盖，预计于2026年下半年完成，仍需监管批准。",
+      "whyItMatters": "工业软件厂商正通过并购把AI能力延伸到高合规、高价值的生命科学工作流。",
+      "eventTime": "2026-07-23T05:06:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/technology/dassault-systmes-q2-revenue-rises-178-billion-2026-07-23/",
+          "publishedAt": "2026-07-23T05:06:00Z"
+        }
+      ]
+    },
+    {
+      "id": "channel-tunnel-eu-biometric-delay-2026-07-23",
+      "category": "旅行与目的地",
+      "importance": "medium",
+      "title": "英法海底隧道运营商警告欧盟生物识别边检可能延期",
+      "summary": "Getlink称，面向驾车旅客的欧盟入出境系统生物识别阶段可能无法按9月6日计划启用，原因是欧洲层面的软件尚未完全稳定。",
+      "impact": "若延期或上线不稳定，英法跨境自驾和欧洲旅行可能出现排队、流程调整与出行时间不确定性。",
+      "whyItMatters": "这是直接影响英欧跨境旅客的系统性旅行风险，需要关注正式启用日期和口岸通知。",
+      "eventTime": "2026-07-23T06:41:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/channel-tunnel-operator-says-eu-software-issues-could-delay-biometric-checks-2026-07-23/",
+          "publishedAt": "2026-07-23T06:41:00Z"
+        }
+      ]
+    },
+    {
+      "id": "china-us-tariff-cuts-consultation-2026-07-23",
+      "category": "中美关系",
+      "importance": "high",
+      "title": "中国就约300亿美元中美贸易降税安排公开征求意见",
+      "summary": "中国商务部表示，正向企业、行业协会和地方政府征求对中美互惠降税安排的意见，涉及约300亿美元贸易；双方团队持续沟通具体框架。",
+      "impact": "若具体安排落地，农产品及其他纳入范围的双边商品成本和贸易量可能变化。",
+      "whyItMatters": "这是中美贸易休战从原则性沟通转向具体税目和执行机制的重要进展。",
+      "eventTime": "2026-07-23T09:13:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/beijing-seeks-opinions-planned-china-us-tariff-cuts-30-billion-trade-2026-07-23/",
+          "publishedAt": "2026-07-23T09:13:00Z"
+        }
+      ]
+    },
+    {
+      "id": "deepseek-agi-open-source-strategy-2026-07-23",
+      "category": "AI与大模型",
+      "importance": "high",
+      "title": "DeepSeek创始人称优先推进AGI，顶级模型预计继续开源",
+      "summary": "据第一财经援引投资者会议记录，梁文锋表示DeepSeek更重视长期AGI研发而非利润最大化，先进模型大概率继续开源，并将算力视为当前最大约束。",
+      "impact": "持续开源可能加快模型生态扩散并压低应用成本，而建设大型算力集群将提高公司的资本与供应链需求。",
+      "whyItMatters": "这明确了DeepSeek融资后的技术路线、商业化取舍和算力规划，对中国开源模型竞争具有直接影响。",
+      "eventTime": "2026-07-23T09:20:00Z",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/founder-says-deepseek-prioritises-agi-over-profit-likely-keep-top-models-open-2026-07-23/",
+          "publishedAt": "2026-07-23T09:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "geely-ford-spain-ev-joint-venture-2026-07-23",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "吉利与福特将在西班牙合资生产电动SUV并联合开发欧洲车型",
+      "summary": "吉利与福特宣布成立由福特持股66%、吉利持股33%的合资企业，在福特瓦伦西亚工厂生产两款吉利电动SUV，并联合开发新车型，计划2028年投产。",
+      "impact": "合作可帮助吉利提高欧洲本地化生产比例，也能提升福特闲置产能利用率。",
+      "whyItMatters": "中国车企与传统欧美车企正从单纯竞争转向产能和产品协作，以适应欧洲本地含量规则。",
+      "eventTime": "2026-07-23T09:33:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/chinas-geely-make-electric-suvs-ford-spain-plant-jointly-develop-model-europe-2026-07-23/",
+          "publishedAt": "2026-07-23T09:33:00Z"
+        }
+      ]
+    },
+    {
+      "id": "google-eu-dma-fine-2026-07-23",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "欧盟依据标志性数字规则对Google处以约10亿美元罚款",
+      "summary": "欧盟委员会宣布，Google因违反旨在约束大型科技平台权力的规则，被合计罚款8.9亿欧元；监管机构同时表示其后续合规整改取得进展。",
+      "impact": "处罚将提高大型平台在欧洲的合规成本，并可能影响搜索、广告、应用分发和竞争对手接入规则。",
+      "whyItMatters": "这是欧盟以新一代数字监管框架约束大型科技公司的重要执法案例。",
+      "eventTime": "2026-07-23T10:08:00Z",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/google-hit-with-1-billion-eu-fine-first-under-landmark-rules-2026-07-23/",
+          "publishedAt": "2026-07-23T10:08:00Z"
+        }
+      ]
+    }
+  ],
+  "market": {
+    "updatedAt": "2026-07-23T12:30:00+08:00",
+    "marketStatus": "mixed",
+    "indices": [
+      {
+        "symbol": "IXIC",
+        "name": "纳斯达克指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "SPX",
+        "name": "标普500指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "DJI",
+        "name": "道琼斯工业平均指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "NDX",
+        "name": "纳斯达克100指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "RUT",
+        "name": "罗素2000指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "SSEC",
+        "name": "上证指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "CSI300",
+        "name": "沪深300指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "HSI",
+        "name": "恒生指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "HSTECH",
+        "name": "恒生科技指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "N225",
+        "name": "日经225指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      }
+    ],
+    "megaCapStocks": [
+      {
+        "symbol": "AAPL",
+        "name": "苹果",
+        "value": 325.89,
+        "changePercent": -0.497,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "微软",
+        "value": 390.34,
+        "changePercent": -1.825,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "英伟达",
+        "value": 212.06,
+        "changePercent": 2.291,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "亚马逊",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "特斯拉",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      }
+    ],
+    "assets": [
+      {
+        "symbol": "BRENT",
+        "name": "布伦特原油",
+        "value": 95.31,
+        "changePercent": 1.3,
+        "unit": "美元/桶",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T09:00:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": 101.05,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T09:00:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "USDJPY",
+        "name": "美元兑日元",
+        "value": 163.1,
+        "changePercent": null,
+        "unit": "日元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T09:00:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "GOLD",
+        "name": "现货黄金",
+        "value": 4132.01,
+        "changePercent": null,
+        "unit": "美元/盎司",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T10:00:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "BTC",
+        "name": "比特币",
+        "value": 65659,
+        "changePercent": -0.977,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元/桶",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "US10Y",
+        "name": "美国10年期国债收益率",
+        "value": null,
+        "changePercent": null,
+        "unit": "%",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "USDCNY",
+        "name": "美元兑人民币",
+        "value": null,
+        "changePercent": null,
+        "unit": "人民币",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "VIX",
+        "name": "VIX波动率指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      }
+    ]
+  }
+}

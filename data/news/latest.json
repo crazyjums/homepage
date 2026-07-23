@@ -1,213 +1,488 @@
 {
   "schemaVersion": 1,
-  "date": "2026-07-21",
-  "generatedAt": "2026-07-21T18:30:00+08:00",
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T12:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "美伊冲突与霍尔木兹海峡风险继续主导能源、航运和全球市场定价。",
-    "台海与南海周边军事、海警和民防活动增加，区域误判风险上升。",
-    "亚洲股市在油价回落和调停消息带动下反弹，但AI交易仍面临估值检验。",
-    "中国与东南亚的科技、支付和资本市场合作继续推进。"
+    "台海实弹演练成为本时段最重要的地区安全变量。",
+    "AI基础设施需求继续向服务器CPU、芯片制造和系统组装扩散。",
+    "科技股预期推动亚洲市场反弹，但中东冲突推动油价与通胀风险上升。",
+    "欧洲高温干旱和山火正在同时影响农业、能源、航运与旅行安全。"
   ],
-  "topStory": "中东调停消息推动油价从一个月高位回落，亚洲股市结束连续下跌；但霍尔木兹海峡航运、胡塞武装威胁和美伊冲突仍未解除，市场反弹更像风险缓释而非趋势反转。",
-  "editorialNote": "本期为2026年7月21日晚间版。内容优先采用当天公开报道；军事冲突、外交表态和市场数据均按报道状态标记，未将单一来源的指控表述为已确认事实。",
+  "topStory": "中国宣布在台湾海峡部分区域开展两天实弹演练；与此同时，AI服务器需求推高CPU供应价格，亚洲市场受科技企业资本开支预期提振，但中东风险把布伦特油价推向六周高位。",
+  "editorialNote": "本期为2026年7月23日午间首版，覆盖过去24小时。军事冲突、外交表态和市场信息均按公开来源的报道状态标记；市场无法可靠取得的项目保留为null。",
   "updateMode": "full",
   "news": [
     {
-      "id": "us-iran-hormuz-shipping-2026-07-21",
-      "category": "全球重要事件",
+      "id": "china-taiwan-strait-live-fire-2026-07-23",
+      "category": "台海问题",
       "importance": "high",
-      "title": "霍尔木兹海峡航运风险在美伊冲突中继续升温",
-      "summary": "伊朗方面宣称袭击霍尔木兹海峡船只，地区冲突与海上通行风险持续受到关注；美国及地区国家仍在应对新一轮军事行动和无人机、导弹威胁。",
-      "impact": "若关键航道受限，能源运输、保险费率、亚洲制造业成本和全球通胀预期都可能再次承压。",
-      "whyItMatters": "霍尔木兹海峡是全球能源供应的重要通道，冲突是否外溢到商船和港口，是影响市场的关键变量。",
-      "eventTime": "2026-07-21T08:00:00Z",
-      "status": "developing",
+      "title": "中国宣布在台湾海峡部分区域开展实弹演练",
+      "summary": "福建海事部门发布航行警告，相关区域将于7月23日至24日进行实弹射击训练，时段为当地6时至18时。",
+      "impact": "演练可能影响周边航运和航空安排，并提高台海军事活动与误判风险。",
+      "whyItMatters": "这是本时段最直接的台海安全变量，需要关注演练范围、持续时间和各方后续反应。",
+      "eventTime": "2026-07-23T06:00:00+08:00",
+      "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
-      "sources": [{"name":"The Guardian","url":"https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news","publishedAt":"2026-07-21T08:00:00Z"}]
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/china-announces-live-fire-drills-taiwan-strait-2026-07-23/",
+          "publishedAt": "2026-07-23T00:00:00Z"
+        }
+      ]
     },
     {
-      "id": "asian-stocks-mideast-mediation-2026-07-21",
+      "id": "asian-stocks-us-tech-earnings-oil-2026-07-23",
       "category": "全球资本市场",
       "importance": "high",
-      "title": "亚洲股市反弹，油价回落缓解部分市场压力",
-      "summary": "亚洲股市结束连续三个交易日下跌，调停消息推动原油从一个月高位回落，MSCI亚太除日本指数上涨超过2%，日本和韩国股市涨幅明显。",
-      "impact": "风险资产得到短期喘息，但市场仍需观察停火是否落地、油价是否稳定以及企业盈利能否消化高估值。",
-      "whyItMatters": "这是一轮由地缘风险缓和预期驱动的反弹，能否延续取决于能源供应和美伊谈判，而非单纯的技术面修复。",
-      "eventTime": "2026-07-21T03:00:00Z",
+      "title": "亚洲股市受美国科技股业绩提振上涨，油价升至六周高位",
+      "summary": "美国大型科技企业资本开支和业绩预期提振亚洲芯片股，韩国综合指数涨幅超过3%，日本股市也明显上行；中东局势则推动布伦特原油升至约96美元。",
+      "impact": "科技投资预期支撑风险资产，但油价上涨会重新推高通胀、利率和企业成本压力。",
+      "whyItMatters": "AI基础设施投资和能源供给风险正在同时影响亚洲市场定价。",
+      "eventTime": "2026-07-23T09:00:00+08:00",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-07-21/","publishedAt":"2026-07-21T03:00:00Z"}]
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-23/",
+          "publishedAt": "2026-07-23T01:00:00Z"
+        }
+      ]
     },
     {
-      "id": "dollar-oil-inflation-middle-east-2026-07-21",
-      "category": "宏观经济与投资",
-      "importance": "high",
-      "title": "美元走软，投资者权衡中东风险与通胀数据",
-      "summary": "美元在避险需求和停火预期之间震荡，布伦特原油从高位回落但本月累计涨幅仍大，市场继续评估冲突对通胀与利率路径的影响。",
-      "impact": "能源价格的持续性将影响主要央行的降息预期、债券收益率和新兴市场资金流向。",
-      "whyItMatters": "汇率、油价和利率预期正在被同一场地缘冲突同时驱动，资产之间的联动性明显增强。",
-      "eventTime": "2026-07-21T07:00:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/middle-east/dollar-near-one-week-high-markets-grapple-with-gulf-tensions-2026-07-21/","publishedAt":"2026-07-21T07:00:00Z"}]
-    },
-    {
-      "id": "taiwan-civil-defence-mobile-internet-2026-07-21",
-      "category": "台海问题",
-      "importance": "high",
-      "title": "台湾民防演练拟降低移动网络速度以模拟战时通信",
-      "summary": "台湾计划在民防演练中降低移动互联网速度，测试通信受限情况下的应急响应能力；相关安排被放在对中国军事和灰色地带压力增加的背景下。",
-      "impact": "通信韧性、公共预警和关键基础设施的离线能力将成为区域安全与城市治理的重要议题。",
-      "whyItMatters": "民防演练从单纯疏散转向测试通信和信息系统，反映台海安全准备的范围正在扩大。",
-      "eventTime": "2026-07-21T00:07:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/china/taiwan-slow-mobile-internet-civil-defence-drills-china-threat-grows-2026-07-21/","publishedAt":"2026-07-21T00:07:00Z"}]
-    },
-    {
-      "id": "china-japan-live-fire-drill-2026-07-21",
-      "category": "中美关系",
-      "importance": "high",
-      "title": "日本就中国在附近海域实弹演练提出抗议",
-      "summary": "日本称中国驱逐舰在冲之鸟礁附近日本主张的专属经济区内进行实弹演练，并通过外交渠道提出抗议；中国则称相关活动符合国际规范。",
-      "impact": "海上军事活动和专属经济区认定争议增加了误判风险，也会影响日本防务政策与区域航运安全。",
-      "whyItMatters": "中国、日本和俄罗斯海上力量同时出现在敏感海域，使东亚安全议题与台海、南海局势产生联动。",
-      "eventTime": "2026-07-21T00:00:00Z",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/china/chinese-destroyer-held-live-fire-drill-japans-eez-japan-says-2026-07-21/","publishedAt":"2026-07-21T00:00:00Z"}]
-    },
-    {
-      "id": "china-philippines-south-china-sea-envoys-2026-07-21",
-      "category": "台海问题",
-      "importance": "high",
-      "title": "中菲就南海事件相互召见大使",
-      "summary": "中菲双方因仁爱礁附近一次海上接触事件相互召见对方使节，双方对人员受伤、船只碰撞和现场经过的说法存在分歧。",
-      "impact": "外交摩擦可能影响海上补给、渔业活动和东盟内部协调，也增加现场执法升级的可能。",
-      "whyItMatters": "南海争议从舆论交锋延伸到外交动作，后续是否建立更有效的海上危机管控机制值得关注。",
-      "eventTime": "2026-07-21T04:00:00Z",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/china/china-summons-philippine-ambassador-over-south-china-sea-encounter-2026-07-21/","publishedAt":"2026-07-21T04:00:00Z"}]
-    },
-    {
-      "id": "tsmc-price-increase-2027-2026-07-21",
+      "id": "intel-amd-china-server-cpu-deals-2026-07-23",
       "category": "AI与大模型",
       "importance": "high",
-      "title": "报道称台积电计划在2027年上调芯片制造价格",
-      "summary": "据日经亚洲报道，台积电可能在2027年将部分芯片制造价格上调最高约10%；报道将涨价与先进制程需求、产能和资本投入联系起来。",
-      "impact": "芯片制造成本变化可能传导到AI服务器、手机、汽车和云服务，进一步改变模型基础设施的成本结构。",
-      "whyItMatters": "AI需求正在把先进制程产能变成稀缺资源，代工价格是判断AI资本开支能否持续的重要信号。",
-      "eventTime": "2026-07-21T08:32:00Z",
+      "title": "英特尔和AMD与中国客户签订长期服务器CPU供应协议",
+      "summary": "据知情人士，AI基础设施需求推高中国服务器CPU价格，英特尔和AMD正通过长期协议锁定客户采购量，部分产品价格较年初上涨超过40%。",
+      "impact": "CPU、内存和网络设备供给趋紧，可能增加中国云厂商和互联网企业扩充AI服务的成本。",
+      "whyItMatters": "AI算力瓶颈已从GPU扩展到服务器整机的多个关键部件，供应链成本正在向上游集中。",
+      "eventTime": "2026-07-23T08:00:00+08:00",
       "status": "developing",
       "imageUrl": null,
       "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/tsmc-raise-chipmaking-prices-by-up-10-2027-nikkei-asia-reports-2026-07-21/","publishedAt":"2026-07-21T08:32:00Z"}]
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-prices-surge-2026-07-23/",
+          "publishedAt": "2026-07-23T00:00:00Z"
+        }
+      ]
     },
     {
-      "id": "chipmakers-profit-volatility-2026-07-20",
-      "category": "科技商业",
-      "importance": "high",
-      "title": "芯片企业盈利预期强劲，但AI估值仍遭市场检验",
-      "summary": "市场预计芯片企业第二季度利润大幅增长，但费城半导体指数本月明显回落，投资者开始关注AI需求能否支撑高估值和持续的资本开支。",
-      "impact": "芯片股波动会通过指数权重、ETF和供应链估值传导到更广泛的科技资产。",
-      "whyItMatters": "盈利增长与股价表现背离，说明市场关心的已从AI需求存在与否转向投入回报和增长持续性。",
-      "eventTime": "2026-07-20T12:00:00Z",
-      "status": "analysis",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/markets/europe/chipmakers-head-big-profit-gains-will-it-be-enough-2026-07-20/","publishedAt":"2026-07-20T12:00:00Z"}]
-    },
-    {
-      "id": "south-korea-exports-semiconductors-2026-07-21",
-      "category": "科技商业",
-      "importance": "high",
-      "title": "韩国7月前20天出口增长，半导体出口大幅上升",
-      "summary": "韩国7月前20天出口同比增长52.3%，其中半导体出口增长约180.6%；对中国和美国的出口也明显增加。",
-      "impact": "数据显示芯片需求仍对亚洲贸易和工业周期形成支撑，但也加剧了市场对半导体景气集中度的关注。",
-      "whyItMatters": "韩国出口是全球电子产业链的高频指标，半导体增速可以帮助判断AI服务器和存储需求是否仍在扩张。",
-      "eventTime": "2026-07-21T02:00:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/south-korea-july-1-20-exports-523-year-earlier-2026-07-21/","publishedAt":"2026-07-21T02:00:00Z"}]
-    },
-    {
-      "id": "ant-international-funding-2026-07-21",
-      "category": "科技商业",
-      "importance": "medium",
-      "title": "蚂蚁国际筹集12亿美元推进全球扩张",
-      "summary": "蚂蚁国际完成约12亿美元融资，计划用于全球业务扩张；交易显示中国支付和金融科技企业仍在寻求跨境增长空间。",
-      "impact": "跨境支付、数字钱包和商户服务的竞争可能加速，相关企业将更重视合规、本地牌照和区域合作伙伴。",
-      "whyItMatters": "融资规模和扩张方向反映中国金融科技企业在国内竞争之外，继续寻找国际化增长路径。",
-      "eventTime": "2026-07-21T03:43:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/ant-international-raises-12-billion-global-expansion-push-2026-07-21/","publishedAt":"2026-07-21T03:43:00Z"}]
-    },
-    {
-      "id": "china-thailand-tech-cooperation-2026-07-21",
-      "category": "中美关系",
-      "importance": "medium",
-      "title": "中国与泰国计划深化科技与创新合作",
-      "summary": "中国与泰国在联合声明中表示将加强科技创新领域政策协同和交流合作，推动双方在技术与产业发展方面形成更紧密联系。",
-      "impact": "东南亚可能继续成为中国科技企业、产业链和数字服务向外合作的重要区域。",
-      "whyItMatters": "科技合作正在从单一项目扩展到政策协调和人才交流，体现区域产业关系的长期重构。",
-      "eventTime": "2026-07-21T06:00:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/china-thailand-eye-deeper-tech-cooperation-drive-prosperous-shared-future-2026-07-21/","publishedAt":"2026-07-21T06:00:00Z"}]
-    },
-    {
-      "id": "new-zealand-philippines-partnership-2026-07-21",
-      "category": "中国与国际新闻",
-      "importance": "medium",
-      "title": "新西兰与菲律宾建立全面伙伴关系",
-      "summary": "新西兰与菲律宾宣布建立全面伙伴关系，双方将在外交、经济和区域合作等方面加强联系。",
-      "impact": "南太平洋和东南亚国家之间的安全与经济合作网络继续扩展，地区战略竞争的参与者更多元。",
-      "whyItMatters": "伙伴关系升级不仅是双边关系变化，也会影响印太地区的供应链、海上安全和多边协调。",
-      "eventTime": "2026-07-21T07:00:00Z",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/new-zealand-philippines-form-comprehensive-partnership-2026-07-21/","publishedAt":"2026-07-21T07:00:00Z"}]
-    },
-    {
-      "id": "indian-steelmakers-europe-imports-2026-07-21",
+      "id": "us-iran-oil-dollar-yen-2026-07-23",
       "category": "宏观经济与投资",
-      "importance": "medium",
-      "title": "印度钢企转向国内市场应对欧洲进口收紧",
-      "summary": "印度钢铁企业试图通过扩大国内销售应对欧洲和英国收紧进口，但低价中国钢材竞争正在压缩其利润空间。",
-      "impact": "全球钢铁贸易壁垒、产能过剩和中国出口压力将继续影响亚洲制造业利润与贸易政策。",
-      "whyItMatters": "钢铁是观察全球工业周期和贸易保护的窗口，出口转向国内会加剧区域市场竞争。",
-      "eventTime": "2026-07-21T05:00:00Z",
+      "importance": "high",
+      "title": "美伊紧张局势支撑美元，日元接近40年低位",
+      "summary": "中东冲突和油价上涨增强避险需求，美元指数约为101.05，日元一度接近每美元163.1，市场同时关注美国国债收益率和潜在政策干预。",
+      "impact": "能源价格和避险资金流向可能推高通胀预期、债券收益率及亚洲进口成本。",
+      "whyItMatters": "美元、油价、利率和日元正在被同一地缘风险同时驱动，资产联动性增强。",
+      "eventTime": "2026-07-23T08:30:00+08:00",
       "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
-      "sources": [{"name":"Reuters","url":"https://www.reuters.com/world/china/indian-steelmakers-pivot-home-europe-tightens-imports-china-squeezes-margins-2026-07-21/","publishedAt":"2026-07-21T05:00:00Z"}]
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/us-iran-tensions-underpin-dollar-yen-nears-40-year-low-2026-07-23/",
+          "publishedAt": "2026-07-23T01:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "gold-oil-fed-rate-2026-07-23",
+      "category": "全球资本市场",
+      "importance": "medium",
+      "title": "金价从两周高位回落，市场重新评估美联储利率路径",
+      "summary": "现货金价从前一交易日高点回落，油价上涨和通胀担忧令市场提高对未来利率的关注，美国两年期国债收益率升至较高水平。",
+      "impact": "若能源冲击持续，降息预期可能后移，黄金、债券和成长股的估值逻辑都会受到影响。",
+      "whyItMatters": "黄金走强与利率预期上行同时出现，说明避险需求和紧缩担忧正在相互拉扯。",
+      "eventTime": "2026-07-23T09:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/india/gold-off-two-week-peak-oil-advances-fed-meeting-eyed-2026-07-23/",
+          "publishedAt": "2026-07-23T02:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "rubio-wang-xi-us-visit-2026-07-22",
+      "category": "中美关系",
+      "importance": "high",
+      "title": "鲁比奥与王毅会晤，讨论为中方领导人访美铺路",
+      "summary": "美国国务卿鲁比奥与中国外交部长王毅在马尼拉举行会谈，双方讨论中美关系、台湾和地区安全，并涉及为9月访问安排作准备。",
+      "impact": "高层沟通有助于降低意外升级风险，但贸易、台湾和南海等结构性分歧仍然存在。",
+      "whyItMatters": "在竞争持续的背景下，沟通机制是否稳定是中美关系短期可控性的关键。",
+      "eventTime": "2026-07-22T18:00:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/rubio-says-he-discussed-china-presidents-us-visit-meeting-with-wang-yi-2026-07-22/",
+          "publishedAt": "2026-07-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "wistron-texas-ai-factory-2026-07-22",
+      "category": "科技商业",
+      "importance": "high",
+      "title": "纬创在得州启用7亿美元AI系统生产基地",
+      "summary": "台湾电子制造商纬创在得州启用面向英伟达AI系统的生产设施，反映AI供应链继续向美国本地扩张。",
+      "impact": "AI服务器制造、组装和供应链本地化趋势加速，可能改变亚洲厂商的产能布局与资本开支。",
+      "whyItMatters": "AI产业链竞争已从芯片设计延伸到封装、组装和交付能力。",
+      "eventTime": "2026-07-22T18:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/nvidia-supplier-wistron-launches-700-million-texas-factory-ai-system-production-2026-07-22/",
+          "publishedAt": "2026-07-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "europe-drought-heat-2026-07-22",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "极端高温加剧欧洲干旱，农业、航运和水电承压",
+      "summary": "研究显示，欧洲近期干旱受到极端高温导致的蒸发增强影响，部分地区出现用水限制、农作物减产、河流水位下降和山火风险上升。",
+      "impact": "食品价格、内河运输、水电供应和旅游安全可能受到持续影响。",
+      "whyItMatters": "欧洲干旱的主要驱动从单纯少雨扩展到高温造成的快速失水，气候风险正在转化为现实经济成本。",
+      "eventTime": "2026-07-22T12:00:00+08:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sustainability/cop/climate-change-exacerbating-drought-across-europe-scientists-say-2026-07-22/",
+          "publishedAt": "2026-07-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "spain-france-wildfires-2026-07-22",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "西班牙和法国持续应对高温山火，部分地区实施疏散与限制",
+      "summary": "西班牙和法国多地受到高温、干燥和强风影响，山火造成大面积受灾、人员疏散和户外活动限制，南欧旅行安全风险上升。",
+      "impact": "前往相关地区的游客需关注机场、公路、铁路、景区和地方政府的临时安排。",
+      "whyItMatters": "极端天气可能迅速改变旅行可达性和安全条件，不能仅依据原定行程判断是否适合出行。",
+      "eventTime": "2026-07-22T12:00:00+08:00",
+      "status": "developing",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/spain-france-battle-wildfires-heat-grips-southern-europe-2026-07-22/",
+          "publishedAt": "2026-07-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "amd-advancing-ai-2026-07-23",
+      "category": "编程与软件工程",
+      "importance": "medium",
+      "title": "AMD Advancing AI 2026 聚焦AI基础设施与开发者生态",
+      "summary": "AMD在旧金山举行面向开发者和产业客户的Advancing AI活动，议题覆盖AI基础设施、架构和开发工具。",
+      "impact": "硬件厂商对开发者工具和软件生态的投入，可能影响AI应用迁移成本和云端算力选择。",
+      "whyItMatters": "AI竞争已不只是芯片性能比较，开发框架、工具链和开发者体验也在决定生态黏性。",
+      "eventTime": "2026-07-23T09:30:00-07:00",
+      "status": "confirmed",
+      "imageUrl": null,
+      "imageSource": null,
+      "sources": [
+        {
+          "name": "AMD",
+          "url": "https://www.amd.com/en/corporate/events/advancing-ai.html",
+          "publishedAt": "2026-07-23T00:00:00Z"
+        }
+      ]
     }
   ],
   "market": {
-    "updatedAt": "2026-07-21T18:30:00+08:00",
-    "marketStatus": "closed",
+    "updatedAt": "2026-07-23T12:30:00+08:00",
+    "marketStatus": "mixed",
     "indices": [
-      {"symbol":"IXIC","name":"纳斯达克指数","value":null,"changePercent":null,"unit":"点","tradingDate":"2026-07-21","updatedAt":"2026-07-21T18:30:00+08:00","marketStatus":"closed"},
-      {"symbol":"SPX","name":"标普500指数","value":null,"changePercent":null,"unit":"点","tradingDate":"2026-07-21","updatedAt":"2026-07-21T18:30:00+08:00","marketStatus":"closed"},
-      {"symbol":"N225","name":"日经225指数","value":null,"changePercent":null,"unit":"点","tradingDate":"2026-07-21","updatedAt":"2026-07-21T18:30:00+08:00","marketStatus":"closed"}
+      {
+        "symbol": "IXIC",
+        "name": "纳斯达克指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "SPX",
+        "name": "标普500指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "DJI",
+        "name": "道琼斯工业平均指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "NDX",
+        "name": "纳斯达克100指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "RUT",
+        "name": "罗素2000指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "SSEC",
+        "name": "上证指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "CSI300",
+        "name": "沪深300指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "HSI",
+        "name": "恒生指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "HSTECH",
+        "name": "恒生科技指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "N225",
+        "name": "日经225指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      }
     ],
-    "megaCapStocks": [],
+    "megaCapStocks": [
+      {
+        "symbol": "AAPL",
+        "name": "苹果",
+        "value": 325.89,
+        "changePercent": -0.497,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "微软",
+        "value": 390.34,
+        "changePercent": -1.825,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "英伟达",
+        "value": 212.06,
+        "changePercent": 2.291,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "亚马逊",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "特斯拉",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      }
+    ],
     "assets": [
-      {"symbol":"BRENT","name":"布伦特原油","value":88.56,"changePercent":-0.74,"unit":"美元/桶","tradingDate":"2026-07-21","updatedAt":"2026-07-21T18:30:00+08:00","marketStatus":"closed"}
+      {
+        "symbol": "BRENT",
+        "name": "布伦特原油",
+        "value": 95.31,
+        "changePercent": 1.3,
+        "unit": "美元/桶",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T09:00:00+08:00",
+        "marketStatus": "developing"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": 101.05,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T09:00:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "USDJPY",
+        "name": "美元兑日元",
+        "value": 163.1,
+        "changePercent": null,
+        "unit": "日元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T09:00:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "GOLD",
+        "name": "现货黄金",
+        "value": 4132.01,
+        "changePercent": null,
+        "unit": "美元/盎司",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T10:00:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "BTC",
+        "name": "比特币",
+        "value": 65659,
+        "changePercent": -0.977,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T08:15:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元/桶",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "US10Y",
+        "name": "美国10年期国债收益率",
+        "value": null,
+        "changePercent": null,
+        "unit": "%",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "USDCNY",
+        "name": "美元兑人民币",
+        "value": null,
+        "changePercent": null,
+        "unit": "人民币",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "VIX",
+        "name": "VIX波动率指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-23T12:30:00+08:00",
+        "marketStatus": "unknown"
+      }
     ]
   }
 }

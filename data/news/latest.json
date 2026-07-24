@@ -1,266 +1,198 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-24",
-  "generatedAt": "2026-07-24T06:30:00+08:00",
+  "generatedAt": "2026-07-24T12:30:00+08:00",
   "timezone": "Asia/Shanghai",
   "title": "全球重要资讯每日简报",
   "focus": [
-    "AI服务器CPU与先进封装新增订单",
-    "美国新一轮全球关税及贸易伙伴反应",
-    "日元与日本央行政策压力",
-    "企业软件采购与AI落地成本",
-    "乌克兰与伊朗战争的新进展"
+    "中东冲突与双重航运瓶颈",
+    "美国关税正式生效",
+    "华南热带风暴与旅行风险",
+    "日本通胀与亚洲市场",
+    "电网可靠性"
   ],
-  "topStory": "美国新一轮全球关税与AI基础设施扩张成为本时段主线：Intel上调资本开支，英伟达锁定美国先进封装产能，美国同时对60个贸易伙伴推出新关税。",
-  "editorialNote": "本版新增10条，经与凌晨版30条新闻按稳定ID、事件主体、标题和规范化来源URL去重；其中SAP的两篇报道合并为同一事件，美国关税与巴西回应合并为同一事件，未重复计数。",
+  "topStory": "美军连续第13夜打击伊朗，红海与霍尔木兹海峡风险推动布伦特油价重返100美元上方，并向亚洲股债和全球通胀预期传导。",
+  "editorialNote": "本版新增6条，其中2条为实质更新；已与凌晨版30条及早间版10条按稳定ID、事件主体、标题和规范化来源URL去重。",
   "updateMode": "incremental",
-  "baseEdition": "0030",
-  "previousGeneratedAt": "2026-07-24T00:30:00+08:00",
+  "baseEdition": "0630",
+  "previousGeneratedAt": "2026-07-24T06:30:00+08:00",
   "news": [
     {
-      "id": "intel-q2-ai-cpu-capex-20260723",
-      "category": "AI与大模型",
-      "importance": "high",
-      "title": "Intel业绩与指引超预期，AI代理推动服务器CPU需求",
-      "summary": "Intel第二季度营收同比增长25.4%至161.3亿美元，第三季度营收和利润指引高于市场预期，并把2026年资本开支计划由180亿美元提高至200亿美元。",
-      "impact": "AI工作负载对CPU的需求回升，推动Intel数据中心业务和制造投入，同时加剧与英伟达及云厂商自研CPU的竞争。",
-      "whyItMatters": "这说明AI代理带来的算力需求不仅集中在GPU，也正在拉动通用服务器CPU与先进制造产能。",
-      "eventTime": "2026-07-24T04:02:50+08:00",
-      "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
+      "id": "us-iran-night13-red-sea-escalation-20260724",
+      "updateOf": "us-iran-strikes-night12-20260723",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "美军完成连续第13夜对伊朗打击，红海冲突进一步升级",
+      "summary": "美国中央司令部称最新一轮打击持续两小时以上，目标包括伊朗军事指挥中心、无人机仓库、通信网络、沿海监视和海上能力。特朗普同时威胁因胡塞武装袭击沙特油轮对伊朗及胡塞实施重大军事惩罚；伊朗媒体称阿瓦士遭袭造成4人死亡、5人受伤。",
+      "impact": "霍尔木兹海峡与曼德海峡两条能源运输通道同时承压，地区军事升级和航运保险成本上升。",
+      "whyItMatters": "这是凌晨版第12夜打击和红海油轮事件后的明确状态变化，新增了打击目标、伤亡和美国升级威胁。",
+      "eventTime": "2026-07-24T12:00:00+08:00",
+      "status": "developing",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/intel-forecasts-upbeat-quarterly-revenue-profit-strong-ai-driven-server-chip-2026-07-23/",
-          "publishedAt": "2026-07-24T04:02:50+08:00"
-        }
-      ]
-    },
-    {
-      "id": "sap-ai-enterprise-process-outlook-20260723",
-      "category": "AI与大模型",
-      "importance": "high",
-      "title": "SAP强调企业AI需进入核心流程，同时下调全年利润目标",
-      "summary": "SAP称企业AI必须从聊天机器人和编码工具进入财务、供应链等核心流程，并因AI数据相关收购的短期稀释影响小幅下调2026年营业利润目标。",
-      "impact": "企业AI的竞争重点正转向数据治理、可靠性、合规和单位成本，软件厂商需要承担更高的整合投入。",
-      "whyItMatters": "这比单纯增加模型能力更接近企业落地瓶颈，也显示AI并购短期会压缩软件公司的利润。",
-      "eventTime": "2026-07-24T05:53:00+08:00",
-      "status": "analysis",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-before-seeing-returns-2026-07-23/",
-          "publishedAt": "2026-07-24T05:53:00+08:00"
+          "url": "https://www.reuters.com/world/middle-east/trump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24/",
+          "publishedAt": "2026-07-24T12:00:00+08:00"
         },
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/sap-trims-profit-outlook-after-acquisitions-2026-07-23/",
-          "publishedAt": "2026-07-24T04:26:00+08:00"
+          "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-13th-consecutive-night-strikes-iran-2026-07-24/",
+          "publishedAt": "2026-07-24T09:56:00+08:00"
         }
       ]
     },
     {
-      "id": "nvidia-amkor-us-packaging-deal-20260723",
-      "category": "科技商业",
-      "importance": "high",
-      "title": "英伟达与Amkor签署15亿美元美国先进封装协议",
-      "summary": "Amkor与英伟达签署多年期协议，英伟达将预付款支持Amkor扩建美国先进封装和测试产能，双方还将联合开发AI芯片封装技术。",
-      "impact": "美国本土先进封装能力将扩张，Amkor盘后股价明显上涨，AI芯片供应链本地化继续加速。",
-      "whyItMatters": "先进封装是高端AI芯片扩产的关键瓶颈，协议将影响英伟达未来产品的供应弹性。",
-      "eventTime": "2026-07-24T05:44:00+08:00",
-      "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
+      "id": "us-forced-labor-tariffs-effective-eu-response-20260724",
+      "updateOf": "us-global-forced-labor-tariffs-20260723",
+      "category": "中美关系",
+      "importance": "high",
+      "title": "美国对60个贸易伙伴的新关税正式生效，欧盟要求澄清",
+      "summary": "美国以贸易伙伴对强迫劳动禁令执行不足为由，正式对包括中国和欧盟在内的60个贸易伙伴实施10%或12.5%关税，覆盖99.4%的美国进口但豁免油气、化肥及部分食品。欧盟外交与安全政策高级代表卡拉斯称相关理由不适用于欧盟，并将要求华盛顿澄清。",
+      "impact": "新关税从预告进入执行阶段，企业进口成本和贸易伙伴反制风险上升。",
+      "whyItMatters": "这是早间版关税预告后的实质变化：税率已经生效，且欧盟给出正式公开回应。",
+      "eventTime": "2026-07-24T12:03:00+08:00",
+      "status": "confirmed",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/nvidia-amkor-strike-15-billion-chip-packaging-deal-2026-07-23/",
-          "publishedAt": "2026-07-24T05:44:00+08:00"
+          "url": "https://www.reuters.com/world/us/trump-imposes-forced-labor-duties-60-trading-partners-as-10-us-tariffs-expire-2026-07-24/",
+          "publishedAt": "2026-07-24T12:03:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/eus-kallas-questions-us-rationale-tariffs-bloc-seeks-clarification-2026-07-24/",
+          "publishedAt": "2026-07-24T11:49:00+08:00"
         }
       ]
     },
     {
-      "id": "pentagon-oracle-enterprise-software-20260723",
-      "category": "编程与软件工程",
-      "importance": "high",
-      "title": "美国国防部与Oracle签署近70亿美元企业软件协议",
-      "summary": "美国国防部宣布与Oracle达成最高十年、近70亿美元的本地部署软件协议，覆盖军方、海岸警卫队和情报机构，目标是整合分散采购。",
-      "impact": "Oracle获得大型长期政府订单，美国国防部的软件授权与本地计算采购将进一步集中。",
-      "whyItMatters": "这是大型组织通过企业级协议治理许可证、成本和采购碎片化的典型案例，对内部平台和资产治理有参考价值。",
-      "eventTime": "2026-07-24T05:02:00+08:00",
-      "status": "confirmed",
       "imageUrl": null,
       "imageSource": null,
+      "id": "china-tropical-storm-noul-flood-risk-20260724",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "热带风暴“鹦鹉”逼近华南，粤闽面临强降雨和洪水风险",
+      "summary": "中国气象部门预计热带风暴“鹦鹉”将在周六夜间至周日凌晨于广东珠海至福建漳浦沿海登陆，广东东部和福建南部局地累计雨量可能达到500至600毫米；香港风雨也将逐步增强。",
+      "impact": "华南沿海航班、铁路、公路和海上交通可能延误，低洼地区及山区需防范洪水、山体滑坡和停电。",
+      "whyItMatters": "这是最近6小时出现的明确旅行和灾害风险，影响广东、福建、香港及周边跨境交通。",
+      "eventTime": "2026-07-24T12:00:00+08:00",
+      "status": "developing",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/technology/pentagon-awards-oracle-nearly-7-billion-deal-latest-software-consolidation-push-2026-07-23/",
-          "publishedAt": "2026-07-24T05:02:00+08:00"
+          "url": "https://www.reuters.com/business/environment/china-braces-heavy-rain-tropical-storm-noul-edges-closer-2026-07-24/",
+          "publishedAt": "2026-07-24T12:00:00+08:00"
         }
       ]
     },
     {
-      "id": "us-global-forced-labor-tariffs-20260723",
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "japan-june-core-cpi-20260724",
       "category": "宏观经济与投资",
       "importance": "high",
-      "title": "美国将对60个贸易伙伴实施10%或12.5%新关税",
-      "summary": "美国政府宣布在临时全球关税到期时，对包括欧盟在内的60个贸易伙伴实施10%或12.5%关税，理由是相关经济体对强迫劳动禁令执行不足；巴西表示将启动反制和世贸组织程序。",
-      "impact": "新关税将改变大量商品的进口成本，并可能引发贸易伙伴反制，增加全球贸易政策不确定性。",
-      "whyItMatters": "该政策覆盖面广，可能重新推高企业成本、通胀预期和跨境供应链调整需求。",
-      "eventTime": "2026-07-24T05:10:00+08:00",
-      "status": "developing",
-      "imageUrl": null,
-      "imageSource": null,
+      "title": "日本6月核心通胀升至1.6%，连续第五个月低于央行目标",
+      "summary": "日本6月核心消费者价格指数同比上涨1.6%，符合市场预期；剔除生鲜食品和能源的指标上涨1.7%。数据将在日本央行7月30日至31日会议前受到重点评估。",
+      "impact": "短期通胀仍低于2%目标，但油价和日元疲弱可能在后续月份推高进口及生活成本。",
+      "whyItMatters": "通胀数据直接影响日本央行加息节奏、日元和日本国债定价。",
+      "eventTime": "2026-07-24T07:43:00+08:00",
+      "status": "confirmed",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/us/trump-impose-forced-labor-duties-friday-temporary-10-us-tariffs-expire-2026-07-23/",
-          "publishedAt": "2026-07-24T05:10:00+08:00"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/americas/brazil-says-us-tariffs-related-forced-labor-are-arbitrary-unjustified-2026-07-23/",
-          "publishedAt": "2026-07-24T06:02:00+08:00"
+          "url": "https://www.reuters.com/world/asia-pacific/japan-june-core-inflation-accelerates-stays-below-boj-target-2026-07-23/",
+          "publishedAt": "2026-07-24T07:43:00+08:00"
         }
       ]
     },
     {
-      "id": "us-treasury-yen-boj-hikes-20260723",
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "asia-markets-oil-inflation-shock-20260724",
       "category": "全球资本市场",
       "importance": "high",
-      "title": "美国财政部警告日元过度波动并呼吁日本央行继续加息",
-      "summary": "美国财政部在半年度汇率报告中表示日元存在显著低估和过度波动，并称日本央行推进货币政策正常化有助于稳定通胀预期和汇率。",
-      "impact": "日元、日本国债及亚洲汇市对日本央行后续加息和潜在外汇干预的敏感度进一步提高。",
-      "whyItMatters": "这是美国对日元和日本货币政策的直接公开表态，可能改变市场对干预容忍度的判断。",
-      "eventTime": "2026-07-24T06:05:00+08:00",
+      "title": "布伦特油价重返100美元上方，亚洲股债同步承压",
+      "summary": "布伦特原油在红海油轮遇袭后维持每桶100美元上方，本月涨幅接近40%。亚洲股市下跌，日经225一度跌近3%，市场重新计入通胀与加息风险，美元指数升至约101.45。",
+      "impact": "能源输入成本、债券收益率和美元同步上升，对航空、制造、消费及新兴市场资产形成压力。",
+      "whyItMatters": "红海与霍尔木兹海峡的双重运输风险已经从地缘事件传导到全球通胀和资产定价。",
+      "eventTime": "2026-07-24T09:20:00+08:00",
       "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-warns-against-excessive-yen-volatility-calls-boj-rate-hikes-2026-07-23/",
-          "publishedAt": "2026-07-24T06:05:00+08:00"
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-24/",
+          "publishedAt": "2026-07-24T09:20:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-set-weekly-rise-amid-red-sea-shipping-attacks-kazakhstan-output-cuts-2026-07-24/",
+          "publishedAt": "2026-07-24T09:36:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-rides-yield-surge-middle-east-trade-wars-raise-inflation-stakes-2026-07-24/",
+          "publishedAt": "2026-07-24T08:52:00+08:00"
         }
       ]
     },
     {
-      "id": "russia-bomb-attacks-ukraine-east-20260723",
-      "category": "全球重要事件",
-      "importance": "high",
-      "title": "俄军炸弹袭击乌克兰东部城市，数十人受伤",
-      "summary": "乌克兰地方官员称，俄军制导炸弹袭击扎波罗热和斯洛维扬斯克的住宅及医疗设施，造成数十人受伤；路透社未能独立核实战场说法。",
-      "impact": "乌克兰东部城市基础设施和居民安全风险上升，战场升级继续压缩外交缓和空间。",
-      "whyItMatters": "这属于凌晨版后出现的实质战场变化，且涉及平民伤亡和医疗设施损坏。",
-      "eventTime": "2026-07-24T05:09:00+08:00",
-      "status": "developing",
       "imageUrl": null,
       "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/russian-bomb-attacks-injure-dozens-eastern-ukrainian-cities-2026-07-23/",
-          "publishedAt": "2026-07-24T05:09:00+08:00"
-        }
-      ]
-    },
-    {
-      "id": "paramount-wbd-deal-paused-20260723",
-      "category": "科技商业",
+      "id": "spp-west-grid-heat-advisory-20260724",
+      "category": "DevOps/SRE",
       "importance": "medium",
-      "title": "美国法官将Paramount收购华纳兄弟交易暂停至8月17日",
-      "summary": "美国联邦法官裁定，Paramount Skydance对华纳兄弟探索公司的1100亿美元收购须暂停至8月17日，以便继续审理竞争影响争议。",
-      "impact": "交易完成时间和融资成本面临更大不确定性，影视行业整合预期受到干扰。",
-      "whyItMatters": "这是大型媒体并购案的重要程序性变化，可能影响内容市场竞争和流媒体格局。",
-      "eventTime": "2026-07-24T05:24:00+08:00",
+      "title": "美国中部电网延长高温运行警戒，机组故障与可再生能源波动叠加",
+      "summary": "美国西南电力联营体将西部平衡区的保守运行警戒延长至7月25日零时。高温、发电机组意外停运、用电需求及风光出力不确定性令备用容量承压。",
+      "impact": "数据中心、云服务和关键基础设施运营方需关注区域供电可靠性与应急电源状态。",
+      "whyItMatters": "极端天气和电源波动是基础设施容量规划、故障演练和业务连续性的直接风险。",
+      "eventTime": "2026-07-24T10:57:00+08:00",
       "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/world/paramount-warner-bros-deal-paused-through-august-17-judge-rules-2026-07-23/",
-          "publishedAt": "2026-07-24T05:24:00+08:00"
-        }
-      ]
-    },
-    {
-      "id": "singapore-gic-hedge-funds-ai-20260723",
-      "category": "宏观经济与投资",
-      "importance": "medium",
-      "title": "新加坡GIC拟增投300亿美元对冲基金并布局AI全链条",
-      "summary": "新加坡主权财富基金GIC计划未来三年向对冲基金追加约300亿美元，同时继续投资AI基础设施、产品和应用；其20年年化实际回报降至3.4%。",
-      "impact": "大型长期资金正提高可动态调整策略的配置，并在AI周期中分散投资风险。",
-      "whyItMatters": "GIC的配置变化反映主权财富基金对市场波动和AI估值不确定性的应对方式。",
-      "eventTime": "2026-07-24T05:03:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/singapores-gic-banks-hedge-funds-weather-market-volatility-rides-ai-boom-2026-07-23/",
-          "publishedAt": "2026-07-24T05:03:00+08:00"
-        }
-      ]
-    },
-    {
-      "id": "us-congress-iran-war-powers-votes-20260723",
-      "category": "全球重要事件",
-      "importance": "high",
-      "title": "美国众议院通过限制伊朗战争权力决议，参议院阻止类似议案",
-      "summary": "美国众议院以214票对208票通过要求总统未经国会授权停止对伊朗军事行动的决议，但参议院随后阻止了类似措施。",
-      "impact": "投票显示两党内部对持续战争存在分歧，但尚不足以立即改变美国军事行动。",
-      "whyItMatters": "国会战争权力争议关系到冲突持续时间、美国国内政治和中东风险溢价。",
-      "eventTime": "2026-07-24T00:47:00+08:00",
-      "status": "confirmed",
-      "imageUrl": null,
-      "imageSource": null,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/legal/government/us-house-votes-curb-trumps-iran-war-powers-senate-backs-president-2026-07-23/",
-          "publishedAt": "2026-07-24T00:47:00+08:00"
+          "url": "https://www.reuters.com/business/energy/us-grid-operator-extends-advisory-amid-heat-outage-risks-2026-07-24/",
+          "publishedAt": "2026-07-24T10:57:00+08:00"
         }
       ]
     }
   ],
   "market": {
-    "updatedAt": "2026-07-24T06:30:00+08:00",
-    "marketStatus": "unknown",
+    "updatedAt": "2026-07-24T12:30:00+08:00",
+    "marketStatus": "mixed",
     "indices": [
       {
         "symbol": "IXIC",
         "name": "纳斯达克综合指数",
-        "value": null,
-        "changePercent": null,
+        "value": 25137.69,
+        "changePercent": -2.15,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "SPX",
         "name": "标普500指数",
-        "value": null,
-        "changePercent": null,
+        "value": 7408.3,
+        "changePercent": -1.21,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "DJI",
         "name": "道琼斯工业平均指数",
-        "value": null,
-        "changePercent": null,
+        "value": 51711.65,
+        "changePercent": -0.97,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "NDX",
@@ -269,7 +201,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -279,7 +211,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -288,9 +220,9 @@
         "value": null,
         "changePercent": null,
         "unit": "点",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "CSI300",
@@ -298,9 +230,9 @@
         "value": null,
         "changePercent": null,
         "unit": "点",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "HSI",
@@ -308,9 +240,9 @@
         "value": null,
         "changePercent": null,
         "unit": "点",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "HSTECH",
@@ -318,91 +250,91 @@
         "value": null,
         "changePercent": null,
         "unit": "点",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "N225",
         "name": "日经225指数",
-        "value": null,
-        "changePercent": null,
+        "value": 64317.52,
+        "changePercent": -3.17,
         "unit": "点",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
       }
     ],
     "megaCapStocks": [
       {
         "symbol": "AAPL",
         "name": "苹果",
-        "value": 321.08,
-        "changePercent": -1.476,
+        "value": 321.66,
+        "changePercent": -1.307,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
-        "marketStatus": "open"
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "MSFT",
         "name": "微软",
-        "value": 380.23,
-        "changePercent": -2.59,
+        "value": 381.58,
+        "changePercent": -2.28,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
-        "marketStatus": "open"
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "NVDA",
         "name": "英伟达",
-        "value": 208.93,
-        "changePercent": -1.476,
+        "value": 208.76,
+        "changePercent": -1.528,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
-        "marketStatus": "open"
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "GOOGL",
         "name": "Alphabet",
-        "value": 321.4,
-        "changePercent": -6.048,
+        "value": 317.69,
+        "changePercent": -7.168,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
-        "marketStatus": "open"
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "AMZN",
         "name": "亚马逊",
-        "value": 234.27,
-        "changePercent": -4.321,
+        "value": 233.66,
+        "changePercent": -4.56,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
-        "marketStatus": "open"
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "META",
         "name": "Meta",
-        "value": 603.1,
-        "changePercent": -3.838,
+        "value": 606.1,
+        "changePercent": -3.379,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
-        "marketStatus": "open"
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
       },
       {
         "symbol": "TSLA",
         "name": "特斯拉",
-        "value": 324.88,
-        "changePercent": -13.136,
+        "value": 319.69,
+        "changePercent": -14.561,
         "unit": "美元",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
-        "marketStatus": "open"
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
       }
     ],
     "assets": [
@@ -413,7 +345,7 @@
         "changePercent": null,
         "unit": "点",
         "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -422,19 +354,19 @@
         "value": null,
         "changePercent": null,
         "unit": "%",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
         "symbol": "DXY",
         "name": "美元指数",
-        "value": null,
+        "value": 101.45,
         "changePercent": null,
         "unit": "点",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T08:52:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "USDCNY",
@@ -442,8 +374,8 @@
         "value": null,
         "changePercent": null,
         "unit": "人民币",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
@@ -452,28 +384,28 @@
         "value": null,
         "changePercent": null,
         "unit": "美元/盎司",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
         "marketStatus": "unknown"
       },
       {
         "symbol": "WTI",
         "name": "WTI原油",
-        "value": null,
+        "value": 91.2,
         "changePercent": null,
         "unit": "美元/桶",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:30:00+08:00",
-        "marketStatus": "unknown"
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T11:30:00+08:00",
+        "marketStatus": "open"
       },
       {
         "symbol": "BTC",
         "name": "比特币",
-        "value": 64751,
-        "changePercent": -2.041,
+        "value": 65349,
+        "changePercent": -0.416,
         "unit": "美元",
-        "tradingDate": "2026-07-23",
-        "updatedAt": "2026-07-24T00:18:00+08:00",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
         "marketStatus": "open"
       }
     ]

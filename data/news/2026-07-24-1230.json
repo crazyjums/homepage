@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T12:30:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "中东冲突与双重航运瓶颈",
+    "美国关税正式生效",
+    "华南热带风暴与旅行风险",
+    "日本通胀与亚洲市场",
+    "电网可靠性"
+  ],
+  "topStory": "美军连续第13夜打击伊朗，红海与霍尔木兹海峡风险推动布伦特油价重返100美元上方，并向亚洲股债和全球通胀预期传导。",
+  "editorialNote": "本版新增6条，其中2条为实质更新；已与凌晨版30条及早间版10条按稳定ID、事件主体、标题和规范化来源URL去重。",
+  "updateMode": "incremental",
+  "baseEdition": "0630",
+  "previousGeneratedAt": "2026-07-24T06:30:00+08:00",
+  "news": [
+    {
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "us-iran-night13-red-sea-escalation-20260724",
+      "updateOf": "us-iran-strikes-night12-20260723",
+      "category": "全球重要事件",
+      "importance": "high",
+      "title": "美军完成连续第13夜对伊朗打击，红海冲突进一步升级",
+      "summary": "美国中央司令部称最新一轮打击持续两小时以上，目标包括伊朗军事指挥中心、无人机仓库、通信网络、沿海监视和海上能力。特朗普同时威胁因胡塞武装袭击沙特油轮对伊朗及胡塞实施重大军事惩罚；伊朗媒体称阿瓦士遭袭造成4人死亡、5人受伤。",
+      "impact": "霍尔木兹海峡与曼德海峡两条能源运输通道同时承压，地区军事升级和航运保险成本上升。",
+      "whyItMatters": "这是凌晨版第12夜打击和红海油轮事件后的明确状态变化，新增了打击目标、伤亡和美国升级威胁。",
+      "eventTime": "2026-07-24T12:00:00+08:00",
+      "status": "developing",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24/",
+          "publishedAt": "2026-07-24T12:00:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-13th-consecutive-night-strikes-iran-2026-07-24/",
+          "publishedAt": "2026-07-24T09:56:00+08:00"
+        }
+      ]
+    },
+    {
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "us-forced-labor-tariffs-effective-eu-response-20260724",
+      "updateOf": "us-global-forced-labor-tariffs-20260723",
+      "category": "中美关系",
+      "importance": "high",
+      "title": "美国对60个贸易伙伴的新关税正式生效，欧盟要求澄清",
+      "summary": "美国以贸易伙伴对强迫劳动禁令执行不足为由，正式对包括中国和欧盟在内的60个贸易伙伴实施10%或12.5%关税，覆盖99.4%的美国进口但豁免油气、化肥及部分食品。欧盟外交与安全政策高级代表卡拉斯称相关理由不适用于欧盟，并将要求华盛顿澄清。",
+      "impact": "新关税从预告进入执行阶段，企业进口成本和贸易伙伴反制风险上升。",
+      "whyItMatters": "这是早间版关税预告后的实质变化：税率已经生效，且欧盟给出正式公开回应。",
+      "eventTime": "2026-07-24T12:03:00+08:00",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/us/trump-imposes-forced-labor-duties-60-trading-partners-as-10-us-tariffs-expire-2026-07-24/",
+          "publishedAt": "2026-07-24T12:03:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/eus-kallas-questions-us-rationale-tariffs-bloc-seeks-clarification-2026-07-24/",
+          "publishedAt": "2026-07-24T11:49:00+08:00"
+        }
+      ]
+    },
+    {
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "china-tropical-storm-noul-flood-risk-20260724",
+      "category": "旅行与目的地",
+      "importance": "high",
+      "title": "热带风暴“鹦鹉”逼近华南，粤闽面临强降雨和洪水风险",
+      "summary": "中国气象部门预计热带风暴“鹦鹉”将在周六夜间至周日凌晨于广东珠海至福建漳浦沿海登陆，广东东部和福建南部局地累计雨量可能达到500至600毫米；香港风雨也将逐步增强。",
+      "impact": "华南沿海航班、铁路、公路和海上交通可能延误，低洼地区及山区需防范洪水、山体滑坡和停电。",
+      "whyItMatters": "这是最近6小时出现的明确旅行和灾害风险，影响广东、福建、香港及周边跨境交通。",
+      "eventTime": "2026-07-24T12:00:00+08:00",
+      "status": "developing",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/china-braces-heavy-rain-tropical-storm-noul-edges-closer-2026-07-24/",
+          "publishedAt": "2026-07-24T12:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "japan-june-core-cpi-20260724",
+      "category": "宏观经济与投资",
+      "importance": "high",
+      "title": "日本6月核心通胀升至1.6%，连续第五个月低于央行目标",
+      "summary": "日本6月核心消费者价格指数同比上涨1.6%，符合市场预期；剔除生鲜食品和能源的指标上涨1.7%。数据将在日本央行7月30日至31日会议前受到重点评估。",
+      "impact": "短期通胀仍低于2%目标，但油价和日元疲弱可能在后续月份推高进口及生活成本。",
+      "whyItMatters": "通胀数据直接影响日本央行加息节奏、日元和日本国债定价。",
+      "eventTime": "2026-07-24T07:43:00+08:00",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-june-core-inflation-accelerates-stays-below-boj-target-2026-07-23/",
+          "publishedAt": "2026-07-24T07:43:00+08:00"
+        }
+      ]
+    },
+    {
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "asia-markets-oil-inflation-shock-20260724",
+      "category": "全球资本市场",
+      "importance": "high",
+      "title": "布伦特油价重返100美元上方，亚洲股债同步承压",
+      "summary": "布伦特原油在红海油轮遇袭后维持每桶100美元上方，本月涨幅接近40%。亚洲股市下跌，日经225一度跌近3%，市场重新计入通胀与加息风险，美元指数升至约101.45。",
+      "impact": "能源输入成本、债券收益率和美元同步上升，对航空、制造、消费及新兴市场资产形成压力。",
+      "whyItMatters": "红海与霍尔木兹海峡的双重运输风险已经从地缘事件传导到全球通胀和资产定价。",
+      "eventTime": "2026-07-24T09:20:00+08:00",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-24/",
+          "publishedAt": "2026-07-24T09:20:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-set-weekly-rise-amid-red-sea-shipping-attacks-kazakhstan-output-cuts-2026-07-24/",
+          "publishedAt": "2026-07-24T09:36:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-rides-yield-surge-middle-east-trade-wars-raise-inflation-stakes-2026-07-24/",
+          "publishedAt": "2026-07-24T08:52:00+08:00"
+        }
+      ]
+    },
+    {
+      "imageUrl": null,
+      "imageSource": null,
+      "id": "spp-west-grid-heat-advisory-20260724",
+      "category": "DevOps/SRE",
+      "importance": "medium",
+      "title": "美国中部电网延长高温运行警戒，机组故障与可再生能源波动叠加",
+      "summary": "美国西南电力联营体将西部平衡区的保守运行警戒延长至7月25日零时。高温、发电机组意外停运、用电需求及风光出力不确定性令备用容量承压。",
+      "impact": "数据中心、云服务和关键基础设施运营方需关注区域供电可靠性与应急电源状态。",
+      "whyItMatters": "极端天气和电源波动是基础设施容量规划、故障演练和业务连续性的直接风险。",
+      "eventTime": "2026-07-24T10:57:00+08:00",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-grid-operator-extends-advisory-amid-heat-outage-risks-2026-07-24/",
+          "publishedAt": "2026-07-24T10:57:00+08:00"
+        }
+      ]
+    }
+  ],
+  "market": {
+    "updatedAt": "2026-07-24T12:30:00+08:00",
+    "marketStatus": "mixed",
+    "indices": [
+      {
+        "symbol": "IXIC",
+        "name": "纳斯达克综合指数",
+        "value": 25137.69,
+        "changePercent": -2.15,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "SPX",
+        "name": "标普500指数",
+        "value": 7408.3,
+        "changePercent": -1.21,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "DJI",
+        "name": "道琼斯工业平均指数",
+        "value": 51711.65,
+        "changePercent": -0.97,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NDX",
+        "name": "纳斯达克100指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "RUT",
+        "name": "罗素2000指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "SSEC",
+        "name": "上证指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "CSI300",
+        "name": "沪深300指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "HSI",
+        "name": "恒生指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "HSTECH",
+        "name": "恒生科技指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "N225",
+        "name": "日经225指数",
+        "value": 64317.52,
+        "changePercent": -3.17,
+        "unit": "点",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
+      }
+    ],
+    "megaCapStocks": [
+      {
+        "symbol": "AAPL",
+        "name": "苹果",
+        "value": 321.66,
+        "changePercent": -1.307,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "微软",
+        "value": 381.58,
+        "changePercent": -2.28,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "英伟达",
+        "value": 208.76,
+        "changePercent": -1.528,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "value": 317.69,
+        "changePercent": -7.168,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "亚马逊",
+        "value": 233.66,
+        "changePercent": -4.56,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "value": 606.1,
+        "changePercent": -3.379,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "特斯拉",
+        "value": 319.69,
+        "changePercent": -14.561,
+        "unit": "美元",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T08:15:00+08:00",
+        "marketStatus": "closed"
+      }
+    ],
+    "assets": [
+      {
+        "symbol": "VIX",
+        "name": "VIX波动率指数",
+        "value": null,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-23",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "US10Y",
+        "name": "美国10年期国债收益率",
+        "value": null,
+        "changePercent": null,
+        "unit": "%",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "DXY",
+        "name": "美元指数",
+        "value": 101.45,
+        "changePercent": null,
+        "unit": "点",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T08:52:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "USDCNY",
+        "name": "美元兑人民币",
+        "value": null,
+        "changePercent": null,
+        "unit": "人民币",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "GOLD",
+        "name": "现货黄金",
+        "value": null,
+        "changePercent": null,
+        "unit": "美元/盎司",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "unknown"
+      },
+      {
+        "symbol": "WTI",
+        "name": "WTI原油",
+        "value": 91.2,
+        "changePercent": null,
+        "unit": "美元/桶",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T11:30:00+08:00",
+        "marketStatus": "open"
+      },
+      {
+        "symbol": "BTC",
+        "name": "比特币",
+        "value": 65349,
+        "changePercent": -0.416,
+        "unit": "美元",
+        "tradingDate": "2026-07-24",
+        "updatedAt": "2026-07-24T12:30:00+08:00",
+        "marketStatus": "open"
+      }
+    ]
+  }
+}

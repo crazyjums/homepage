@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T18:30:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "title": "全球重要资讯每日简报",
+  "focus": [
+    "美国新一轮关税措施落地，贸易伙伴开始评估成本与反制空间。",
+    "中东冲突继续影响能源运输、油价和全球风险偏好。",
+    "中国央行安排大额逆回购，短期流动性与政策预期受到关注。",
+    "AI带动存储芯片需求扩张，中国存储企业的定价权和外部审查同步上升。"
+  ],
+  "topStory": "美国对多个贸易伙伴实施新关税，叠加中东冲突对能源运输的冲击，全球市场正在同时面对贸易成本上升与供应链风险；中国则通过流动性工具应对短期资金需求，AI芯片景气仍是科技产业的重要主线。",
+  "editorialNote": "本期为2026年7月26日晚间版。内容以近期公开报道为基础；涉及军事冲突、政策表态和市场影响的内容均按报道状态标注，未将单一来源说法表述为已确认事实。",
+  "updateMode": "full",
+  "news": [
+    {"id":"us-tariffs-60-partners-2026-07-24","category":"中美关系","importance":"high","title":"美国对60个贸易伙伴实施新一轮关税措施","summary":"美国宣布对包括欧盟、台湾、日本、韩国和瑞士在内的多个贸易伙伴实施新的关税安排，部分国家的综合税率达到10%或12.5%。","impact":"关税将推高跨境采购与制造成本，企业可能重新调整供应链、库存和定价策略。","whyItMatters":"关税范围扩大后，贸易政策将从双边摩擦变成影响全球企业经营的长期变量。","eventTime":"2026-07-24T04:03:00Z","status":"confirmed","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/world/us/trump-imposes-forced-labor-duties-60-trading-partners-as-10-us-tariffs-expire-2026-07-24/","publishedAt":"2026-07-24T04:03:00Z"}]},
+    {"id":"pboC-reverse-repos-2-1-trillion-2026-07-24","category":"宏观经济与投资","importance":"high","title":"中国央行将通过逆回购投放2.1万亿元流动性","summary":"中国人民银行宣布将在7月29日至8月3日期间开展隔夜逆回购操作，以满足银行体系短期流动性需求。","impact":"短期资金面获得支持，但市场仍会关注工具使用频率、资金价格和后续政策取向。","whyItMatters":"大额流动性安排体现出央行对资金面平稳和金融市场预期的重视。","eventTime":"2026-07-24T08:00:00Z","status":"confirmed","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/chinas-pboc-conduct-overnight-reverse-repos-inject-total-21-trillion-yuan-2026-07-24/","publishedAt":"2026-07-24T08:00:00Z"}]},
+    {"id":"china-memory-chips-ai-boom-2026-07-24","category":"AI与大模型","importance":"high","title":"中国存储芯片企业受益于AI需求增长，也面临外部审查","summary":"长鑫存储和长江存储等企业在AI带动的DRAM与闪存需求增长中扩大影响力，并在国内市场获得更强的议价能力。","impact":"存储芯片价格和供应格局变化可能传导至服务器、手机和云计算成本，同时带来更严格的出口管制风险。","whyItMatters":"存储芯片正在从周期性配件变成AI基础设施的重要瓶颈，产业竞争和政策竞争同步加剧。","eventTime":"2026-07-24T06:00:00Z","status":"confirmed","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/world/china/chinas-memory-chip-makers-ride-ai-boom-new-power-us-scrutiny-2026-07-24/","publishedAt":"2026-07-24T06:00:00Z"}]},
+    {"id":"middle-east-oil-shipping-risk-2026-07-23","category":"全球重要事件","importance":"high","title":"中东冲突继续推高能源运输风险","summary":"美国与伊朗之间的军事行动和红海航运威胁仍在影响油轮航线，布伦特原油一度升破每桶95美元。","impact":"能源价格上涨会通过运输、化工和制造业成本传导至通胀与利率预期。","whyItMatters":"霍尔木兹海峡和红海是全球能源供应链的关键通道，航运变化会迅速反映到市场定价。","eventTime":"2026-07-23T08:00:00Z","status":"developing","imageUrl":null,"imageSource":null,"sources":[{"name":"The Guardian","url":"https://www.theguardian.com/world/2026/jul/22/oil-price-increases-middle-east-conflict-escalates-us-iran","publishedAt":"2026-07-22T08:00:00Z"}]},
+    {"id":"china-taiwan-live-fire-drills-2026-07-23","category":"台海问题","importance":"high","title":"中国在台湾海峡附近展开两天实弹演练","summary":"中国宣布在福建附近海域开展为期两天的实弹演练，台湾方面对此表示抗议并称其增加区域紧张。","impact":"军事活动可能影响区域航运、航空安排和台海危机沟通，也会加重周边国家的安全评估压力。","whyItMatters":"演训发生在中美外交接触之后，台海军事信号与外交互动之间的联动值得持续观察。","eventTime":"2026-07-23T00:00:00Z","status":"confirmed","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/world/asia-pacific/china-announces-live-fire-drills-taiwan-strait-2026-07-23/","publishedAt":"2026-07-23T00:00:00Z"}]},
+    {"id":"trump-eu-google-fines-investigation-2026-07-24","category":"科技商业","importance":"high","title":"美国将调查欧盟对科技公司的罚款与监管做法","summary":"美国总统表示将调查欧盟对Google等美国科技公司的罚款和监管安排，相关决定可能进一步加剧欧美贸易与数字监管争议。","impact":"跨境数字服务、平台合规和大型科技公司的海外经营成本可能继续上升。","whyItMatters":"数字监管争端正从竞争政策延伸到关税与贸易政策，可能改变全球科技公司的合规布局。","eventTime":"2026-07-24T12:00:00Z","status":"developing","imageUrl":null,"imageSource":null,"sources":[{"name":"AP News","url":"https://apnews.com/article/b7b91605d5702d1e57b8beb14edc5292","publishedAt":"2026-07-24T12:00:00Z"}]},
+    {"id":"volkswagen-2026-sales-outlook-2026-07-24","category":"科技商业","importance":"medium","title":"大众汽车放弃2026年销售增长预期","summary":"大众汽车下调全年展望，关税、重组成本和中国市场竞争压力成为影响其经营计划的重要因素。","impact":"传统汽车企业将更重视成本控制、区域产能调整和电动化产品的盈利能力。","whyItMatters":"全球汽车业同时面对贸易壁垒、能源成本和中国品牌竞争，行业重组压力仍在增加。","eventTime":"2026-07-24T10:00:00Z","status":"confirmed","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/video/watch/idRW051324072026RP1/","publishedAt":"2026-07-24T10:00:00Z"}]},
+    {"id":"xpeng-x9-recall-2026-07-24","category":"科技商业","importance":"medium","title":"小鹏汽车召回逾3.3万辆X9车辆","summary":"中国市场监管部门公布信息显示，小鹏汽车将召回部分X9车型，原因与安全隐患有关。","impact":"召回事件会增加车企质量管理和售后服务成本，也会影响消费者对智能汽车安全性的信心。","whyItMatters":"新能源汽车规模扩大后，软件、传感器和电池系统的质量管理成为行业竞争的重要组成部分。","eventTime":"2026-07-24T03:00:00Z","status":"confirmed","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/business/autos-transportation/china-strategy/","publishedAt":"2026-07-24T03:00:00Z"}]},
+    {"id":"global-tech-stocks-oil-risk-2026-07-22","category":"全球资本市场","importance":"high","title":"油价上涨与科技股财报预期交织影响全球市场","summary":"中东冲突推动油价走高，美股在大型科技公司财报公布前保持谨慎，美元与美债收益率同步受到关注。","impact":"能源通胀和AI盈利预期将共同影响权益资产估值与市场波动率。","whyItMatters":"市场正在同时交易地缘风险和AI增长逻辑，两个主题的此消彼长决定风险资产方向。","eventTime":"2026-07-22T01:08:00Z","status":"confirmed","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-22/","publishedAt":"2026-07-22T01:08:00Z"}]},
+    {"id":"france-spain-wildfires-2026-07-24","category":"全球重要事件","importance":"medium","title":"法国与西班牙山火引发大规模疏散","summary":"法国西南部和西班牙多地山火蔓延，数十万人受到疏散和旅行影响，极端高温与干燥天气增加灭火难度。","impact":"高温和山火将影响旅游、保险、电力与公共应急资源配置。","whyItMatters":"极端天气从单次灾害逐渐转化为影响基础设施与经济活动的长期风险。","eventTime":"2026-07-24T06:30:00Z","status":"developing","imageUrl":null,"imageSource":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/business/environment/more-than-10000-evacuated-southwestern-france-wildfire-spreads-2026-07-23/","publishedAt":"2026-07-23T06:30:00Z"}]}
+  ],
+  "market": {
+    "updatedAt": "2026-07-26T18:30:00+08:00",
+    "marketStatus": "closed",
+    "indices": [
+      {"symbol":"IXIC","name":"纳斯达克指数","value":null,"changePercent":null,"unit":"点","tradingDate":"2026-07-24","updatedAt":"2026-07-26T18:30:00+08:00","marketStatus":"closed"},
+      {"symbol":"SPX","name":"标普500指数","value":null,"changePercent":null,"unit":"点","tradingDate":"2026-07-24","updatedAt":"2026-07-26T18:30:00+08:00","marketStatus":"closed"},
+      {"symbol":"N225","name":"日经225指数","value":null,"changePercent":null,"unit":"点","tradingDate":"2026-07-24","updatedAt":"2026-07-26T18:30:00+08:00","marketStatus":"closed"}
+    ],
+    "megaCapStocks": [],
+    "assets": [
+      {"symbol":"BRENT","name":"布伦特原油","value":95.24,"changePercent":3.0,"unit":"美元/桶","tradingDate":"2026-07-23","updatedAt":"2026-07-26T18:30:00+08:00","marketStatus":"closed"}
+    ]
+  }
+}
